@@ -1,0 +1,947 @@
+title,author,price,pages,avg_reviews,n_reviews,star5,star4,star3,star2,star1,publisher,media_avaliacao
+Becoming a Data Head: How to Think Speak and Understand Data Science Statistics and Machine Learning,"[Alex J. Gutman,Jordan Goldmeier]",24.49,272,4.6,184,0.74,0.18,0.05,0.02,0.01,Wiley,0.308
+Ace the Data Science Interview: 201 Real Interview Questions Asked FAANG Tech Startups & Wall Street,"[Nick Singh,Kevin Huo]",26,301,4.5,599,0.77,0.1,0.06,0.03,0.04,Ace the Data Science Interview (August 16 2021),0.302
+Fundamentals of Data Engineering: Plan and Build Robust Data Systems,"[Joe Reis,Matt Housley]",50.76,446,5,33,0.96,0.04,0,0,0,OReilly Media,0.330666666666667
+Essential Math for Data Science: Take Control of Your Data with Fundamental Linear Algebra Probability and Statistics,[Thomas Nield],44.8,347,4.5,27,0.79,0.05,0.05,0.05,0.05,OReilly Media,0.296666666666667
+Data Science for Business: What You Need to Know about Data Mining and Data-Analytic Thinking,"[Foster Provost,Tom Fawcett]",36.99,413,4.5,970,0.71,0.15,0.08,0.03,0.03,OReilly Media,0.298666666666667
+Data Science from Scratch: First Principles with Python,[Joel Grus],45.22,406,4.4,594,0.65,0.19,0.08,0.04,0.04,OReilly Media,0.291333333333333
+Practical Statistics for Data Scientists: 50+ Essential Concepts Using R and Python,"[Peter Bruce,Andrew Bruce et al.]",24.88,368,4.6,655,0.76,0.14,0.06,0.02,0.02,OReilly Media,0.306666666666667
+Python for Data Science: A Hands-On Introduction,[Yuli Vasiliev],28.49,240,4.3,6,0.78,0.22,0,0,0,No Starch Press (August 2 2022),0.318666666666667
+Practical Linear Algebra for Data Science: From Core Concepts to Applications Using Python,[Mike Cohen],69.99,328,,0,0,0,0,0,0,OReilly Media,0
+Data Science (The MIT Press Essential Knowledge series),,9.61,280,4.5,383,0.68,0.21,0.06,0.03,0.02,The MIT Press,0.3
+Data Science For Dummies (For Dummies (Computer/Tech)),[Lillian Pierson],25.49,432,4.6,35,0.73,0.17,0.1,0,0,For Dummies,0.308666666666667
+Azure Data Engineer Associate Certification Guide: A hands-on reference guide to developing your data engineering skills and preparing for the DP-203 exam,[Newton Alex],49.99,574,4.1,16,0.56,0.28,0.16,0,0,Packt Publishing (February 28 2022),0.293333333333333
+Data Pipelines with Apache Airflow,"[Bas P. Harenslak,Julian Rutger de Ruiter]",47.62,480,4.7,44,0.77,0.16,0.03,0.04,0,Manning (April 27 2021),0.310666666666667
+Practical Data Science with Python: Learn tools and techniques from hands-on examples to extract insights from data,[Nathan George],51.99,620,4.7,21,0.82,0.08,0.09,0,0,Packt Publishing (September 30 2021),0.312666666666667
+Data Science on AWS: Implementing End-to-End Continuous AI and Machine Learning Pipelines,"[Chris Fregly,Antje Barth]",31.99,521,4.4,135,0.7,0.14,0.05,0.07,0.04,OReilly Media,0.292666666666667
+Data Analysis for Business Economics and Policy,"[GÃ¡bor BÃ©kÃ©s,GÃ¡bor KÃ©zdi]",61.74,738,4.4,26,0.7,0.13,0.06,0.06,0.05,Cambridge University Press (May 6 2021),0.291333333333333
+Machine Learning Design Interview: Machine Learning System Design Interview,[Khang Pham],34.15,210,3.6,57,0.47,0.15,0.08,0.07,0.22,Independently published (April 29 2022),0.236666666666667
+Hands-On Data Analysis with Pandas: A Python data science handbook for data collection wrangling analysis and visualization 2nd Edition,"[Stefanie Molin,Ken Jee]",35.67,788,4.3,64,0.67,0.18,0.04,0.04,0.07,Packt Publishing,0.289333333333333
+Business Data Science: Combining Machine Learning and Economics to Optimize Automate and Accelerate Business Decisions,[Matt Taddy],33.43,352,4.5,143,0.76,0.11,0.04,0.03,0.07,McGraw Hill,0.299333333333333
+The Art of Statistics: How to Learn from Data,[David Spiegelhalter],17.99,448,4.6,2764,0.73,0.19,0.05,0.01,0.01,Basic Books (August 17 2021),0.306
+Cleaning Data for Effective Data Science: Doing the other 80% of the work with Python R and command-line tools,[David Mertz],39.99,498,4.8,27,0.92,0.08,0,0,0,Packt Publishing (March 31 2021),0.328
+Everything Data Analytics-A Beginners Guide to Data Literacy: Understanding the Processes That Turn Data Into Insights (Guides for Data Analytics Data Visualization and Communicating Data),,14.49,148,4.2,17,0.55,0.24,0.13,0.08,0,Kenneth Michael Fornari (May 24 2022),0.284
+Effective Data Science Infrastructure: How to make data scientists productive,[Ville Tuulos],49.99,352,5,5,1,0,0,0,0,Manning (August 16 2022),0.333333333333333
+Python Data Science Handbook: Essential Tools for Working with Data,[Jake VanderPlas],66.49,550,,0,0,0,0,0,0,OReilly Media,0
+The Enterprise Big Data Lake: Delivering the Promise of Big Data and Data Science,[Alex Gorelik],40.1,224,4.3,71,0.59,0.21,0.11,0.05,0.04,OReilly Media,0.284
+Data-Driven Science and Engineering: Machine Learning Dynamical Systems and Control,"[Steven L. Brunton,J. Nathan Kutz]",58.49,614,4.6,14,0.9,0.1,0,0,0,Cambridge University Press,0.326666666666667
+Hands-On Data Science for Marketing: Improve your marketing strategies with machine learning using Python and R,[Yoon Hyup Hwang],44.99,464,4.3,63,0.59,0.23,0.09,0.06,0.03,Packt Publishing (March 29 2019),0.286
+Be Data Driven: How Organizations Can Harness the Power of Data,[Jordan Morrow],34.99,240,5,1,1,0,0,0,0,Kogan Page,0.333333333333333
+Data Science Projects with Python: A case study approach to gaining valuable insights from real data with machine learning 2nd Edition,[Stephen Klosterman],36.99,432,4.6,52,0.79,0.13,0.04,0.05,0,Packt Publishing,0.312666666666667
+The Kaggle Book: Data analysis and machine learning for competitive data science,"[Konrad Banachewicz,Luca Massaron et al.]",39.94,530,4.6,68,0.81,0.05,0.05,0.07,0.02,Packt Publishing (April 22 2022),0.304
+Think Like a Data Scientist: Tackle the data science process step--step,[Brian Godsey],29.59,328,4.5,31,0.6,0.36,0.02,0.02,0,Manning,0.302666666666667
+Designing Data-Intensive Applications: The Big Ideas Behind Reliable Scalable and Maintainable Systems,[Martin Kleppmann],23.37,611,4.8,3167,0.85,0.09,0.03,0.01,0.02,OReilly Media,0.316
+Data Smart: Using Data Science to Transform Information into Insight,[John W. Foreman],21.1,432,4.5,346,0.7,0.17,0.07,0.04,0.02,Wiley,0.299333333333333
+Python for Data Analysis: Data Wrangling with pandas NumPy and Jupyter,[Wes McKinney],62.99,579,5,1,1,0,0,0,0,OReilly Media,0.333333333333333
+Modern Data Science with R (Chapman & Hall/CRC Texts in Statistical Science),,72.59,632,3.9,9,0.69,0.15,0.15,0,0,Chapman and Hall/CRC,0.3
+Machine Learning: 4 Books in 1: The #1 Beginners Guide to Master the Basics of Python Programming Learn the Art of Data Science and Build Artificial Intelligence,[Andrew Park],25.97,342,4.6,344,0.81,0.1,0.03,0.01,0.05,Independently published (July 20 2022),0.307333333333333
+Building Big Data Pipelines with Apache Beam: Use a single programming model for both batch and stream data processing,[Jan Lukavsky],46.99,342,3.9,11,0.55,0.19,0.13,0.13,0,Packt Publishing (January 21 2022),0.277333333333333
+Algorithmic Finance: A Companion To Data Science,[Christopher Hian-ann Ting],116.85,408,,0,0,0,0,0,0,WSPC (May 6 2022),0
+Naked Statistics: Stripping the Dread from the Data,,11.69,304,4.6,2271,0.72,0.19,0.06,0.02,0.02,W. W. Norton & Company,0.306666666666667
+Bayesian Ideas and Data Analysis: An Introduction for Scientists and Statisticians (Chapman & Hall/CRC Texts in Statistical Science),,64.1,516,4,14,0.55,0.19,0.08,0.1,0.08,CRC Press,0.268666666666667
+Julia Data Science,"[Jose Storopoli,Rik Huijzer et al.]",31.99,170,4.5,9,0.74,0.26,0,0,0,Independently published (October 28 2021),0.316
+Listening to People: A Practical Guide to Interviewing Participant Observation Data Analysis and Writing It All Up (Chicago Guides to Writing Editing and Publishing),,19,333,4.5,33,0.73,0.16,0.07,0.05,0,University of Chicago Press (October 15 2021),0.306666666666667
+Doing Data Science: Straight Talk from the Frontline,"[""Cathy ONeil"",Rachel Schutt]",26.3,408,4.3,172,0.6,0.24,0.07,0.05,0.03,OReilly Media,0.286666666666667
+Microsoft Power BI Quick Start Guide: Bring your data to life through data modeling visualization digital storytelling and more 2nd Edition,"[Devin Knight,Mitchell Pearson et al.]",28.49,294,4.3,142,0.57,0.23,0.14,0.03,0.02,Packt Publishing,0.284666666666667
+R in Action Third Edition: Data analysis and graphics with R and Tidyverse,[Robert I. Kabacoff],56.99,656,4.6,8,0.82,0.18,0,0,0,Manning,0.321333333333333
+Data Science Ethics: Concepts Techniques and Cautionary Tales,[David Martens],37.2,272,5,2,1,0,0,0,0,Oxford University Press (June 24 2022),0.333333333333333
+Data Science and Machine Learning: Mathematical and Statistical Methods (Chapman & Hall/CRC Machine Learning & Pattern Recognition),,77.43,510,4.8,37,0.84,0.09,0.07,0,0,Chapman and Hall/CRC,0.318
+Data Mesh in Action,"[Jacek Majchrzak,Sven Balnojan et al.]",69.99,300,,0,0,0,0,0,0,Manning (November 22 2022),0
+The Machine Learning Solutions Architect Handbook: Create machine learning platforms to run solutions in an enterprise setting,[David Ping],43.97,442,4.7,39,0.82,0.12,0.06,0,0,Packt Publishing (January 21 2022),0.317333333333333
+Practical Big Data Analytics: Hands-on techniques to implement enterprise analytics and machine learning using Hadoop Spark NoSQL and R,[Nataraj Dasgupta],44.99,412,3.8,7,0.49,0.17,0.17,0.17,0,Packt Publishing (January 15 2018),0.265333333333333
+Simplify Big Data Analytics with Amazon EMR: A beginners guide to learning and implementing Amazon EMR for building data analytics solutions,[Sakti Mishra],46.99,430,5,9,1,0,0,0,0,Packt Publishing (March 25 2022),0.333333333333333
+Bootstrap:Data Science Workbook,"[Emmanuel Schanzer,Kathi Fisler et al.]",4.73,148,,0,0,0,0,0,0,Lulu.com (August 14 2020),0
+Amazon Redshift Cookbook: Recipes for building modern data warehousing solutions,"[Shruti Worlikar,Thiyagarajan Arumugam et al.]",51.99,384,4.5,23,0.66,0.24,0.11,0,0,Packt Publishing (July 23 2021),0.306
+SQL for Data Analytics: Harness the power of SQL to extract insights from data 3rd Edition,"[Jun Shan,Matt Goldwasser et al.]",44.99,540,5,6,1,0,0,0,0,Packt Publishing,0.333333333333333
+Communicating with Data: Making Your Case With Data,[Carl Allchin],40.99,340,5,4,1,0,0,0,0,OReilly Media,0.333333333333333
+Data Analytics: A Small Data Approach (Chapman & Hall/CRC Data Science Series),,89.95,257,5,2,1,0,0,0,0,Chapman and Hall/CRC,0.333333333333333
+Data Structures the Fun Way: An Amusing Adventure with Coffee-Filled Examples,[Jeremy Kubica],29.99,304,,0,0,0,0,0,0,No Starch Press (November 8 2022),0
+Data Analysis with R - Second Edition: A comprehensive guide to manipulating analyzing and visualizing data in R,[Tony Fischetti],38.82,570,4.4,20,0.74,0.07,0.08,0.11,0,Packt Publishing,0.296
+Data Engineering with AWS: Learn how to design and build cloud-based data transformation pipelines using AWS,[Gareth Eagar],39.99,482,4.4,48,0.63,0.22,0.08,0.03,0.04,Packt Publishing (December 29 2021),0.291333333333333
+Data Science: Advanced Guide to Learn the Realms of Data Science Effectively,[Benjamin Smith],19.99,212,,0,0,0,0,0,0,Independently published (January 4 2021),0
+Data Science for Supply Chain Forecasting,[Nicolas Vandeput],49.39,280,4.6,63,0.71,0.16,0.11,0.02,0,De Gruyter,0.304
+Heard In Data Science Interviews: Over 650 Most Commonly Asked Interview Questions & Answers,[Kal Mishra],37.99,240,3.2,52,0.37,0.07,0.2,0.13,0.23,CreateSpace Independent Publishing Platform (October 3 2018),0.214666666666667
+DATA ANALYTICS: A Comprehensive Beginnerâ€™s Guide To Learn About The Realms Of Data Analytics From A-Z,[Mr Benjamin Smith],19.99,153,4.2,37,0.59,0.15,0.2,0.06,0,Independently published (April 26 2020),0.284666666666667
+Introduction to Data Science: Data Analysis and Prediction Algorithms with R (Chapman & Hall/CRC Data Science Series),,77.28,713,4.8,34,0.86,0.07,0.05,0.02,0,Chapman and Hall/CRC,0.318
+Introduction to Machine Learning with R: Rigorous Mathematical Analysis,[Scott V. Burger],49.99,226,4.1,21,0.59,0.09,0.19,0.07,0.07,OReilly Media,0.272666666666667
+PYTHON FOR DATA SCIENCE: The Ultimate Beginnersâ€™ Guide to Learning Python Data Science Step Step,[Mr Ethan Williams],19.99,199,4.3,68,0.62,0.19,0.08,0.06,0.05,Independently published (August 18 2019),0.284666666666667
+97 Things About Ethics Everyone in Data Science Should Know: Collective Wisdom from the Experts,[Bill Franks],30.99,346,4.1,18,0.63,0.13,0.08,0.08,0.08,OReilly Media,0.276666666666667
+Data Science for Marketing Analytics: A practical guide to forming a killer marketing strategy through data analysis with Python 2nd Edition,"[Mirza Rahim Baig,Gururajan Govindan et al.]",36.99,636,4.6,51,0.61,0.34,0.05,0,0,Packt Publishing,0.304
+Video Data Analysis: How to Use 21st Century Video in the Social Sciences,"[Anne Nassauer,Nicolas M. Legewie]",45,320,5,1,1,0,0,0,0,SAGE Publications Ltd,0.333333333333333
+The Beginners Guide to Data Science,"[Robert Ball,Brian Rague]",69.99,382,,0,0,0,0,0,0,Springer,0
+Hands-On Data Science with R: Techniques to perform data manipulation and mining to build smart analytical models using R,"[Vitor Bianchi Lanzetta,Nataraj Dasgupta et al.]",39.99,420,4.1,5,0.37,0.4,0.23,0,0,Packt Publishing (November 30 2018),0.276
+The Data Science Handbook: Advice and Insights from 25 Amazing Data Scientists,"[Carl Shan,William Chen et al.]",24.99,346,4.4,55,0.71,0.11,0.1,0.07,0.01,Data Science Bookshelf The (June 19 2015),0.296
+Machine Learning and Data Science Blueprints for Finance: From Building Trading Strategies to Robo-Advisors Using Python,"[Hariom Tatsat,Sahil Puri et al.]",44.49,432,4.3,51,0.66,0.16,0.07,0.04,0.07,OReilly Media,0.286666666666667
+Practical Python Data Wrangling and Data Quality: Getting Started with Reading Cleaning and Analyzing Data,[Susan McGregor],31.99,,3.5,2,0.5,0.5,0,0,0,OReilly Media,0.3
+Cracking the Data Science Interview: 101+ Data Science Questions & Solutions,[Maverick Lin],11.99,119,3.7,48,0.44,0.2,0.17,0.03,0.16,Independently published (December 17 2019),0.248666666666667
+SQL for Data Scientists: A Beginners Guide for Building Datasets for Analysis,[Renee M. P. Teate],32.49,288,4.7,54,0.75,0.2,0.04,0,0,Wiley,0.311333333333333
+MLOps Engineering at Scale,[Carl Osipov],44.49,344,4.2,3,0.62,0.38,0,0,0,Manning (March 1 2022),0.308
+The Data Science Design Manual (Texts in Computer Science),,52.05,462,4.8,63,0.86,0.09,0.03,0.02,0,Springer,0.319333333333333
+Big Data: A Very Short Introduction (Very Short Introductions),[Dawn E. Holmes],11.07,144,4.4,72,0.67,0.16,0.09,0.07,0.02,Oxford University Press,0.294666666666667
+SQL for Data Analysis: Advanced Techniques for Transforming Data into Insights,[Cathy Tanimura],40.49,360,4.7,50,0.78,0.19,0.03,0,0,OReilly Media,0.316666666666667
+The Cyberwarrior Handbook: A Beginners Guide to Hacking from Recon to Exploitation,[OccupyTheWeb],49.99,352,,0,0,0,0,0,0,No Starch Press (February 7 2023),0
+Comet for Data Science: Enhance your ability to manage and optimize the life cycle of your data science project,"[Angelica Lo Duca,Gideon Mendels]",44.99,402,5,2,1,0,0,0,0,Packt Publishing (August 26 2022),0.333333333333333
+Optimization for Data Analysis,"[Stephen J. Wright,Benjamin Recht]",38.91,238,5,2,1,0,0,0,0,Cambridge University Press,0.333333333333333
+The Self-Taught Computer Scientist: The Beginners Guide to Data Structures & Algorithms,[Cory Althoff],19.49,224,4.5,87,0.75,0.08,0.12,0.02,0.03,Wiley,0.3
+Quantitative Social Science: An Introduction in tidyverse,"[Kosuke Imai,Nora Webb Williams]",49.99,488,3.8,3,0.61,0.39,0,0,0,Princeton University Press (August 2 2022),0.307333333333333
+Data Science Interview: Prep for SQL Panda Python R Language Machine Learning DBMS and RDBMS â€“ And More â€“ The Full Data Scientist Interview Handbook,[DSI ACE PREP],24.99,156,4.7,44,0.91,0.04,0.05,0,0,Data Science Interview Books (January 6 2022),0.324
+The Data Vault Guru: a pragmatic guide on building a data vault,[Mr Patrick Cuba],76.96,676,4.1,13,0.57,0.23,0.1,0.1,0,Independently published (October 6 2020),0.284666666666667
+Responsible Data Science,"[Grant Fleming,Peter C. Bruce]",19.86,304,3.8,8,0.7,0.3,0,0,0,Wiley,0.313333333333333
+Fundamentals of Data Science with MATLAB: Introduction to Scientific Computing Data Analysis and Data Visualization,[Arash Karimpour],26,424,4.5,4,0.5,0.5,0,0,0,Arash Karimpour (July 31 2020),0.3
+Python for Data Science: Clear and Complete Guide to Data Science and Analysis with Python,[Alex Campbell],14.95,197,3.9,9,0.62,0.15,0.23,0,0,Independently published (August 15 2021),0.292666666666667
+Learn Power BI: A comprehensive step--step guide for beginners to learn real-world business intelligence 2nd Edition,[Greg Deckler],44.64,458,4.4,30,0.66,0.17,0.09,0.08,0,Packt Publishing,0.294
+Data Visualization with Excel Dashboards and Reports,[Dick Kusleika],22.99,352,4.4,77,0.63,0.27,0.03,0.04,0.02,Wiley,0.294666666666667
+Data Science For Dummies 2nd Edition,"[Lillian Pierson,Jake Porway]",41.02,384,4.4,205,0.6,0.24,0.13,0.02,0.02,For Dummies,0.294
+Hands-On Data Structures and Algorithms with Python: Store manipulate and access data effectively and boost the performance of your applications 3rd Edition,[Dr. Basant Agarwal],44.99,496,4.6,5,0.58,0.42,0,0,0,Packt Publishing,0.305333333333333
+Business Intelligence Analytics and Data Science: A Managerial Perspective,"[Ramesh Sharda,Dursun Delen et al.]",106.66,512,4.5,273,0.77,0.08,0.07,0.02,0.05,Pearson,0.298
+Guide to Data Science: Brief Introduction to the Quirky World of Data,[Aryan Goyal],14.99,151,5,1,1,0,0,0,0,Independently published (August 15 2022),0.333333333333333
+Machine Learning for Time Series Forecasting with Python,[Francesca Lazzeri],32.49,224,3.9,43,0.53,0.07,0.25,0.12,0.04,Wiley,0.264
+Introduction to Computation: Haskell Logic and Automata (Undergraduate Topics in Computer Science),,33.9,382,5,3,1,0,0,0,0,Springer,0.333333333333333
+Data Science: Concepts and Practice,"[Vijay Kotu,Bala Deshpande]",69.34,568,4.5,9,0.68,0.16,0.16,0,0,Morgan Kaufmann,0.301333333333333
+Inferential Network Analysis (Analytical Methods for Social Research),,54.81,314,4.7,7,0.69,0.31,0,0,0,Cambridge University Press (January 7 2021),0.312666666666667
+Data Science In The Library: Tools and Strategies for Supporting Data-Driven Research and Instruction,[Joel Herndon],80.31,224,,0,0,0,0,0,0,Facet Publishing,0
+Foundational Python for Data Science (Addison-Wesley Data & Analytics Series),,39.99,256,4.3,7,0.5,0.31,0.19,0,0,Pearson,0.287333333333333
+Integrating Data,"[Bill Inmon,Patty Haines et al.]",39.95,134,5,1,1,0,0,0,0,Technics Publications,0.333333333333333
+Bioinformatics Data Skills: Reproducible and Robust Research with Open Source Tools,[Vince Buffalo],45.77,536,4.6,109,0.73,0.18,0.05,0.02,0.02,OReilly Media,0.305333333333333
+Python Crash Course 2nd Edition: A Hands-On Project-Based Introduction to Programming,[Eric Matthes],21.49,544,4.7,7425,0.81,0.13,0.04,0.01,0.01,No Starch Press,0.314666666666667
+The Esri Guide to GIS Analysis Volume 3: Modeling Suitability Movement and Interaction (The ESRI Guide to GIS Analysis 3),[Andy Mitchell],33.93,420,4.4,27,0.7,0.11,0.1,0.09,0,Esri Press,0.294666666666667
+The Applied SQL Data Analytics Workshop: Develop your practical skills and prepare to become a professional data analyst 2nd Edition,"[Matt Goldwasser,Upom Malik et al.]",34.99,484,4.6,40,0.71,0.21,0.08,0,0,Packt Publishing (February 28 2020),0.308666666666667
+Data Mesh: Delivering Data-Driven Value at Scale,[Zhamak Dehghani],51.89,384,4.5,101,0.71,0.15,0.09,0.06,0,OReilly Media,0.302666666666667
+End-to-End Data Science with SASÂ®: A Hands-On Programming Guide,[James Gearheart],39.95,380,4.5,17,0.66,0.25,0.09,0,0,SAS Institute (June 29 2020),0.304666666666667
+An Introduction to Data Science,"[Jeffrey S. Saltz,Jeffrey M. Stanton]",44.86,288,4.4,75,0.65,0.22,0.06,0.04,0.03,SAGE Publications Inc,0.294666666666667
+Probabilistic Machine Learning: An Introduction (Adaptive Computation and Machine Learning series),,99,864,4.4,73,0.76,0.05,0.08,0.02,0.08,The MIT Press (March 1 2022),0.290666666666667
+Computer Science Unleashed: Harness the Power of Computational Systems,,29.95,268,4.9,25,0.94,0.06,0,0,0,Code Energy (March 17 2021),0.329333333333333
+R Statistics Cookbook: Over 100 recipes for performing complex statistical operations with R 3.5,[Francisco Juretig],24.99,448,4.6,22,0.64,0.29,0.07,0,0,Packt Publishing (March 29 2019),0.304666666666667
+Introduction to Statistics: An Intuitive Guide for Analyzing Data and Unlocking Discoveries,[Jim Frost],18.91,255,4.5,199,0.72,0.15,0.05,0.03,0.04,Statistics Jim Publishing (August 13 2020),0.296666666666667
+Algorithms and Data Structures for Massive Datasets,"[Dzejla Medjedovic,Emin Tahirovic et al.]",59.99,304,3.8,3,0.38,0.62,0,0,0,Manning (July 5 2022),0.292
+Data Science (Chapman & Hall/CRC Data Science Series),"[Tiffany Timbers,Trevor Campbell et al.]",59.95,442,,0,0,0,0,0,0,Chapman and Hall/CRC,0
+Data Democratization with Domo: Bring together every component of your business to make better data-driven decisions using Domo,[Jeff Burtenshaw],49.99,576,4.8,6,0.78,0.22,0,0,0,Packt Publishing (June 17 2022),0.318666666666667
+Determannâ€™s Field Guide to Data Privacy Law: International Corporate Compliance (Elgar Compliance Guides),[Lothar Determann],73.08,256,,0,0,0,0,0,0,Edward Elgar Publishing,0
+Data Visualization with Python for Beginners: Visualize Your Data using Pandas Matplotlib and Seaborn (Machine Learning & Data Science for Beginners),,19.99,288,4.1,61,0.51,0.23,0.14,0.05,0.07,AI Publishing LLC (February 14 2020),0.270666666666667
+Practical Synthetic Data Generation: Balancing Privacy and the Broad Availability of Data,"[Khaled El Emam,Lucy Mosquera et al.]",28.49,166,4.1,14,0.48,0.27,0.15,0.1,0,OReilly Media,0.275333333333333
+Data Analysis in Sports Science,"[Gabriel J. Sanders PhD,Corey A. Peacock PhD]",59.99,130,4.7,7,0.68,0.32,0,0,0,Independently published (August 7 2018),0.312
+Python for Geospatial Data Analysis: Theory Tools and Practice for Location Intelligence,[Bonny McClain],66.49,200,,0,0,0,0,0,0,OReilly Media,0
+Data Science for Librarians (Library and Information Science Text Series),,65,168,5,2,1,0,0,0,0,Libraries Unlimited (March 26 2020),0.333333333333333
+Basketball Data Science: With Applications in R (Chapman & Hall/CRC Data Science Series),,43.35,219,4.1,20,0.61,0.12,0.12,0.07,0.07,Chapman and Hall/CRC,0.273333333333333
+Data Analytics for Absolute Beginners: A Deconstructed Guide to Data Literacy: (Introduction to Data Data Visualization Business Intelligence & ... Science Python & Statistics for Beginners),,14.9,153,4.4,309,0.67,0.19,0.09,0.03,0.03,Independently published (July 21 2019),0.298
+Bayesian Data Analysis (Chapman & Hall/CRC Texts in Statistical Science),,78.22,675,4.7,200,0.81,0.11,0.05,0.03,0.01,Chapman and Hall/CRC,0.314
+Murachs Python for Data Analysis (Training & Reference),[Scott Mccoy],58.33,559,4.6,22,0.69,0.25,0.07,0,0,Mike Murach & Associates Inc (August 30 2021),0.310666666666667
+Cracking the Coding Interview: 189 Programming Questions and Solutions,[Gayle Laakmann McDowell],35.95,687,4.7,7563,0.81,0.12,0.04,0.01,0.02,CareerCup,0.312666666666667
+Docker for Data Science: Building Scalable and Extensible Data Infrastructure Around the Jupyter Notebook Server,[Joshua Cook],49.49,278,3.7,10,0.29,0.27,0.27,0.17,0,Apress,0.245333333333333
+Mastering PostgreSQL 13: Build administer and maintain database applications efficiently with PostgreSQL 13 4th Edition,[Hans-Jurgen Schonig],41.99,476,4.2,35,0.64,0.1,0.12,0.09,0.04,Packt Publishing,0.278666666666667
+Data Analysis with Python and PySpark,[Jonathan Rioux],48,456,4.8,7,0.8,0.2,0,0,0,Manning (March 22 2022),0.32
+PYTHON: Learn Coding Programs with Python Programming and Master Data Analysis & Analytics Data Science and Machine Learning with the Complete Crash Course for Beginners - 5 Manuscripts in 1 Book,[TechExp Academy],24.9,400,4.2,282,0.61,0.14,0.11,0.05,0.08,Independently published (December 24 2021),0.274666666666667
+DATA SCIENCE WITH PYTHON: Complete Guide To Understanding Data Analytics And Data Science With Python Programming (Code tutorials),[Craig Berg],9.98,138,,0,0,0,0,0,0,Independently published (June 17 2020),0
+Data Analytics: Practical Guide to Leveraging the Power of Algorithms Data Science Data Mining Statistics Big Data and Predictive Analysis to Improve Business Work and Life,[Arthur Zhang],11.97,280,3.7,17,0.5,0.13,0.07,0.18,0.12,CreateSpace Independent Publishing Platform (March 10 2017),0.247333333333333
+Introduction to Machine Learning,[Etienne Bernard],29.6,424,4.4,11,0.7,0.17,0.13,0,0,Wolfram Media Inc (December 20 2021),0.304666666666667
+Hands-On Data Structures and Algorithms with Kotlin: Level up your programming skills understanding how Kotlins data structure works,"[Chandra Sekhar Nayak,Rivu Chakraborty]",36.99,220,3.6,4,0.65,0.35,0,0,0,Packt Publishing (February 28 2019),0.31
+Asking Smarter Questions: How To Be an Agent of Insight (Using Data Better),[Sam Knowles],39.95,280,,0,0,0,0,0,0,Routledge,0
+Scalable Data Analytics with Azure Data Explorer: Modern ways to query analyze and perform real-time data analysis on large volumes of data,"[Jason Myerscough,Arunee Singhchawla]",51.99,364,5,8,1,0,0,0,0,Packt Publishing (March 17 2022),0.333333333333333
+The Political Philosophy of AI: An Introduction,[Mark Coeckelbergh],19.59,176,3.7,7,0.52,0.14,0.17,0.17,0,Polity,0.267333333333333
+Transformers for Machine Learning: A Deep Dive (Chapman & Hall/CRC Machine Learning & Pattern Recognition),"[Uday Kamath,Kenneth Graham et al.]",54.95,257,3.9,8,0.68,0.16,0.16,0,0,Chapman and Hall/CRC,0.301333333333333
+Predictive Analytics: Data Mining Machine Learning and Data Science for Practitioners (Pearson Business Analytics Series),[Dursun Delen],47.49,350,4.1,12,0.6,0.11,0.18,0.11,0,Pearson FT Press,0.28
+Pre-K-12 Guidelines for Assessment and Instruction in Statistics Education II (GAISE II): A Framework for Statistics and Data Science Education,"[Anna Bargagliotti,Christine Franklin et al.]",15,122,5,4,1,0,0,0,0,American Statistical Association (December 3 2020),0.333333333333333
+Confident Data Skills: How to Work with Data and Futureproof Your Career (Confident Series),,14.64,320,4.7,15,0.66,0.34,0,0,0,Kogan Page,0.310666666666667
+Learning Tableau 2022,"[Joshua N. Milligan,Blair Hutchinson et al.]",55.09,566,5,14,1,0,0,0,0,Packt Publishing,0.333333333333333
+The Data Warehouse Toolkit: The Definitive Guide to Dimensional Modeling 3rd Edition,,40.16,600,4.7,531,0.78,0.15,0.05,0.01,0.01,Wiley,0.312
+Data Science in Education Using R,"[Ryan A. Estrellado,Jesse Mostipak et al.]",48.95,284,4.6,15,0.73,0.17,0.1,0,0,Routledge,0.308666666666667
+Data Mining with Rattle and R: The Art of Excavating Data for Knowledge Discovery (Use R!),,84.99,394,4.3,53,0.68,0.12,0.08,0.07,0.06,Springer,0.288
+Statistics for Beginners in Data Science: Theory and Applications of Essential Statistics Concepts using Python (Machine Learning & Data Science for Beginners),,17.99,188,4.3,22,0.69,0.06,0.06,0.19,0,AI Publishing (April 18 2020),0.283333333333333
+Detecting Regime Change in Computational Finance: Data Science Machine Learning and Algorithmic Trading,"[Jun Chen,Edward P K Tsang]",54.95,138,,0,0,0,0,0,0,Chapman and Hall/CRC,0
+Massive Graph Analytics (Chapman & Hall/CRC Data Science Series),,150,590,,0,0,0,0,0,0,Chapman and Hall/CRC,0
+Practical Data Science with R,"[Nina Zumel,John Mount]",35.74,483,4.5,36,0.71,0.14,0.11,0.05,0,Manning,0.302666666666667
+Neo4j Graph Data Science Certified: Exam Practice Tests,[Cristian Scutaru],14.99,118,4.5,2,0.5,0.5,0,0,0,Independently published (April 1 2021),0.3
+Grokking Machine Learning,[Luis Serrano],47.99,512,4.6,10,0.72,0.14,0.14,0,0,Manning (December 14 2021),0.305333333333333
+Data Science for Immunologists,"[Niclas Thomas,Laura Pallett]",28.06,159,4.7,18,0.68,0.32,0,0,0,CreateSpace Independent Publishing Platform,0.312
+Data Science Analytics and Machine Learning with R,"[Luiz Paulo Favero,Patricia Belfiore et al.]",150,924,,0,0,0,0,0,0,Academic Press,0
+The TensorFlow Workshop: A hands-on guide to building deep learning models from scratch using real-world datasets,"[Matthew Moocarme,Anthony So et al.]",41.99,600,4.3,26,0.54,0.29,0.09,0.08,0,Packt Publishing (December 15 2021),0.286
+Data Action: Using Data for Public Good,[Sarah Williams],33.69,312,4.7,38,0.83,0.07,0.06,0.04,0,The MIT Press (December 8 2020),0.312666666666667
+Data Governance For Dummies,[Jonathan Reichental],34.99,320,,0,0,0,0,0,0,For Dummies,0
+A Criminologists Guide to R: Crime the Numbers (Chapman & Hall/CRC The R Series),[Jacob Kaplan],79.96,434,,0,0,0,0,0,0,Chapman and Hall/CRC,0
+Marketing Analytics: A Practical Guide to Improving Consumer Insights Using Data Techniques,[Mike Grigs],35.99,240,4.4,50,0.68,0.14,0.08,0.07,0.03,Kogan Page,0.291333333333333
+Applied Data Science: Lessons Learned for the Data-Driven Business,"[Martin Braschler,Thilo Stadelmann et al.]",179.99,478,1,1,1,0,0,0,0,Springer,0.333333333333333
+The Pandas Workshop: A comprehensive guide to using Python for data analysis with real-world case studies,"[Blaine Bateman,Saikat Basak et al.]",47.49,744,4.6,10,0.73,0.14,0.13,0,0,Packt Publishing (June 17 2022),0.306666666666667
+Data Modeling for Azure Data Services: Implement professional data design and structures in Azure,[Peter ter Braake],51.99,428,4.6,16,0.58,0.42,0,0,0,Packt Publishing (July 30 2021),0.305333333333333
+SQL for Data Analytics: Perform fast and efficient data analysis with the power of SQL,"[Upom Malik,Matt Goldwasser et al.]",27.89,386,4.4,226,0.68,0.14,0.11,0.04,0.03,Packt Publishing (August 23 2019),0.293333333333333
+Ethics of Data and Analytics: Concepts and Cases,[Kirsten Martin],69.95,474,,0,0,0,0,0,0,Auerbach Publications,0
+Introduction to Computation and Programming Using Python: With Application to Understanding Data (The MIT Press),[John V. Guttag],42.75,472,4.6,561,0.77,0.14,0.06,0.01,0.02,The MIT Press,0.308666666666667
+SQL: 3 books 1 - The Ultimate Beginner Intermediate & Expert Guides To Master SQL Programming Quickly with Practical Exercises,[Mark Reed],24.29,346,4.9,187,0.93,0.07,0,0,0,Independently published (July 10 2022),0.328666666666667
+Machine Learning Bookcamp: Build a portfolio of real-life projects,[Alexey Grigorev],35.99,472,5,7,1,0,0,0,0,Manning (November 23 2021),0.333333333333333
+The Data Model Resource Book Vol. 2: A Library of Data Models for Specific Industries,"[Len Silverston,John A. Zachman]",61.82,576,4,36,0.6,0.11,0.09,0.09,0.1, DM Review,0.266
+Essential PySpark for Scalable Data Analytics: A beginners guide to harnessing the power and ease of PySpark 3,[Sreeram Nudurupati],46.99,322,4.5,16,0.74,0.09,0.08,0.09,0,Packt Publishing (October 29 2021),0.298666666666667
+Cloud Scale Analytics with Azure Data Services: Build modern data warehouses on Microsoft Azure,[Patrik Borosch],54.99,520,4.8,7,0.82,0.18,0,0,0,Packt Publishing (July 23 2021),0.321333333333333
+Can We Trust AI? (Johns Hopkins Wavelengths),"[Rama Chellappa,Eric Niiler]",16.95,224,,0,0,0,0,0,0,Johns Hopkins University Press (November 15 2022),0
+Data Engineering with Python: Work with massive datasets to design data models and automate data pipelines using Python,[Paul Crickard],37.79,356,4.2,95,0.58,0.19,0.1,0.08,0.05,Packt Publishing (October 23 2020),0.278
+Mastering Tableau 2021: Implement advanced business intelligence techniques and analytics with Tableau 3rd Edition,"[Marleen Meier,David Baldwin et al.]",46.99,792,4.4,83,0.7,0.14,0.06,0.02,0.08,Packt Publishing (May 31 2021),0.290666666666667
+Geographical Data Science and Spatial Data Analysis: An Introduction in R (Spatial Analytics and GIS),,51,360,4.5,6,0.49,0.51,0,0,0,SAGE Publications Ltd,0.299333333333333
+Malware Data Science: Attack Detection and Attribution,"[Joshua Saxe,Hillary Sanders]",37.03,272,4.6,87,0.71,0.18,0.08,0.01,0.01,No Starch Press (September 25 2018),0.302666666666667
+Learning Geospatial Analysis with Python: Understand GIS fundamentals and perform remote sensing data analysis using Python 3.7 3rd Edition,[Joel Lawhead],49.99,456,4.4,26,0.62,0.2,0.12,0.06,0,Packt Publishing (September 27 2019),0.292
+The Big Book of Dashboards: Visualizing Your Data Using Real-World Business Scenarios,"[Steve Wexler,Jeffrey Shaffer et al.]",24.49,448,4.6,662,0.72,0.18,0.07,0.02,0.01,Wiley,0.305333333333333
+Machine Learning with R: Expert techniques for predictive modeling 3rd Edition,[Brett Lantz],37.99,458,4.6,232,0.78,0.13,0.05,0.02,0.02,Packt Publishing,0.308666666666667
+Hands-on Programmatic In-house Digital Advertising: Learn Data Design AI Implementation Bidding Strategies and Strategic Thinking (English Edition),[Raghavendra Agarwala],29.95,208,3.5,2,0.5,0.5,0,0,0,BPB Publications (October 4 2021),0.3
+Ontology-Based Information Retrieval for Healthcare Systems,[Vishal Jain],197.02,384,,0,0,0,0,0,0,Wiley-Scrivener,0
+Data Governance: How to Design Deploy and Sustain an Effective Data Governance Program (The Morgan Kaufmann Series on Business Intelligence),,39.17,264,4.3,87,0.66,0.14,0.09,0.04,0.06,Morgan Kaufmann,0.284666666666667
+Data Science in Context: Foundations Challenges Opportunities,"[Alfred Z. Spector,Peter Norvig et al.]",39.99,335,,0,0,0,0,0,0,Cambridge University Press,0
+Python Machine Learning: Machine Learning and Deep Learning with Python scikit-learn and TensorFlow 2 3rd Edition,"[Sebastian Raschka,Vahid Mirjalili]",49.39,770,4.5,387,0.71,0.2,0.04,0.03,0.03,Packt Publishing,0.304
+Machine Learning in Biotechnology and Life Sciences: Build machine learning models using Python and deploy them on the cloud,[Saleh Alkhalifa],49.99,408,4.1,20,0.57,0.18,0.09,0.09,0.08,Packt Publishing (January 28 2022),0.273333333333333
+Data Science and Big Data Analytics: Discovering Analyzing Visualizing and Presenting Data,[EMC Education Services],41.76,432,4.4,186,0.67,0.17,0.08,0.03,0.06,Wiley,0.292666666666667
+Fundamentals of Data Science Part I: Inference and Experiment,[Jared M Maruskin],22.63,314,5,1,1,0,0,0,0,Cayenne Canyon Press (April 30 2021),0.333333333333333
+Graph Neural Networks: Foundations Frontiers and Applications,"[Lingfei Wu,Peng Cui et al.]",85.38,725,4.6,6,0.64,0.36,0,0,0,Springer,0.309333333333333
+Data-Driven Evolutionary Optimization: Integrating Evolutionary Computation Machine Learning and Data Science (Studies in Computational Intelligence 975),,169.99,418,5,1,1,0,0,0,0,Springer,0.333333333333333
+Getting Started with Elastic Stack 8.0: Run powerful and scalable data platforms to search observe and secure your organization,"[Asjad Athick,Shay Banon]",49.99,474,4.7,9,0.83,0.17,0,0,0,Packt Publishing (March 23 2022),0.322
+Functional Aesthetics for Data Visualization,"[Vidya Setlur,Bridget Cogley]",40,336,,0,0,0,0,0,0,Wiley,0
+R Programming for Data Science,[Roger Peng],25,194,4.2,20,0.64,0.14,0.07,0.08,0.07,lulu.com,0.28
+Building Data Science Solutions with Anaconda: A comprehensive starter guide to building robust and complete models,"[Dan Meador,Kevin Goldsmith]",44.99,330,5,13,1,0,0,0,0,Packt Publishing (May 27 2022),0.333333333333333
+Data Lakehouse in Action: Architecting a modern and scalable data analytics platform,[Pradeep Menon],39.99,206,4.3,7,0.45,0.36,0.19,0,0,Packt Publishing (March 17 2022),0.284
+Fundamentals of Data Science Part III: Machine Learning,[Jared M Maruskin],29.95,316,,0,0,0,0,0,0,Cayenne Canyon Press (April 29 2022),0
+Machine Learning and Big Data Analytics Paradigms: Analysis Applications and Challenges (Studies in Big Data 77),,13.32,659,,0,0,0,0,0,0,Springer,0
+Data Analysis in Qualitative Research: Theorizing with Abductive Analysis,"[Stefan Timmermans,Iddo Tavory]",20,208,4.4,3,0.37,0.63,0,0,0,University of Chicago Press,0.291333333333333
+Mastering TensorFlow 2.x: Implement Powerful Neural Nets across Structured Unstructured datasets and Time Series Data (English Edition),[Rajdeep Dua],29.95,418,5,1,1,0,0,0,0,BPB Publications (March 24 2022),0.333333333333333
+The Tableau Workshop: A practical guide to the art of data visualization with Tableau,"[Sumit Gupta,Sylvester Pinto et al.]",46.99,822,4.8,29,0.85,0.09,0.06,0,0,Packt Publishing (April 28 2022),0.319333333333333
+HBR Guide to Data Analytics Basics for Managers (HBR Guide Series),,14.19,256,4.5,371,0.7,0.14,0.11,0.02,0.03,Harvard Business Review Press (April 3 2018),0.297333333333333
+The Hundred-Page Machine Learning Book,[Andriy Burkov],31.99,160,4.6,816,0.81,0.1,0.04,0.02,0.03,Andriy Burkov (January 13 2019),0.309333333333333
+Oracle Database Administration Interview Questions Youll Most Likely Be Asked: Interview Questions Youll Most Likely Be Asked (Job Interview Questions Series),[Vibrant Publishers],23.99,236,4.2,32,0.62,0.14,0.17,0.07,0, is focused on presenting the best texts for learning about technology and business as well as books for test preparation. Categories include programming operating systems and other texts focused on IT. In addition a series of books helps professionals in their own disciplines learn the business skills needed in their professional growth. ,0.287333333333333
+Hypothesis Testing: An Intuitive Guide for Making Data Driven Decisions,[Jim Frost],23.74,381,4.6,101,0.78,0.13,0.02,0.03,0.04,Statistics Jim Publishing (September 14 2020),0.305333333333333
+Game Data Science,"[Magy Seif El-Nasr,Truong-Huy D. Nguyen et al.]",73.09,416,5,6,1,0,0,0,0,Oxford University Press (January 14 2022),0.333333333333333
+The Data Model Resource Book Vol. 3: Universal Patterns for Data Modeling,"[Len Silverston,Paul Agnew]",51.31,648,4.4,37,0.67,0.14,0.06,0.13,0,Wiley,0.29
+Supervised Machine Learning for Text Analysis in R (Chapman & Hall/CRC Data Science Series),,46.02,402,4.5,11,0.75,0.12,0.13,0,0,Chapman and Hall/CRC,0.308
+Combining DataOps MLOps and DevOps: Outperform Analytics and Software Development with Expert Practices on Process Optimization and Automation (English Edition),"[Dr. Kalpesh Parikh,Amit Johri]",29.95,,3,2,0.5,0.5,0,0,0,,0.3
+Categorical Data Analysis for the Behavioral and Social Sciences,"[Razia Azen,Cindy M. Walker]",87.94,314,,0,0,0,0,0,0,Routledge,0
+Big Data and Artificial Intelligence: Complete Guide to Data Science AI Big Data and Machine Learning.,[Hans Weber],24.95,160,4.1,10,0.71,0.13,0.15,0,0,Independently published (September 22 2021),0.301333333333333
+Hands-On Healthcare Data: Taming the Complexity of Real-World Data,[Andrew Nguyen],75.99,242,,0,0,0,0,0,0,OReilly Media,0
+Python Data Cleaning Cookbook: Modern techniques and Python tools to detect and remove dirty data and extract key insights,[Michael Walker],37.13,436,4.8,64,0.83,0.14,0.04,0,0,Packt Publishing (December 11 2020),0.322
+DATA SCIENCE: Simple and Effective Tips and Tricks to Learn Data Science,[Benjamin Smith],15.39,169,3.9,6,0.47,0.34,0.2,0,0,Independently published (August 24 2020),0.287333333333333
+Natural Language Processing with Transformers: Building Language Applications with Hugging Face,"[Lewis Tunstall,Leandro von Werra et al.]",43.09,406,4.6,105,0.78,0.14,0.03,0.05,0,OReilly Media,0.31
+Data Mining for Business Analytics: Concepts Techniques and Applications in Python,"[Galit Shmueli,Peter C. Bruce et al.]",108.99,608,4.5,58,0.76,0.1,0.05,0.03,0.06,Wiley,0.298
+Quantitative Social Science Data with R: An Introduction,[Brian J Fogarty],51,328,4.9,16,0.91,0.09,0,0,0,SAGE Publications Ltd,0.327333333333333
+Mathematics for Machine Learning,,46.54,398,4.7,580,0.8,0.13,0.03,0.02,0.02,Cambridge University Press,0.311333333333333
+Machine Learning for Time-Series with Python: Forecast predict and detect anomalies with state-of-the-art machine learning methods,[Ben Auffarth],49.39,370,4,27,0.53,0.23,0.09,0.06,0.1,Packt Publishing (October 29 2021),0.270666666666667
+Statistics for Health Data Science: An Organic Approach (Springer Texts in Statistics),,76.54,244,4.6,12,0.86,0.14,0,0,0,Springer,0.324
+Python for Data Analysis: Data Wrangling with Pandas NumPy and IPython,[William McKinney],53.99,547,4.6,1631,0.76,0.15,0.05,0.02,0.02,OReilly Media,0.307333333333333
+Python Data Analysis: Perform data collection data processing wrangling visualization and model building using Python 3rd Edition,"[Avinash Navlani,Armando Fandango et al.]",34.99,478,4.7,45,0.84,0.09,0.04,0.03,0,Packt Publishing,0.316
+R Cookbook: Proven Recipes for Data Analysis Statistics and Graphics,"[JD Long,Paul Teetor]",52.39,600,4.5,104,0.71,0.16,0.09,0.04,0,OReilly Media,0.302666666666667
+Microsoft Excel Data Analysis and Business Modeling (Office 2021 and Microsoft 365) (Business Skills),[Wayne Winston],40.99,1168,4.6,51,0.75,0.17,0.03,0.05,0,Microsoft Press,0.308
+Data Analysis for Social Science: A Friendly and Practical Introduction,"[Elena Llaudet,Kosuke Imai]",39.95,256,,0,0,0,0,0,0,Princeton University Press (November 29 2022),0
+Guerrilla Data Analysis Using Microsoft Excel: Overcoming Crap Data and Excel Skirmishes,"[Oz du Soleil,Bill Jelen]",34.95,274,5,3,1,0,0,0,0,Holy Macro! Books,0.333333333333333
+Qualitative Data Analysis: A Methods Sourcebook,"[Matthew B. Miles,A. Michael Huberman et al.]",85.5,408,4.7,197,0.84,0.1,0.04,0.02,0,SAGE Publications Inc,0.317333333333333
+Excel Data Analysis For Dummies (For Dummies (Computer/Tech)),[Paul McFedries],24.49,368,4,8,0.46,0.24,0.15,0.15,0,For Dummies,0.267333333333333
+Data Analysis Using SQL and Excel,[Gordon S. Linoff],38.54,800,4.4,92,0.61,0.25,0.11,0.03,0,Wiley,0.296
+Python for ArcGIS Pro: Automate cartography and data analysis using ArcPy ArcGIS API for Python Notebooks and pandas,"[Silas Toms,Bill Parker et al.]",,586,4.7,50,0.84,0.1,0.04,0.03,0,Packt Publishing (April 29 2022),0.318666666666667
+Python for Excel: A Modern Environment for Automation and Data Analysis,[Felix Zumstein],32.99,335,4.5,178,0.72,0.18,0.03,0.04,0.02,OReilly Media,0.300666666666667
+Storytelling with Data: Lets Practice!,[Cole Nussbaumer Knaflic],24.49,448,4.7,555,0.79,0.13,0.05,0.01,0.01,Wiley,0.31
+Time Series Analysis with Python Cookbook: Practical recipes for exploratory data analysis data preparation forecasting and model evaluation,[Tarek A. Atwan],47.49,630,4.9,10,0.86,0.14,0,0,0,Packt Publishing (June 30 2022),0.324
+Data Driven Fire Administration: An Introduction to Research Methods Statistical Analysis and Analytic Management for the Fire Service,"[H Scott Walker,Karen L. Sears]",59.99,467,,0,0,0,0,0,0,Parkwood publications (August 19 2022),0
+Regression Analysis: An Intuitive Guide for Using and Interpreting Linear Models,[Jim Frost],23.74,355,4.6,127,0.77,0.12,0.07,0.02,0.03,Statistics Jim Publishing (October 16 2020),0.307333333333333
+MASTERING EXCEL DATA & STATISTICAL ANALYSIS: All-In-One Practical Approach to Creating and Analyzing Data Charts And Pivot Tables for Better Business ... Tricks on Data Analysis & Business Modelling,[CARTY BINN],23.37,708,,0,0,0,0,0,0,Independently published (March 31 2022),0
+"Problems for ""Data Analysis for Social Scientists: A Foundational Crash Course""",[Sara Fisher Ellison],10,127,3.5,3,0.63,0.37,0,0,0,Independently published (May 24 2022),0.308666666666667
+Thinking Clearly with Data: A Guide to Quantitative Reasoning and Analysis,"[Ethan Bueno de Mesquita,Anthony Fowler]",28.45,400,4.3,34,0.73,0.07,0.04,0.06,0.09,Princeton University Press (November 16 2021),0.284
+Topological Data Analysis with Applications,"[Gunnar Carlsson,Mikael Vejdemo-Johansson]",42.58,230,5,4,1,0,0,0,0,Cambridge University Press,0.333333333333333
+Storytelling with Data: A Data Visualization Guide for Business Professionals,[Cole Nussbaumer Knaflic],28.49,288,4.6,3313,0.76,0.15,0.05,0.01,0.02,Wiley,0.306
+R in Action: Data Analysis and Graphics with R,[Dr. Rob Kabacoff],51.96,608,4.6,247,0.77,0.13,0.05,0.02,0.03,Manning,0.306
+Excel 2022: The Most Comprehensive Guide to Learn All Formulas and Functions in Just One Week with Step--Step Explanations Practical Examples & Picture Demonstrations.,[Kevin Cooper],19.62,168,4.9,89,0.95,0.02,0.03,0,0,Independently published (May 9 2022),0.328
+Data Analysis: For Continuous School Improvement,[Victoria L. Bernhardt],39.96,426,4.6,242,0.75,0.13,0.09,0.01,0.02,Routledge,0.305333333333333
+Lab Manual for Statistical Analysis,"[Dawn M. McBride,J. Cooper Cutting]",30,128,4.8,14,0.9,0.1,0,0,0,SAGE Publications Inc,0.326666666666667
+Longitudinal Analysis: Modeling Within-Person Fluctuation and Change (Multivariate Applications Series),,76.98,626,4.6,14,0.7,0.18,0.12,0,0,Routledge,0.305333333333333
+Business Intelligence Guidebook: From Data Integration to Analytics,[Rick Sherman],54.95,550,4.4,92,0.69,0.15,0.06,0.06,0.05,Morgan Kaufmann,0.293333333333333
+Data Flow Diagrams - Simply Put!: Process Modeling Techniques for Requirements Elicitation and Workflow Analysis (Advanced Business Analysis Topics),,11.97,118,4.2,33,0.52,0.31,0.1,0.08,0,CreateSpace Independent Publishing Platform (August 1 2016),0.286666666666667
+Julia for Data Analysis,[Bogumil Kaminski],59.99,246,,0,0,0,0,0,0,Manning (December 20 2022),0
+Qualitative Data Analysis: Practical Strategies,[Pat Bazeley],45,584,4.5,9,0.61,0.24,0.15,0,0,SAGE Publications Ltd,0.297333333333333
+Econometric Analysis of Cross Section and Panel Data second edition (The MIT Press),[Jeffrey M. Wooldridge],115,1096,4.5,115,0.75,0.13,0.04,0.03,0.04,The MIT Press,0.299333333333333
+Computational Topology for Biomedical Image and Data Analysis (Focus Series in Medical Physics and Biomedical Engineering),,18.36,116,,0,0,0,0,0,0,CRC Press,0
+R for Data Analysis in easy steps - R Programming essentials,,13.99,192,4.3,129,0.59,0.2,0.15,0.03,0.04,In Easy Steps Limited (March 13 2018),0.286666666666667
+Regression Analysis of Count Data (Econometric Society Monographs Series Number 30),"[A. Colin Cameron,Pravin K. Trivedi]",,436,4.5,6,0.49,0.51,0,0,0,Cambridge University Press,0.299333333333333
+Secondary Data in Mixed Methods Research (Mixed Methods Research Series),,45,264,4.4,4,0.7,0.3,0,0,0,SAGE Publications Inc,0.313333333333333
+Data Analysis: A Bayesian Tutorial,"[Devinderjit Sivia,John Skilling]",47.97,246,4.6,67,0.74,0.16,0.04,0.03,0.02,Oxford University Press,0.302666666666667
+Computational Topology for Data Analysis,"[Tamal Krishna Dey,Yusu Wang]",58.31,452,,0,0,0,0,0,0,Cambridge University Press,0
+Cluster Analysis 5th Edition,[Everitt],51.69,352,4.2,22,0.55,0.18,0.21,0.06,0,Wiley,0.281333333333333
+Intelligent Reliability Analysis Using MATLAB and AI: Perform Failure Analysis and Reliability Engineering using MATLAB and Artificial Intelligence (English Edition),"[Dr. Cherry Bhargava,Dr. Pardeep Kumar Sharma]",19.95,196,,0,0,0,0,0,0,BPB Publications (June 22 2021),0
+Data Analytics: Advanced Guide to Learn the Realms of Data Analytics Effectively,[Benjamin Smith],19.99,205,,0,0,0,0,0,0,Independently published (January 4 2021),0
+Foundations of Crime Analysis: Data Analyses and Mapping,"[Jeffery T. Walker,Grant R. Drawve]",66.95,278,4.1,11,0.57,0.11,0.19,0.12,0,Routledge,0.273333333333333
+Qualitative Data Analysis with NVivo,"[Kristi Jackson,Pat Bazeley]",47,376,4.6,110,0.77,0.14,0.05,0.01,0.02,SAGE Publications Ltd,0.306666666666667
+Data Engineering with Alteryx: Helping data engineers apply DataOps practices with Alteryx,[Paul Houghton],44.99,366,4.8,8,0.83,0.17,0,0,0,Packt Publishing (June 30 2022),0.322
+Pandas 1.x Cookbook: Practical recipes for scientific computing time series analysis and exploratory data analysis using Python 2nd Edition,"[Matt Harrison,Theodore Petrou]",39.99,626,4.3,79,0.63,0.15,0.15,0.07,0,Packt Publishing (February 27 2020),0.289333333333333
+SPSS Survival Manual: A Step Step Guide to Data Analysis Using IBM SPSS,[Pallant],38.25,378,4.7,424,0.8,0.11,0.06,0.01,0.02,Open University Press,0.310666666666667
+Advanced Algorithms and Data Structures,[Marcello La Rocca],45.99,768,4.2,21,0.62,0.23,0.08,0.08,0,Manning (June 29 2021),0.294666666666667
+Recovering Black Storytelling in Qualitative Research (Futures of Data Analysis in Qualitative Research),,34.03,192,4.5,26,0.82,0.09,0.09,0,0,Routledge,0.315333333333333
+Adventures in Social Research: Data Analysis Using IBM SPSS Statistics,"[Earl Robert Babbie,William E. Wagner et al.]",85,512,4.4,116,0.73,0.13,0.04,0.01,0.09,SAGE Publications Inc,0.293333333333333
+Data Analysis: A Model Comparison Approach to Regression ANOVA and Beyond,"[Charles M. Judd,Gary H. McClelland et al.]",73.43,366,4.4,29,0.73,0.05,0.12,0.06,0.05,Routledge,0.292
+Data Analysis with SPSS: A First Course in Applied Statistics,"[Stephen Sweet,Karen Grace-Martin]",105.99,288,4.2,60,0.61,0.2,0.08,0.04,0.08,Pearson,0.283333333333333
+Qualitative and Mixed Methods Data Analysis Using Dedoose: A Practical Approach for Research Across the Social Sciences,"[Michelle Suzanne Salmona,Eli Lieber et al.]",45,280,4.3,18,0.62,0.17,0.13,0.07,0,SAGE Publications Inc,0.287333333333333
+Doing Bayesian Data Analysis: A Tutorial with R JAGS and Stan,[John Kruschke],68.99,776,4.6,176,0.79,0.12,0.03,0.03,0.03,Academic Press,0.307333333333333
+Learning R: A Step--Step Function Guide to Data Analysis,[Richard Cotton],40.99,396,4.4,152,0.66,0.22,0.06,0.02,0.04,OReilly Media,0.296
+Analysis of Panel Data (Econometric Society Monographs),[Cheng Hsiao],49.99,500,,0,0,0,0,0,0,Cambridge University Press,0
+Advanced Statistics in Research: Reading Understanding and Writing Up Data Analysis Results,[Larry Hatcher],59.95,644,4.7,96,0.82,0.1,0.05,0.03,0,Shadow Finch Media LLC,0.314
+Intro to Python for Computer Science and Data Science: Learning to Program with AI Big Data and The Cloud,"[Paul Deitel,Harvey Deitel]",86.69,880,4.7,279,0.82,0.1,0.03,0.03,0.02,Pearson,0.311333333333333
+Social Statistics: Managing Data Conducting Analyses Presenting Results (Sociology Re-Wired),[Thomas J. Linneman],105.63,644,5,3,1,0,0,0,0,Routledge,0.333333333333333
+An Introduction to Analysis of Financial Data with R,[Tsay],53.71,414,4.2,26,0.51,0.29,0.14,0.06,0,Wiley,0.283333333333333
+Undergraduate Lectures on Measurements and Data Analysis (2nd Printing),[Dr. Paul Rumbach],30,212,,0,0,0,0,0,0,Independently published (May 26 2022),0
+Data Structures and Algorithm Analysis in C++ Third Edition (Dover Books on Computer Science),,28.8,624,4.4,39,0.64,0.17,0.09,0.09,0,Dover Publications,0.288666666666667
+Experimental Design and Practical Data Analysis in POSITRON EMISSION TOMOGRAPHY,"[Prof Federico E Turkheimer,Mattia Veronese et al.]",39.9,114,4.5,4,0.74,0.26,0,0,0,CreateSpace Independent Publishing Platform,0.316
+Think Bayes: Bayesian Statistics in Python (Oreilly),[Allen B. Downey],23.98,338,4.5,43,0.79,0.06,0.1,0.04,0.02,OReilly Media,0.306
+Applying Quantitative Bias Analysis to Epidemiologic Data (Statistics for Biology and Health),,53.03,483,5,1,1,0,0,0,0,Springer,0.333333333333333
+PYTHON FOR DATA ANALYSIS: A PRACTICAL GUIDE YOU CANâ€™T MISS TO MASTER DATA USING PYTHON. KEY TOOLS FOR DATA SCIENCE INTRODUCING YOU INTO DATA MANIPULATION DATA VISUALIZATION MACHINE LEARNING.,[ERICK THOMPSON],15.99,117,4.6,7,0.81,0.19,0,0,0,Independently published (September 18 2020),0.320666666666667
+Data Literacy Fundamentals: Understanding the Power & Value of Data (The Data Literacy Series),,34.95,172,4.4,51,0.62,0.22,0.09,0.06,0,Data Literacy Press (July 3 2020),0.291333333333333
+Data Analysis: An Introduction (Quantitative Applications in the Social Sciences),,28.01,88,4.3,15,0.48,0.37,0.15,0,0,SAGE Publications Inc,0.288666666666667
+Hands-On Graph Analytics with Neo4j: Perform graph processing and visualization techniques using connected data across your enterprise,[Estelle Scifo],44.99,510,4.2,23,0.54,0.22,0.17,0.07,0,Packt Publishing (August 21 2020),0.282
+Python for Data Science For Dummies,"[John Paul Mueller,Luca Massaron]",19.89,496,4.4,178,0.62,0.23,0.09,0.03,0.03,For Dummies,0.292
+Problem Solving and Data Analysis: Sat Math Practice Test,[Educational Testing Group],14.95,238,5,2,1,0,0,0,0,Independently published (July 16 2018),0.333333333333333
+Financial Theory with Python: A Gentle Introduction,[Yves Hilpisch],32.99,204,4.3,18,0.58,0.28,0.07,0.08,0,OReilly Media,0.292666666666667
+Think Stats: Exploratory Data Analysis,[Allen B. Downey],25.49,226,4.2,134,0.64,0.16,0.07,0.06,0.07,OReilly Media,0.282666666666667
+Learn T-SQL Querying: A guide to developing efficient and elegant T-SQL code,"[Pedro Lopes,Pam Lahoud]",39.99,484,4.7,41,0.86,0.07,0.04,0.03,0,Packt Publishing (May 3 2019),0.317333333333333
+Analysis of Categorical Data with R (Chapman & Hall/CRC Texts in Statistical Science),,92.7,,4.6,18,0.72,0.19,0.09,0,0,Routledge,0.308666666666667
+Qualitative Data Analysis: An Introduction,[Carol Grbich],42.73,344,4.5,23,0.72,0.15,0.07,0.07,0,SAGE Publications Ltd,0.303333333333333
+Exploratory Data Analysis with R,[Roger Peng],20,208,4.3,7,0.44,0.44,0.11,0,0,lulu.com (April 20 2016),0.286
+Statistics and Data Analysis for Nursing Research,[Denise Polit],113.99,456,4.3,239,0.67,0.13,0.09,0.05,0.06,Pearson,0.286666666666667
+An Introduction to Data Analysis: Quantitative Qualitative and Mixed Methods,[Tiffany Bergin],46,296,4.6,44,0.71,0.2,0.09,0,0,SAGE Publications Ltd,0.308
+Analytics Stories: Using Data to Make Good Things Happen,[Wayne L. Winston],19.89,528,4.8,34,0.83,0.09,0.08,0,0,Wiley,0.316666666666667
+Fuzzy Transforms for Image Processing and Data Analysis: Core Concepts Processes and Applications,"[Ferdinando Di Martino,Salvatore Sessa]",169.99,227,,0,0,0,0,0,0,Springer,0
+Data Analysis with Mplus (Methodology in the Social Sciences),,52,305,4.8,32,0.78,0.22,0,0,0,The Guilford Press,0.318666666666667
+Unstructured Data Analysis: Entity Resolution and Regular Expressions in SAS,[K. Matthew Windham],34.95,166,4.5,2,0.5,0.5,0,0,0,SAS Institute (September 11 2018),0.3
+Spatial Data Analysis: Models Methods and Techniques (SpringerBriefs in Regional Science),,74.99,88,5,1,1,0,0,0,0,Springer,0.333333333333333
+The Good the Bad and the Data: Shane the Lone Ethnographerâ€™s Basic Guide to Qualitative Data Analysis,[Sally Campbell Galman],44.95,103,4.7,24,0.88,0.06,0.06,0,0,Routledge,0.321333333333333
+Codeless Time Series Analysis with KNIME: A practical guide to implementing forecasting models for time series analysis applications,"[Corey Weisinger,Maarit Widmann et al.]",44.99,392,4.7,5,0.75,0.25,0,0,0,Packt Publishing (August 19 2022),0.316666666666667
+An Introduction to Statistics and Data Analysis Using StataÂ®: From Research Design to Final Report,"[Lisa Daniels,Nicholas W. Minot]",74.61,392,4.6,30,0.74,0.16,0.1,0,0,SAGE Publications Inc,0.309333333333333
+Tableau Prep Cookbook: Use Tableau Prep to clean combine and transform your data for analysis,[Hendrik Kleine],39.99,288,4.7,14,0.75,0.25,0,0,0,Packt Publishing (March 19 2021),0.316666666666667
+A Step Step Guide PLS-SEM Data Analysis Using SmartPLS 4 (Partial least squares structural equation modeling),[Yan Piaw Chua],40,329,,0,0,0,0,0,0,Independently published (August 16 2022),0
+Network Security Through Data Analysis: From Data to Action,[Michael Collins],46.63,428,4.5,17,0.72,0.14,0.05,0.09,0,OReilly Media,0.299333333333333
+A Primer in Biological Data Analysis and Visualization Using R,[Gregg Hartvigsen],37.25,216,4.3,8,0.59,0.26,0.15,0,0,Columbia University Press,0.296
+Behavioral Data Analysis with R and Python: Customer-Driven Data for Real Business Results,[Florent Buisson],37.74,360,4.4,13,0.68,0.11,0.11,0.1,0,OReilly Media,0.291333333333333
+Mathematical Foundations for Data Analysis (Springer Series in the Data Sciences),,69.99,304,,0,0,0,0,0,0,Springer,0
+Statistical Rethinking: A Bayesian Course with Examples in R and STAN (Chapman & Hall/CRC Texts in Statistical Science),,75.07,594,4.8,285,0.88,0.07,0.04,0.01,0,Chapman and Hall/CRC,0.321333333333333
+An Introduction to Categorical Data Analysis 3rd Edition (Wiley Series in Probability and Statistics),[Agresti],99.99,394,4.5,45,0.68,0.18,0.1,0.03,0,Wiley,0.298666666666667
+Student Solutions Manual for Ott/Longneckers An Introduction to Statistical Methods and Data Analysis 7th,"[R. Lyman Ott,Micheal T. Longnecker]",84.95,256,3.5,5,0.62,0.38,0,0,0,Cengage Learning,0.308
+Microsoft Excel Data Analysis and Business Modeling (Business Skills),[Wayne Winston],49.99,864,4.5,423,0.75,0.12,0.09,0.02,0.02,Microsoft Press,0.304
+Text Analytics with Python: A Practitioners Guide to Natural Language Processing,[Dipanjan Sarkar],23.49,698,4.6,57,0.7,0.2,0.05,0.05,0,Apress,0.303333333333333
+Essentials of Qualitative Meta-Analysis (Essentials of Qualitative Methods),,19.99,100,,0,0,0,0,0,0,American Psychological Association,0
+Data Analysis Using Regression and Multilevel/Hierarchical Models,,64.5,648,4.4,150,0.65,0.18,0.09,0.04,0.03,Cambridge University Press,0.29
+Introduction to Data Analytics for Accounting (International edition) Textbook only,[Ryan A. Teeter Vernon Richardson Katie L. Terrell],50,,5,1,1,0,0,0,0,Mcgraw-Hill (January 1 2020),0.333333333333333
+Statistical Analysis with Missing Data (Wiley Series in Probability and Statistics),"[Roderick J. A. Little,Donald B. Rubin]",86.25,462,4,12,0.47,0.39,0.14,0,0,Wiley,0.288666666666667
+Adverse Impact Analysis: Understanding Data Statistics and Risk,"[Scott B. Morris,Eric M. Dunleavy]",68.95,380,5,3,1,0,0,0,0,Routledge,0.333333333333333
+Hierarchical Modeling and Analysis for Spatial Data (Chapman & Hall/CRC Monographs on Statistics and Applied Probability),,88.5,584,4.1,8,0.62,0.2,0.19,0,0,Chapman and Hall/CRC,0.298
+Disrupting Data Governance: A Call to Action,[Laura B. Madsen],29.95,180,4.4,37,0.69,0.14,0.1,0.04,0.04,Technics Publications (December 6 2019),0.295333333333333
+Python for Everybody: Exploring Data in Python 3,"[Dr. Charles Russell Severance,Sue Blumenberg et al.]",9.99,247,4.6,2467,0.76,0.15,0.05,0.02,0.02,CreateSpace Independent Publishing Platform (April 9 2016),0.307333333333333
+ggplot2: Elegant Graphics for Data Analysis (Use R),,41.78,276,4.4,147,0.7,0.11,0.11,0.04,0.04,Springer,0.292666666666667
+Survival Analysis: Techniques for Censored and Truncated Data (Statistics for Biology and Health),,119.99,554,4.2,22,0.63,0.18,0.06,0.13,0,Springer (December 1 2010),0.287333333333333
+Time Series (Chapman & Hall/CRC Texts in Statistical Science),"[Robert Shumway,David Stoffer]",54.68,272,4.1,16,0.58,0.2,0.09,0.14,0,Routledge,0.283333333333333
+SPSS For Beginners in 45 Minutes: A 2021 Quick Reference Guide to Research Methods Data Analysis and Interpretation of Statistical Data,[Bill Wesley],10.99,132,3.5,3,0.62,0.38,0,0,0,Independently published (October 24 2021),0.308
+Crime Analysis with Crime Mapping,[Rachel Boba Santos],87.99,504,4.6,3,0.63,0.37,0,0,0,SAGE Publications Inc,0.308666666666667
+Applied Longitudinal Analysis,"[Garrett M. Fitzmaurice,Nan M. Laird et al.]",122.76,752,4.3,38,0.64,0.19,0.06,0.07,0.05,Wiley,0.288666666666667
+Epidemiology: Study Design and Data Analysis Third Edition (Chapman & Hall/CRC Texts in Statistical Science),,99.41,898,4.4,43,0.61,0.25,0.08,0.06,0,Chapman and Hall/CRC,0.294
+Analysis of Economic Data,[Gary Koop],52.59,272,4.1,15,0.68,0.18,0.14,0,0,Wiley,0.302666666666667
+In-Memory Analytics with Apache Arrow: Perform fast and efficient data analytics on both flat and hierarchical structured data,"[Matthew Topol,Wes McKinney]",44.99,392,5,8,1,0,0,0,0,Packt Publishing (June 24 2022),0.333333333333333
+Data Analysis from Scratch with Python: The Complete Beginners Guide for Machine Learning Techniques and A Step Step NLP using Python Guide To Expert (Including Programming Interview Questions),[Stephen Richard],10.99,169,4.4,55,0.74,0.13,0.03,0.1,0,Independently published (August 27 2019),0.300666666666667
+Functional Data Analysis with R and MATLAB (Use R!),,69.51,214,4.7,10,0.93,0.07,0,0,0,Springer,0.328666666666667
+Dyadic Data Analysis (Methodology in the Social Sciences),,62.52,458,4.4,24,0.73,0.12,0.07,0.07,0,The Guilford Press,0.298666666666667
+The 4-Step Thematic Data Analysis With MAXQDA,[Dr. Michael Amanfi],60,141,4.8,39,0.85,0.11,0.04,0,0,Independently published (August 13 2019),0.320666666666667
+Learning Spark: Lightning-Fast Data Analytics,"[Jules Damji,Brooke Wenig et al.]",55.37,397,4.7,154,0.8,0.15,0.02,0.02,0.01,OReilly Media,0.314
+Analytics: Data Science Data Analysis and Predictive Analytics for Business,[Daniel Covington],21.97,291,3.9,66,0.46,0.18,0.14,0.17,0.04,CreateSpace Independent Publishing Platform (February 19 2016),0.254666666666667
+Practical Data Analysis with JMP Third Edition,[Robert Carver],54.99,442,3.5,3,0.63,0.37,0,0,0,SAS Institute,0.308666666666667
+Python for Finance: Mastering Data-Driven Finance,[Yves Hilpisch],53.65,720,4.6,256,0.76,0.15,0.05,0.02,0.02,OReilly Media,0.307333333333333
+Applied Spatial Data Analysis with R (Use R! 10),"[Roger S. Bivand,Edzer Pebesma et al.]",72.47,423,4.5,26,0.65,0.2,0.15,0,0,Springer,0.3
+Hands-On Exploratory Data Analysis with R: Become an expert in exploratory data analysis using R packages,"[Radhika Datar,Harish Garg]",29.99,266,3.2,6,0.25,0.25,0.25,0.25,0,Packt Publishing (May 31 2019),0.233333333333333
+The Data Collection Toolkit: Everything You Need to Organize Manage and Monitor Classroom Data,[Cindy Golden],42.95,264,4.5,126,0.72,0.12,0.08,0.04,0.03,Brookes Publishing,0.295333333333333
+Qualitative Data Analysis with ATLAS.ti,[Susanne Friese],50,344,4.7,30,0.81,0.09,0.05,0.05,0,SAGE Publications Ltd,0.310666666666667
+C++ Programming: Program Design Including Data Structures (MindTap Course List),[D. S. Malik],98.7,1728,4.4,162,0.72,0.12,0.06,0.05,0.05,Cengage Learning,0.294
+Regression Analysis with Python,"[Luca Massaron,Alberto Boschetti]",46.99,312,4.1,10,0.44,0.43,0.13,0,0,Packt Publishing (February 29 2016),0.287333333333333
+Longitudinal Data Analysis for the Behavioral Sciences Using R,[Jeffrey D. Long],96.91,568,4.4,8,0.7,0.3,0,0,0,SAGE Publications Inc,0.313333333333333
+Practical SQL 2nd Edition: A Beginners Guide to Storytelling with Data,[Anthony DeBarros],27.99,427,4.7,60,0.85,0.08,0.02,0.04,0,No Starch Press,0.314
+Python Crash Course for Data Analysis: A Complete Beginner Guide for Python Coding NumPy Pandas and Data Visualization (Machine Learning & Data Science for Beginners),,17.99,174,4.1,41,0.57,0.18,0.1,0.07,0.07,AI Publishing LLC (September 22 2019),0.272
+Bayesian Modeling and Computation in Python (Chapman & Hall/CRC Texts in Statistical Science),,75.32,398,4.2,17,0.7,0.08,0.09,0.13,0,Chapman and Hall/CRC,0.29
+Random Data: Analysis and Measurement Procedures,"[Julius S. Bendat,Allan G. Piersol]",168.89,640,4.2,27,0.69,0.11,0.07,0.13,0,Wiley,0.290666666666667
+Data Envelopment Analysis: Let the Data Speak for Themselves,[Joe Zhu],49.99,182,4.6,7,0.82,0.18,0,0,0,CreateSpace Independent Publishing Platform (May 6 2014),0.321333333333333
+Hands-On Financial Modeling with Microsoft Excel 2019: Build practical models for forecasting valuation trading and growth analysis using Excel 2019,[Shmuel Oluwa],33.29,292,4.2,110,0.6,0.21,0.07,0.03,0.08,Packt Publishing (July 11 2019),0.279333333333333
+Statistics for Machine Learning: Implement Statistical methods used in Machine Learning using Python (English Edition),[Himanshu Singh],26.95,278,4,19,0.5,0.17,0.26,0.07,0,BPB Publications (January 15 2021),0.273333333333333
+Eco-Stats: Data Analysis in Ecology: From t-tests to Multivariate Abundances (Methods in Statistical Ecology),[David I Warton],139.99,445,,0,0,0,0,0,0,Springer,0
+Thematic Analysis: A Practical Guide,"[Virginia Braun,Victoria Clarke]",45,376,4.9,191,0.9,0.07,0.02,0.01,0,SAGE Publications Ltd,0.324
+Modes of Thinking for Qualitative Data Analysis,[Melissa Freeman],36.79,136,4.9,18,0.92,0.08,0,0,0,Routledge,0.328
+A Common-Sense Guide to Data Structures and Algorithms Second Edition: Level Up Your Core Programming Skills,[Jay Wengrow],39.71,508,4.7,514,0.81,0.14,0.02,0.01,0.02,Pragmatic Bookshelf,0.314
+Topological Data Analysis for Genomics and Evolution: Topology in Biology,"[Raul Rabadan,Andrew J. Blumberg]",43.03,324,4.5,31,0.75,0.15,0.05,0.05,0,Cambridge University Press,0.306666666666667
+Mathematical Statistics and Data Analysis (with CD Data Sets) (Available 2010 Titles Enhanced Web Assign),,168.7,688,3.8,110,0.58,0.11,0.06,0.09,0.16,Cengage Learning,0.257333333333333
+Hands-On Time Series Analysis with R: Perform time series analysis and forecasting using R,,33.29,448,4.4,53,0.66,0.15,0.13,0.05,0,Packt Publishing (May 31 2019),0.292666666666667
+Exploratory Data Analysis with MATLABÂ® (Chapman & Hall/CRC Computer Science & Data Analysis),,55.37,590,4,3,0.34,0.33,0.33,0,0,Chapman and Hall/CRC,0.267333333333333
+Performing Data Analysis Using IBM SPSS,"[Lawrence S. Meyers,Glenn C. Gamst et al.]",82.99,736,4.5,30,0.73,0.19,0.05,0.03,0,Wiley,0.308
+Next Generation Data Management: Using Your Data Assets to Drive Mission Success,"[Dr Mark Brady,Barry Lyons et al.]",38,335,,0,0,0,0,0,0,mark brady (September 8 2022),0
+Applied Longitudinal Data Analysis: Modeling Change and Event Occurrence,"[Judith D. Singer,John B. Willett]",78.49,644,4.5,54,0.78,0.07,0.05,0.06,0.04,Oxford University Press,0.299333333333333
+Text Data Management and Analysis: A Practical Introduction to Information Retrieval and Text Mining (ACM Books),,95.95,532,4.3,13,0.67,0.22,0.11,0,0,ACM Books (June 30 2016),0.304
+Applied Survey Data Analysis (Chapman & Hall/CRC Statistics in the Social and Behavioral Sciences),,54.95,568,4.8,22,0.87,0.07,0.07,0,0,Routledge,0.322666666666667
+Fundamentals of Data Visualization: A Primer on Making Informative and Compelling Figures,[Claus O. Wilke],51.49,390,4.6,180,0.78,0.15,0.03,0.02,0.02,OReilly Media,0.31
+Numerical Methods Using Java: For Data Science Analysis and Engineering,[Haksun Li PhD],32.92,1200,5,1,1,0,0,0,0,Apress,0.333333333333333
+Data Analysis with Microsoft Power BI,[Brian Larson],43.15,544,3.8,12,0.47,0.18,0.11,0.14,0.1,McGraw Hill,0.252
+Python: - The Bible- 3 Manuscripts in 1 book: -Python Programming For Beginners -Python Programming For Intermediates -Python Programming for Advanced (Your place to learn Python with ease),[Maurice J. Thompson],27.97,375,4.3,4033,0.64,0.16,0.1,0.04,0.06,Independently published (April 28 2018),0.285333333333333
+Mastering Vim: Build a software development environment with Vim and Neovim,[Ruslan Osipov],44.99,330,4.8,27,0.85,0.1,0.06,0,0,Packt Publishing (November 30 2018),0.322
+Hands-On Network Forensics: Investigate network attacks and find evidence using common network forensic tools,[Nipun Jaswal],37.99,358,4.4,36,0.58,0.29,0.09,0.04,0,Packt Publishing (March 30 2019),0.294
+Python: 3 books in 1- Your complete guide to python programming with Python for Beginners Python Data Analysis and Python Machine Learning (Programming Languages for Beginners),[Brady Ellison],24.95,472,4.7,119,0.82,0.1,0.04,0.02,0.01,Independently published (February 4 2022),0.311333333333333
+Pandas for Everyone: Python Data Analysis (Addison-Wesley Data & Analytics Series),,38.91,416,4.5,264,0.71,0.15,0.09,0.02,0.03,Addison-Wesley Professional,0.299333333333333
+Real World Health Care Data Analysis: Causal Methods and Implementation Using SASÂ®: Causal Methods and Implementation Using SASÂ®,"[Douglas Faries,Xiang Zhang et al.]",84.95,436,4.2,5,0.59,0.41,0,0,0,SAS Institute (January 15 2020),0.306
+Introduction to Functional Data Analysis (Chapman & Hall/CRC Texts in Statistical Science),,54.95,306,3.8,11,0.43,0.31,0.13,0.13,0,Chapman and Hall/CRC,0.269333333333333
+Adjustment Computations: Spatial Data Analysis,[Charles D. Ghilani],100.98,720,4.5,18,0.66,0.23,0.09,0.03,0,Wiley,0.303333333333333
+DATA ANALYTICS: Simple and Effective Tips and Tricks to Learn Data Analytics Effectively,[Benjamin Smith],19.99,167,5,2,1,0,0,0,0,Independently published (August 24 2020),0.333333333333333
+Artificial Intelligence with Power BI: Take your data analytics skills to the next level leveraging the AI capabilities in Power BI,[Mary-Jo Diepeveen],46.99,348,4.4,10,0.58,0.28,0.14,0,0,Packt Publishing (April 29 2022),0.296
+Hands on Azure Data Studio: Microsofts Open Platform for Data Engineering and Analytics,[Jim Miller],9.99,142,4.3,5,0.54,0.23,0.23,0,0,Independently published (March 26 2021),0.287333333333333
+Data Structures & Algorithm Analysis in C++,[Mark Weiss],177.32,664,4.2,91,0.64,0.12,0.12,0.03,0.08,Pearson,0.278666666666667
+The Esri Guide to GIS Analysis Volume 2: Spatial Measurements and Statistics,,45.49,288,4.7,15,0.75,0.16,0.09,0,0,Esri Press,0.310666666666667
+The Handbook for Collaborative Common Assessments: Tools for Design Delivery and Data Analysis (Practical Measures for Improving Your Collaborative Common Assessment Process),[Cassandra Erkens],39.95,264,4.8,7,0.8,0.2,0,0,0,Solution Tree Press (June 7 2019),0.32
+Learn Microsoft PowerApps: Build customized business applications without writing any code,[Matthew Weston],39.89,560,4.2,164,0.55,0.25,0.1,0.04,0.07,Packt Publishing (November 29 2019),0.28
+Software Architecture Patterns for Serverless Systems: Architecting for innovation with events autonomous services and micro frontends,"[John Gilbert,Ed Price]",45,436,4.8,21,0.81,0.19,0,0,0,Packt Publishing (July 30 2021),0.320666666666667
+Bayesian Statistics the Fun Way: Understanding Statistics and Probability with Star Wars LEGO and Rubber Ducks,[Will Kurt],33.2,256,4.6,462,0.74,0.17,0.05,0.02,0.01,No Starch Press,0.305333333333333
+The Data Revolution: A Critical Analysis of Big Data Open Data and Data Infrastructures,[Rob Kitchin],42,376,5,2,1,0,0,0,0,SAGE Publications Ltd,0.333333333333333
+Data Structures and Algorithm Analysis in Java,[Mark Weiss],132.98,648,4.4,97,0.72,0.13,0.05,0.05,0.05,Pearson,0.294666666666667
+Azure Synapse Analytics Cookbook: Implement a limitless analytical platform using effective recipes for Azure Synapse,"[Gaurav Agarwal,Meenakshi Muralidharan et al.]",41.99,238,4.3,8,0.82,0.18,0,0,0,Packt Publishing (April 29 2022),0.321333333333333
+CompTIA Data+ Study Guide: Exam DA0-001,"[Mike Chapple,Sharif Nijim]",34.18,368,4.7,31,0.78,0.14,0.08,0,0,Sybex,0.313333333333333
+The Science of Deep Learning,[Iddo Drori],59.99,450,,0,0,0,0,0,0,Cambridge University Press,0
+Inside Deep Learning: Math Algorithms Models,[Edward Raff],45.2,600,5,6,1,0,0,0,0,Manning,0.333333333333333
+Mathematical Aspects of Deep Learning,"[Philipp Grohs,Gitta Kutyniok]",89.99,485,,0,0,0,0,0,0,Cambridge University Press,0
+Deep Learning for Coders with Fastai and PyTorch: AI Applications Without a PhD,"[Jeremy Howard,Sylvain Gugger]",36.99,624,4.8,418,0.86,0.08,0.03,0.01,0.01,OReilly Media,0.316
+Practical Deep Learning: A Python-Based Introduction,[Ronald T. Kneusel],36.54,464,4.8,35,0.85,0.15,0,0,0,No Starch Press (February 23 2021),0.323333333333333
+Deep Learning with PyTorch: Build train and tune neural networks using Python tools,"[Eli Stevens,Luca Antiga et al.]",36.26,520,4.4,93,0.72,0.09,0.09,0.07,0.04,Manning,0.294
+Deep Learning from Scratch: Building with Python from First Principles,[Seth Weidman],38.99,252,4.4,79,0.66,0.18,0.08,0.04,0.04,OReilly Media,0.292
+Learning Deep Learning: Theory and Practice of Neural Networks Computer Vision Natural Language Processing and Transformers Using TensorFlow,[Magnus Ekman],53.23,752,4.7,66,0.84,0.06,0.05,0.03,0.02,Addison-Wesley Professional,0.311333333333333
+Deep Learning: A Visual Approach,[Andrew Glassner],56.99,776,4.7,90,0.86,0.05,0.03,0.02,0.05,No Starch Press,0.312
+Deep Learning with Python Second Edition,[Francois Chollet],37.23,504,4.6,148,0.82,0.09,0.03,0.03,0.03,Manning,0.309333333333333
+Deep Learning (The MIT Press Essential Knowledge series),,13.99,296,4.5,305,0.67,0.18,0.1,0.04,0.01,The MIT Press,0.297333333333333
+Deep Learning (Adaptive Computation and Machine Learning series),,54.25,800,4.3,1862,0.73,0.1,0.05,0.04,0.08,The MIT Press,0.290666666666667
+Deep Learning Illustrated: A Visual Interactive Guide to Artificial Intelligence (Addison-Wesley Data & Analytics Series),,44.39,416,4.5,189,0.76,0.11,0.03,0.04,0.05,Addison-Wesley Professional,0.297333333333333
+Deep Learning Architectures: A Mathematical Approach (Springer Series in the Data Sciences),,58.99,790,4.2,14,0.66,0.15,0.1,0.09,0,Springer,0.292
+Foundations of Deep Reinforcement Learning: Theory and Practice in Python (Addison-Wesley Data & Analytics Series),,45.59,416,4.4,82,0.69,0.19,0.04,0.05,0.04,Addison-Wesley Professional,0.298
+Dive Into Deep Learning: Tools for Engagement,"[Joanne Quinn,Joanne J. McEachen et al.]",38.95,296,4.7,36,0.81,0.1,0.08,0,0,Corwin,0.312666666666667
+Fundamentals of Deep Learning: Designing Next-Generation Machine Intelligence Algorithms,"[Nithin Buduma,Joe Papa et al.]",50.99,387,,0,0,0,0,0,0,OReilly Media,0
+Deep Learning with TensorFlow 2 and Keras: Regression ConvNets GANs RNNs NLP and more with TensorFlow 2 and the Keras API 2nd Edition,"[Antonio Gulli,Amita Kapoor et al.]",33.21,646,4.5,116,0.71,0.17,0.05,0.04,0.03,Packt Publishing (December 27 2019),0.299333333333333
+Deep Learning with JavaScript: Neural networks in TensorFlow.js,"[Shanqing Cai,Stan Bileschi et al.]",43.49,560,4.8,28,0.85,0.12,0.03,0,0,Manning,0.321333333333333
+Deep Learning in Science,[Pierre Baldi],47.55,450,4.7,4,0.7,0.3,0,0,0,Cambridge University Press,0.313333333333333
+Applied Deep Learning and Computer Vision for Self-Driving Cars: Build autonomous vehicles using deep neural networks and behavior-cloning techniques,"[Sumit Ranjan,Dr. S. Senthamilarasu]",44.99,332,3.8,23,0.5,0.15,0.16,0.07,0.12,Packt Publishing (August 14 2020),0.256
+Deep Learning for Vision Systems,[Mohamed Elgendy],39.49,480,4.8,53,0.85,0.1,0.05,0,0,Manning,0.32
+Deep Reinforcement Learning Hands-On: Apply modern RL methods to practical problems of chatbots robotics discrete optimization web automation and more 2nd Edition,[Maxim Lapan],54.99,826,4.5,143,0.75,0.14,0.05,0.03,0.04,Packt Publishing,0.304
+Modern Computer Vision with PyTorch: Explore deep learning concepts and implement over 50 real-world image applications,"[V Kishore Ayyadevara,Yeshwanth Reddy]",48.84,824,4.6,51,0.82,0.12,0.06,0,0,Packt Publishing (November 27 2020),0.317333333333333
+Synthetic Data for Deep Learning: Generate Synthetic Data for Decision Making and Applications with Python and R,"[Necmi GÃ¼rsakal,Sadullah Ã‡elik et al.]",44.99,250,,0,0,0,0,0,0,Apress,0
+Geometry of Deep Learning: A Signal Processing Perspective (Mathematics in Industry 37),[Jong Chul Ye],66.27,346,3.6,6,0.6,0.2,0.2,0,0,Springer,0.293333333333333
+Machine Learning with PyTorch and Scikit-Learn: Develop machine learning and deep learning models with Python,"[Sebastian Raschka,Yuxi (Hayden) Liu et al.]",46.79,770,4.7,135,0.82,0.1,0.05,0.01,0.02,Packt Publishing (February 25 2022),0.312666666666667
+Production-Ready Applied Deep Learning: Learn how to construct and deploy complex models in PyTorch and TensorFlow deep learning frameworks,"[Tomasz Palczewski,Jaejun (Brandon) Lee et al.]",47.49,322,,0,0,0,0,0,0,Packt Publishing (August 30 2022),0
+Grokking Deep Reinforcement Learning,[Miguel Morales],49.99,472,4.7,47,0.82,0.13,0.03,0.03,0,Manning,0.318
+Deep Learning for the Life Sciences: Applying Deep Learning to Genomics Microscopy Drug Discovery and More,"[Bharath Ramsundar,Peter Eastman et al.]",48.49,236,4.2,48,0.66,0.16,0.06,0.12,0,OReilly Media,0.290666666666667
+Deep Learning in Production,[Sergios Karagiannakos],29.99,223,4.7,12,0.78,0.11,0.11,0,0,Sergios Karagiannakos (November 24 2021),0.311333333333333
+Math for Deep Learning: What You Need to Know to Understand Neural Networks,[Ronald T. Kneusel],36.49,344,4.5,22,0.74,0.2,0.07,0,0,No Starch Press (December 7 2021),0.314
+Introduction to Deep Learning (The MIT Press),[Eugene Charniak],35,192,4,32,0.59,0.11,0.1,0.1,0.1,The MIT Press,0.266
+The Principles of Deep Learning Theory: An Effective Theory Approach to Understanding Neural Networks,"[Daniel A. Roberts,Sho Yaida et al.]",75.99,472,4.7,10,0.86,0.14,0,0,0,Cambridge University Press,0.324
+Practical Deep Learning for Cloud Mobile and Edge: Real-World AI & Computer-Vision Projects Using Python Keras & TensorFlow,"[Anirudh Koul,Siddha Ganju et al.]",55.43,620,4.6,110,0.84,0.07,0.03,0.03,0.04,OReilly Media,0.311333333333333
+Deep Learning: Engage the World Change the World,"[Michael Fullan,Joanne Quinn et al.]",32.33,208,4.5,66,0.75,0.11,0.06,0.03,0.05,Corwin,0.298666666666667
+Grokking Deep Learning,[Andrew Trask],39.49,336,4.4,138,0.72,0.13,0.06,0.01,0.07,Manning,0.292666666666667
+Practical Deep Learning at Scale with MLflow: Bridge the gap between offline experimentation and online production,"[Yong Liu,Dr. Matei Zaharia]",44.99,288,4.8,8,0.83,0.17,0,0,0,Packt Publishing (July 8 2022),0.322
+Deep Learning For Dummies,"[John Paul Mueller,Luca Massaron]",19.89,368,4.5,33,0.65,0.27,0.08,0,0,For Dummies,0.304666666666667
+Deep Learning with Python,[Francois Chollet],32.49,384,4.6,1349,0.76,0.13,0.04,0.02,0.04,Manning,0.301333333333333
+Deep Generative Modeling,[Jakub M. Tomczak],70,215,5,1,1,0,0,0,0,Springer,0.333333333333333
+Generative Deep Learning: Teaching Machines to Paint Write Compose and Play,[David Foster],46.99,330,4.5,189,0.76,0.12,0.07,0.01,0.05,OReilly Media,0.304
+Artificial Intelligence Example: Acquire advanced AI machine learning and deep learning design skills 2nd Edition,[Denis Rothman],39.99,578,4.2,30,0.68,0.09,0.09,0.14,0,Packt Publishing (February 28 2020),0.287333333333333
+Deep Learning for NLP and Speech Recognition,"[Uday Kamath,John Liu et al.]",97.31,649,4.6,49,0.77,0.1,0.09,0.04,0,Springer,0.306666666666667
+Deep Neural Evolution: Deep Learning with Evolutionary Computation (Natural Computing Series),,66.59,452,5,1,1,0,0,0,0,Springer,0.333333333333333
+Hands-On Python Natural Language Processing: Explore tools and techniques to analyze and process text with a view to building real-world NLP applications,"[Aman Kedia,Mayank Rasu]",39.99,316,4.6,22,0.69,0.2,0.11,0,0,Packt Publishing (June 26 2020),0.305333333333333
+DEEP LEARNING WITH MATLAB,[Perez],25.99,247,,0,0,0,0,0,0,Scientific Books (May 23 2022),0
+Guide to Deep Learning Basics: Logical Historical and Philosophical Perspectives,[Sandro Skansi],14.59,148,,0,0,0,0,0,0,Springer,0
+Building Machine Learning and Deep Learning Models on Google Cloud Platform: A Comprehensive Guide for Beginners,[Ekaba Bisong],28.02,738,4.6,9,0.71,0.14,0.15,0,0,Apress,0.304
+Deep Learning with R,"[Francois Chollet,J. J. Allaire]",46.99,360,4.5,100,0.76,0.12,0.04,0.06,0.02,Manning Publications,0.302666666666667
+Deep Learning for Natural Language Processing,[Stephan Raaijmakers],49.99,325,,0,0,0,0,0,0,Manning Publications,0
+Python Machine Learning for Beginners: Learning from scratch NumPy Pandas Matplotlib Seaborn Scikitlearn and TensorFlow for Machine Learning and ... Learning & Data Science for Beginners),,19.99,304,4.5,55,0.73,0.11,0.11,0.02,0.03,AI Publishing LLC (October 23 2020),0.299333333333333
+Adversarial Deep Learning in Cybersecurity: Attack Taxonomies Defence Mechanisms and Learning Theories,"[Aneesh Sreevallabh Chivukula,Xinghao Yang et al.]",199.99,260,,0,0,0,0,0,0,Springer,0
+Hands-On Machine Learning with Scikit-Learn Keras and TensorFlow: Concepts Tools and Techniques to Build Intelligent Systems,[AurÃ©lien GÃ©ron],75.99,850,,0,0,0,0,0,0,OReilly Media,0
+Black Hat Python 2nd Edition: Python Programming for Hackers and Pentesters,"[Justin Seitz,Tim Arnold]",37.49,216,4.7,342,0.82,0.12,0.03,0.01,0.02,No Starch Press,0.314
+Modern Deep Learning for Tabular Data: Novel Approaches to Common Modeling Problems,"[Andre Ye,Andy Wang]",49.99,839,,0,0,0,0,0,0,Apress,0
+Probabilistic Deep Learning: With Python Keras and TensorFlow Probability,"[Oliver Duerr,Beate Sick et al.]",49.99,296,4.2,15,0.66,0.09,0.16,0.09,0,Manning,0.288
+High-Dimensional Data Analysis with Low-Dimensional Models: Principles Computation and Applications,"[John Wright,Yi Ma]",75.99,650,4.8,12,0.81,0.19,0,0,0,Cambridge University Press,0.320666666666667
+Transformers for Natural Language Processing: Build train and fine-tune deep neural network architectures for NLP with Python PyTorch TensorFlow BERT and GPT-3 2nd Edition,"[Denis Rothman,Antonio Gulli]",39.89,564,4.7,32,0.75,0.2,0.05,0,0,Packt Publishing,0.313333333333333
+Memorable teaching: Leveraging memory to build deep and durable learning in the classroom (High Impact Teaching series),[Peps Mccrea],14.95,112,4.6,192,0.76,0.16,0.03,0.02,0.03,John Catt Educational (November 12 2019),0.306666666666667
+Deep Reinforcement Learning in Action,"[Alexander Zai,Brandon Brown]",49.2,325,4.2,16,0.63,0.14,0.09,0.05,0.09,Manning,0.278
+Artificial Intelligence with Python Cookbook: Proven recipes for applying AI algorithms and deep learning techniques using TensorFlow 2.x and PyTorch 1.6,[Ben Auffarth],39.99,468,4.5,24,0.68,0.24,0.08,0,0,Packt Publishing (October 30 2020),0.306666666666667
+Hands-On Image Generation with TensorFlow: A practical guide to generating images and videos using deep learning,[Soon Yau Cheong],40.59,306,4.8,14,0.76,0.24,0,0,0,Packt Publishing (December 24 2020),0.317333333333333
+Modern Deep Learning Design and Application Development: Versatile Tools to Solve Deep Learning Problems,[Andre Ye],49.44,472,5,1,1,0,0,0,0,Apress,0.333333333333333
+Deep Learning with Keras: Implementing deep learning models and neural networks with the power of Python,"[Antonio Gulli,Sujit Pal]",51.99,318,3.5,52,0.31,0.16,0.27,0.17,0.08,Packt Publishing (April 26 2017),0.228
+Hands-On Genetic Algorithms with Python: Applying genetic algorithms to solve real-world deep learning and artificial intelligence problems,[Eyal Wirsansky],41.99,346,4.6,53,0.73,0.21,0.03,0.03,0,Packt Publishing (January 31 2020),0.309333333333333
+Engineering Deep Learning Systems,"[Chi Wang,Donald Szeto]",59.99,325,,0,0,0,0,0,0,Manning (December 27 2022),0
+Evolutionary Deep Learning: Genetic algorithms and neural networks,[Michael Lanham],59.99,350,,0,0,0,0,0,0,Manning (January 31 2023),0
+Transformers for Natural Language Processing: Build innovative deep neural network architectures for NLP with Python PyTorch TensorFlow BERT RoBERTa and more,[Denis Rothman],40.59,384,4.2,95,0.59,0.19,0.1,0.05,0.07,Packt Publishing (January 29 2021),0.278666666666667
+Introduction to Deep Learning for Healthcare,"[Cao Xiao,Jimeng Sun]",55.49,243,4.1,6,0.78,0.22,0,0,0,Springer,0.318666666666667
+Deep Learning and Physics (Mathematical Physics Studies),,99.99,224,2,1,1,0,0,0,0,Springer,0.333333333333333
+R Deep Learning Essentials: A step--step guide to building deep learning models using TensorFlow Keras and MXNet 2nd Edition,"[Mark Hodnett,Joshua F. Wiley]",41.99,378,4.1,8,0.58,0.26,0.17,0,0,Packt Publishing (August 24 2018),0.296666666666667
+Implement NLP use-cases using BERT: Explore the Implementation of NLP Tasks Using the Deep Learning Framework and Python (English Edition),[Amandeep],29.95,164,3,2,0.49,0.51,0,0,0,BPB Publications (April 17 2021),0.299333333333333
+Machine Learning at Scale with H2O: A practical guide to building and deploying machine learning models on enterprise systems,"[Gregory Keys,David Whiting]",39.99,396,5,2,1,0,0,0,0,Packt Publishing (July 29 2022),0.333333333333333
+Python: The Complete Crash Course to Learn Python in One Week Machine Learning and Deep Learning with Hands-On Exercises,[frad willson],14.99,229,,0,0,0,0,0,0,Independently published (September 5 2022),0
+Pro Deep Learning with TensorFlow: A Mathematical Approach to Advanced Artificial Intelligence in Python,[Santanu Pattanayak],69.99,419,4.1,32,0.61,0.09,0.18,0.02,0.09,Apress,0.272
+ARTIFICIAL INTELLIGENCE WITH MATLAB. DEEP LEARNING ARCHITECTURES,[Perez],25.99,199,,0,0,0,0,0,0,Scientific Books (May 23 2022),0
+GANs in Action: Deep learning with Generative Adversarial Networks,"[Jakub Langr,Vladimir Bok]",37.99,276,4.2,33,0.65,0.11,0.16,0.08,0,Manning,0.288666666666667
+From Curiosity to Deep Learning: Personal Digital Inquiry in Grades K-5,"[Julie Coiro,Elizabeth Dobler et al.]",33.06,256,4.6,10,0.73,0.13,0.14,0,0,Stenhouse Publishers (July 30 2019),0.306
+Deep Learning Applications of Short-range Radars,"[Avik Santra,Souvik Hazra]",179,350,5,1,1,0,0,0,0,Artech House (September 30 2020),0.333333333333333
+Deep Learning Cookbook: Practical Recipes to Get Started Quickly,[Douwe Osinga],37.3,251,4.5,17,0.68,0.15,0.17,0,0,OReilly Media,0.300666666666667
+Deep Reinforcement Learning with Python: With PyTorch TensorFlow and OpenAI Gym,[Nimish Sanghi],36.49,404,4.3,10,0.72,0.14,0.14,0,0,Apress,0.305333333333333
+Empowering Young Children,[Wendy Ostroff],34.95,170,,0,0,0,0,0,0,Routledge,0
+Deep Discourse: A Framework for Cultivating Student-Led Discussions -Use Conversation to Raise Student Learning Motivation and Engagement in K-12 Classrooms,"[Sandi Novak,Cara Slattery]",36.95,184,5,4,1,0,0,0,0,Solution Tree,0.333333333333333
+Purposeful Play: A Teachers Guide to Igniting Deep and Joyful Learning Across the Day,"[Kristine Mraz,Alison Porcelli et al.]",28.34,184,4.7,348,0.82,0.13,0.03,0.01,0.02,Heinemann,0.316666666666667
+Generative AI with Python and TensorFlow 2: Create images text and music with VAEs GANs LSTMs Transformer models,"[Joseph Babcock,Raghav Bali]",37.99,488,4.3,22,0.68,0.09,0.12,0.1,0,Packt Publishing (April 30 2021),0.288
+DEEP LEARNING TOOLS: NEURAL NETWORKS USING MATLAB,[Perez],25.99,205,,0,0,0,0,0,0,Scientific Books (May 23 2022),0
+Embedded Deep Learning: Algorithms Architectures and Circuits for Always-on Neural Network Processing,"[Bert Moons,Daniel Bankman et al.]",88.12,222,5,1,1,0,0,0,0,Springer,0.333333333333333
+Learning Unix for OS X: Going Deep With the Terminal and Shell,[Dave Taylor],24.99,238,4.4,77,0.56,0.32,0.04,0.08,0,OReilly Media,0.290666666666667
+Hands-On Natural Language Processing with PyTorch 1.x: Build smart AI-driven linguistic applications using deep learning and NLP techniques,[Thomas Dop],41.99,276,3.7,5,0.36,0.22,0.21,0.21,0,Packt Publishing (July 9 2020),0.248666666666667
+Python Deep Learning Projects: 9 projects demystifying neural network and deep learning models for building intelligent systems,"[Matthew Lamons,Rahul Kumar et al.]",46.99,472,3.9,5,0.34,0.26,0.4,0,0,Packt Publishing (October 31 2018),0.262666666666667
+Deep Learning Pipeline: Building a Deep Learning Model with TensorFlow,"[Hisham El-Amir,Mahmoud Hamdy]",15.43,580,2,1,1,0,0,0,0,Apress,0.333333333333333
+Machine Learning for Cybersecurity: Innovative Deep Learning Solutions (SpringerBriefs in Computer Science),[Marwan Omar],54.99,56,,0,0,0,0,0,0,Springer,0
+Beginning Deep Learning with TensorFlow: Work with Keras MNIST Data Sets and Advanced Neural Networks,"[Liangqu Long,Xiangming Zeng]",28.98,740,,0,0,0,0,0,0,Apress,0
+Cultivating Curiosity in K-12 Classrooms: How to Promote and Sustain Deep Learning,[Wendy L. Ostroff],21.9,176,4.5,48,0.67,0.21,0.09,0.03,0,ASCD (July 13 2016),0.301333333333333
+Machine Learning for Economics and Finance in TensorFlow 2: Deep Learning Models for Research and Industry,[Isaiah Hull],48.04,384,3.3,3,0.33,0.33,0.34,0,0,Apress,0.266
+Machine Learning for Algorithmic Trading: Predictive models to extract signals from market and alternative data for systematic trading strategies with Python 2nd Edition,[Stefan Jansen],44.99,820,4.5,243,0.68,0.19,0.06,0.03,0.04,Packt Publishing (July 31 2020),0.296
+The Deep Learning AI Playbook: Strategy for Disruptive Artificial Intelligence,[Carlos E Perez],29,367,3.7,12,0.51,0.17,0.16,0.16,0,CreateSpace Independent Publishing Platform,0.268666666666667
+Risk Modeling: Practical Applications of Artificial Intelligence Machine Learning and Deep Learning (Wiley and SAS Business Series),"[Terisa Roberts,Stephen J. Tonna]",47.92,208,,0,0,0,0,0,0,Wiley,0
+AI and Machine Learning for Coders: A Programmers Guide to Artificial Intelligence,[Laurence Moroney],38.49,392,4.7,127,0.79,0.16,0.04,0.02,0,OReilly Media,0.316666666666667
+Building Computer Vision Projects with OpenCV 4 and C++: Implement complex computer vision algorithms and explore deep learning and face detection,"[David Millan Escriva,Prateek Joshi et al.]",49.99,538,4.1,31,0.55,0.22,0.07,0.11,0.05,Packt Publishing (March 26 2019),0.274
+Advanced Deep Learning with TensorFlow 2 and Keras: Apply DL GANs VAEs deep RL unsupervised learning object detection and segmentation and more 2nd Edition,[Rowel Atienza],39.99,512,4.5,62,0.74,0.14,0.06,0.02,0.04,Packt Publishing (February 28 2020),0.301333333333333
+Deep Learning for Computer Vision with SASÂ®: An Introduction,[Robert Blanchard],25.95,150,,0,0,0,0,0,0,SAS Institute (June 11 2020),0
+Understanding Deep Learning: Application in Rare Event Prediction (Student Version),[Chitta Ranjan Ph.D.],30,426,,0,0,0,0,0,0,Independently published (December 26 2020),0
+Deep Learning on Graphs,"[Yao Ma,Jiliang Tang]",45.91,400,4.7,8,0.83,0.17,0,0,0,Cambridge University Press,0.322
+Data Orchestration in Deep Learning Accelerators (Synthesis Lectures on Computer Architecture),"[Tushar Krishna,Hyoukjun Kwon et al.]",73.76,164,4.2,3,0.62,0.38,0,0,0,,0.308
+Deep Reinforcement Learning,[Aske Plaat],58.31,421,,0,0,0,0,0,0,Springer,0
+Efficient Processing of Deep Neural Networks (Synthesis Lectures on Computer Architecture),"[Vivienne Sze,Yu-Hsin Chen et al.]",86.35,342,4.5,14,0.67,0.22,0.1,0,0,Morgan & Claypool Publishers (June 24 2020),0.302
+Computer Vision: Algorithms and Applications (Texts in Computer Science),[Richard Szeliski],68.1,947,4.3,18,0.72,0.13,0.07,0.08,0,Springer,0.299333333333333
+Applied Software Development With Python & Machine Learning Wearable & Wireless Systems For Movement Disorder Treatment Via Deep Brain Stimulation,"[Robert Lemoyne,Timothy Mastroianni]",79.23,248,,0,0,0,0,0,0,WSPC (August 31 2021),0
+Data Scientist Pocket Guide: Over 600 Concepts Terminologies and Processes of Machine Learning and Deep Learning Assembled Together (English Edition),[Mohamed Sabri],29.95,308,4.7,4,0.7,0.3,0,0,0,BPB Publications (June 28 2021),0.313333333333333
+Deep Learning with fastai Cookbook: Leverage the easy-to-use fastai framework to unlock the power of deep learning,[Mark Ryan],44.99,340,4.6,13,0.6,0.4,0,0,0,Packt Publishing (September 24 2021),0.306666666666667
+Learning TensorFlow: A Guide to Building Deep Learning Systems,"[Tom Hope,Yehezkel S. Resheff et al.]",35.75,242,3.9,62,0.55,0.18,0.09,0.03,0.15,OReilly Media,0.263333333333333
+Machine and Deep Learning in Oncology Medical Physics and Radiology,"[Issam El Naqa,Martin J. Murphy]",174.64,529,,0,0,0,0,0,0,Springer,0
+Deep Learning for Physical Scientists: Accelerating Research with Machine Learning,"[Edward O. Pyzer-Knapp,Matthew Benatan]",69.1,208,5,2,1,0,0,0,0,Wiley,0.333333333333333
+Deep Learning and the Game of Go,"[Max Pumperla,Kevin Ferguson]",50.58,384,4.4,48,0.65,0.15,0.16,0.04,0,Manning,0.294
+Automated Machine Learning with AutoKeras: Deep learning made accessible for everyone with just few lines of coding,[Luis Sobrecueva],41.99,194,4.7,11,0.65,0.35,0,0,0,Packt Publishing (May 21 2021),0.31
+Deep Learning with TensorFlow: Explore neural networks and build intelligent systems with Python 2nd Edition,"[Giancarlo Zaccone,Md. Rezaul Karim]",36.11,484,3.2,7,0.11,0.32,0.4,0.17,0,Packt Publishing,0.224666666666667
+Advances in Electromagnetics Empowered Artificial Intelligence and Deep Learning (IEEE Press Series on Electromagnetic Wave Theory),"[Sawyer D. Campbell,Douglas H. Werner]",165,,,0,0,0,0,0,0,Wiley-IEEE Press,0
+Practical MATLAB Deep Learning: A Projects-Based Approach,"[Michael Paluszek,Stephanie Thomas et al.]",38.34,348,,0,0,0,0,0,0,Apress,0
+AI Crash Course: A fun and hands-on introduction to machine learning reinforcement learning deep learning and artificial intelligence with Python,[Hadelin de Ponteves],29.99,360,4.2,81,0.57,0.2,0.14,0.03,0.06,Packt Publishing (November 29 2019),0.279333333333333
+Deep Learning In Biology And Medicine,"[Davide Bacciu,Paulo J G Lisboa et al.]",97.65,332,,0,0,0,0,0,0,WSPC (EUROPE) (January 19 2022),0
+Autonomous Robotics and Deep Learning (SpringerBriefs in Computer Science),,69.99,74,5,1,1,0,0,0,0,Springer,0.333333333333333
+Hands-On Music Generation with Magenta: Explore the role of deep learning in music generation and assisted music composition,[Alexandre DuBreuil],41.99,360,4.5,8,0.47,0.53,0,0,0,Packt Publishing (January 31 2020),0.298
+Artificial Intelligence Machine Learning and Deep Learning,[Oswald Campesato],59.95,300,4.4,3,0.37,0.63,0,0,0,Mercury Learning and Information (February 13 2020),0.291333333333333
+Culture in School Learning: Revealing the Deep Meaning,[Etta R. Hollins],48.81,252,4.4,6,0.58,0.22,0.2,0,0,Routledge,0.292
+Practical MATLAB Deep Learning: A Project-Based Approach,"[Michael Paluszek,Stephanie Thomas]",20.49,267,3.7,14,0.51,0.09,0.1,0.21,0.09,Apress,0.248
+Graph-Powered Machine Learning,[Alessandro Nego],42.99,496,4.4,9,0.74,0.15,0.11,0,0,Manning (September 28 2021),0.308666666666667
+Mastering Computer Vision with TensorFlow 2.x: Build advanced computer vision applications using machine learning and deep learning techniques,[Krishnendu Kar],44.99,430,3.9,15,0.48,0.27,0.09,0.15,0,Packt Publishing (May 15 2020),0.27
+DEEP LEARNING WITH PYTHON: 3 in 1- Beginners Guide+ Simple and Effective Tips and Tricks+ Advanced Guide to Learn Deep Learning with Python,[Benjamin Smith],49.99,547,3.5,2,0.51,0.49,0,0,0,Independently published (March 14 2021),0.300666666666667
+Practical Machine Learning with H2O: Powerful Scalable Techniques for Deep Learning and AI,[Darren Cook],33.09,300,4.2,25,0.64,0.15,0.07,0.07,0.06,OReilly Media,0.280666666666667
+Deep Learning Approaches for Security Threats in IoT Environments,"[Mohamed Abdel-Basset,Nour Moustafa et al.]",140,384,,0,0,0,0,0,0,Wiley-IEEE Press,0
+Artificial Intelligence and Deep Learning in Pathology,[Stanley Cohen MD],82.3,288,4.1,10,0.6,0.13,0.13,0.13,0,Elsevier,0.278
+Grokking Artificial Intelligence Algorithms: Understand and apply the core algorithms of deep learning and artificial intelligence in this friendly illustrated guide including exercises and examples,[Rishal Hurbans],55.95,392,4.5,23,0.78,0.08,0.07,0.07,0,Manning,0.304666666666667
+Codeless Deep Learning with KNIME: Build train and deploy various deep neural network architectures using KNIME Analytics Platform,"[Kathrin Melcher,Rosaria Silipo]",49.99,384,4.4,26,0.66,0.16,0.11,0.07,0,Packt Publishing (November 27 2020),0.294
+Deep Learning Applications (Advances in Intelligent Systems and Computing 1098),,104.51,188,,0,0,0,0,0,0,Springer,0
+Deep Learning with Python: Learn Best Practices of Deep Learning Models with PyTorch,"[Nikhil Ketkar,Jojo Moolayil]",32.99,324,4,2,1,0,0,0,0,Apress,0.333333333333333
+Artificial Intelligence in Healthcare: AI Machine Learning and Deep and Intelligent Medicine Simplified for Everyone,[Dr Parag Suresh Mahajan MD],29.99,590,4.7,147,0.76,0.22,0.02,0.01,0,MedMantra LLC (March 5 2021),0.317333333333333
+Getting started with Deep Learning for Natural Language Processing: Learn how to build NLP applications with Deep Learning (English Edition),[Sunil Patel],29.95,404,4.6,9,0.55,0.45,0,0,0,BPB Publications (January 13 2021),0.303333333333333
+Neural Networks and Deep Learning: A Textbook,[Charu C. Aggarwal],49,520,4.5,164,0.69,0.19,0.07,0.02,0.03,Springer,0.299333333333333
+Deep Learning with PyTorch: A practical approach to building neural network models using PyTorch,[Vishnu Subramanian],31.75,262,3.5,20,0.46,0.11,0.1,0.15,0.19,Packt Publishing (February 23 2018),0.235333333333333
+Machine Learning with Python Cookbook: Practical Solutions from Preprocessing to Deep Learning,,45.39,366,4.5,172,0.72,0.16,0.05,0.04,0.03,OReilly Media,0.3
+Deep Learning with R Second Edition,"[Francois Chollet,Tomasz Kalinowski et al.]",59.99,568,4.6,148,0.82,0.09,0.03,0.03,0.03,Manning,0.309333333333333
+Designing Machine Learning Systems: An Iterative Process for Production-Ready Applications,[Chip Huyen],43.49,386,4.7,118,0.79,0.14,0.05,0.02,0.01,OReilly Media,0.314
+Deep Learning for the Earth Sciences: A Comprehensive Approach to Remote Sensing Climate Science and Geosciences,"[Gustau Camps-Valls,Devis Tuia et al.]",106.99,432,5,1,1,0,0,0,0,Wiley,0.333333333333333
+Math and Architectures of Deep Learning,[Krishnendu Chaudhury],49.99,535,,0,0,0,0,0,0,Manning (December 20 2022),0
+Programming Machine Learning: From Coding to Deep Learning,[Paolo Perrotta],33.49,342,4.8,42,0.83,0.12,0.05,0,0,Pragmatic Bookshelf,0.318666666666667
+Beginning Anomaly Detection Using Python-Based Deep Learning: With Keras and PyTorch,"[Sridhar Alla,Suman Kalyan Adari]",25.49,432,4.3,21,0.56,0.3,0.07,0.07,0,Apress,0.29
+Deep Reinforcement Learning: Fundamentals Research and Applications,"[Hao Dong,Zihan Ding et al.]",137.42,541,4.5,2,0.5,0.5,0,0,0,Springer,0.3
+Deep Learning for Personalised Healthcare Services (Issn 7),"[Jain,Vishal et al.]",103.29,246,,0,0,0,0,0,0,De Gruyter (October 25 2021),0
+Deep Learning in a Disorienting World,[Jon F. Wergin],35.99,210,5,7,1,0,0,0,0,Cambridge University Press (January 30 2020),0.333333333333333
+Artificial Intelligence Engines: A Tutorial Introduction to the Mathematics of Deep Learning,[James V Stone],23.99,216,4.3,52,0.6,0.23,0.09,0.03,0.05,Sebtel Press (March 28 2019),0.286666666666667
+Hands-On Machine Learning with C++: Build train and deploy end-to-end machine learning and deep learning pipelines,[Kirill Kolodiazhnyi],49.99,530,4.3,33,0.64,0.2,0.07,0.04,0.05,Packt Publishing (May 15 2020),0.289333333333333
+Machine Learning Design Patterns: Solutions to Common Challenges in Data Preparation Model Building and MLOps,"[Valliappa Lakshmanan,Sara Robinson et al.]",36.99,408,4.6,243,0.73,0.17,0.06,0.04,0.01,OReilly Media,0.306666666666667
+Deep Learning with Hadoop,[Dipayan Dev],41.99,206,4.7,5,0.74,0.26,0,0,0,Packt Publishing (February 20 2017),0.316
+Hands-On Mathematics for Deep Learning: Build a solid mathematical foundation for training efficient deep neural networks,[Jay Dawani],39.99,364,4,43,0.49,0.21,0.19,0.06,0.05,Packt Publishing (June 12 2020),0.268666666666667
+Mastering OpenCV 4 with Python: A practical guide covering topics from image processing augmented reality to deep learning with OpenCV 4 and Python 3.7,[Alberto Fernandez Villan],44.99,532,4,33,0.54,0.26,0.04,0.15,0,Packt Publishing (March 29 2019),0.277333333333333
+Deep Learning with PyTorch Lightning: Swiftly build high-performance Artificial Intelligence (AI) models using Python,[Kunal Sawarkar],44.64,366,4.8,11,0.8,0.2,0,0,0,Packt Publishing (April 29 2022),0.32
+Advanced Deep Learning with Python: Design and implement advanced next-generation AI solutions using TensorFlow and PyTorch,[Ivan Vasilev],44.99,468,4.6,30,0.7,0.2,0.1,0,0,Packt Publishing (December 12 2019),0.306666666666667
+Differentiation and the Brain: How Neuroscience Supports the Learner-Friendly Classroom (Use Brain-Based Learning and Neuroeducation to Differentiate Instruction),"[David A. Sousa,Carol Ann Tomlinson]",31.38,240,4.7,168,0.82,0.12,0.04,0.01,0,Solution Tree Press,0.314666666666667
+Programming PyTorch for Deep Learning: Creating and Deploying Deep Learning Applications,[Ian Pointer],34.49,220,4.1,55,0.68,0.04,0.1,0.11,0.07,OReilly Media,0.276666666666667
+MATLAB Deep Learning: With Machine Learning Neural Networks and Artificial Intelligence,[Phil Kim],37.09,168,4.2,37,0.61,0.21,0.04,0.07,0.07,Apress,0.281333333333333
+Deep Learning for Radar and Communications Automatic Target Recognition,"[Uttam K. Majumder,Erik P. Blasch et al.]",179,290,,0,0,0,0,0,0,Artech House (July 31 2020),0
+Deep Learning: A Practitioners Approach,"[Josh Patterson,Adam Gibson]",23.49,530,4.2,73,0.6,0.15,0.15,0.07,0.04,OReilly Media,0.282
+Synthetic Data for Deep Learning (Springer Optimization and Its Applications 174),,169.99,360,3.5,2,0.5,0.5,0,0,0,Springer,0.3
+Deep Reinforcement Learning with Python: Master classic RL deep RL distributional RL inverse RL and more with OpenAI Gym and TensorFlow 2nd Edition,[Sudharsan Ravichandiran],39.99,760,4.4,50,0.69,0.18,0.06,0.04,0.04,Packt Publishing (September 30 2020),0.298
+Python Machine Learning - Second Edition: Machine Learning and Deep Learning with Python scikit-learn and TensorFlow,"[Sebastian Raschka,Vahid Mirjalili]",41.99,622,4.5,272,0.69,0.19,0.05,0.02,0.05,Packt Publishing,0.296666666666667
+Essentials of Deep Learning and AI: Experience Unsupervised Learning Autoencoders Feature Engineering and Time Series Analysis with TensorFlow Keras and scikit-learn (English Edition),"[Shashidhar Soppin,Dr. Manjunath Ramachandra et al.]",29.95,394,5,4,1,0,0,0,0,BPB Publications (November 25 2021),0.333333333333333
+Hands-On Deep Learning with Apache Spark: Build and deploy distributed deep learning applications on Apache Spark,[Guglielmo Iozzia],46.99,322,4,1,1,0,0,0,0,Packt Publishing (January 31 2019),0.333333333333333
+Deep Learning from the Basics: Python and Deep Learning: Theory and Implementation,[Koki Saitoh],39.99,316,4.3,18,0.61,0.23,0.16,0,0,Packt Publishing (March 8 2021),0.296666666666667
+Introduction to Machine Learning with Python: A Guide for Data Scientists,,45,398,4.5,565,0.76,0.14,0.03,0.03,0.04,OReilly Media,0.303333333333333
+Machine Learning Engineering,[Andriy Burkov],39.49,310,4.7,222,0.87,0.06,0.03,0.03,0.03,True Positive Inc. (September 5 2020),0.318
+Feature Store for Machine Learning: Curate discover share and serve ML features at scale,[Jayanth Kumar M J],39.99,280,5,3,1,0,0,0,0,Packt Publishing (June 30 2022),0.333333333333333
+Machine Learning Fundamentals,[Hui Jiang],47.49,418,4.3,6,0.65,0.35,0,0,0,Cambridge University Press,0.31
+Applied Machine Learning Explainability Techniques: Make ML models explainable and trustworthy for practical applications using LIME SHAP and more,[Aditya Bhattacharya],44.99,306,5,2,1,0,0,0,0,Packt Publishing (July 29 2022),0.333333333333333
+Machine Learning in the Oil and Gas Industry: Including Geosciences Reservoir Engineering and Production Engineering with Python,"[Yogendra Narayan Pandey,Ayush Rastogi et al.]",26.99,320,4.9,20,0.87,0.13,0,0,0,Apress,0.324666666666667
+Machine Learning For Dummies,[John Paul Mueller],20.49,464,4.2,56,0.63,0.15,0.1,0.06,0.06,For Dummies,0.282
+Journey to Become a Google Cloud Machine Learning Engineer: Build the mind and hand of a Google Certified ML professional,[Dr. Logan Song],42.74,330,,0,0,0,0,0,0,Packt Publishing (September 20 2022),0
+Advances in Financial Machine Learning,[Marcos Lopez de Prado],40.49,400,4.5,514,0.76,0.09,0.07,0.03,0.05,Wiley,0.298666666666667
+Machine Learning: A Probabilistic Perspective (Adaptive Computation and Machine Learning series),,96.46,1104,4.4,314,0.72,0.11,0.07,0.06,0.04,The MIT Press,0.294
+Machine Learning: A Constraint-Based Approach,"[Marco Gori,Alessandro Betti et al.]",105,,,0,0,0,0,0,0,Morgan Kaufmann,0
+AWS Certified Machine Learning Specialty: MLS-C01 Certification Guide: The definitive guide to passing the MLS-C01 exam on the very first attempt,"[Somanath Nanda,Weslley Moura]",49.99,338,4.2,31,0.49,0.29,0.14,0.05,0.03,Packt Publishing (March 19 2021),0.277333333333333
+Pattern Recognition and Machine Learning (Information Science and Statistics),[Christopher M. Bishop],76.1,738,4.6,663,0.76,0.13,0.06,0.03,0.02,Springer (August 17 2006),0.305333333333333
+Fundamentals of Machine Learning for Predictive Data Analytics second edition: Algorithms Worked Examples and Case Studies,"[John D. Kelleher,Brian Mac Namee et al.]",80,856,4.8,48,0.87,0.1,0.03,0,0,The MIT Press,0.322666666666667
+Machine Learning for Asset Managers (Elements in Quantitative Finance),,20,152,4.5,101,0.77,0.08,0.08,0.04,0.03,Cambridge University Press (April 30 2020),0.301333333333333
+Human-in-the-Loop Machine Learning: Active learning and annotation for human-centered AI,[Robert (Munro) Monarch],42.49,424,4.4,16,0.79,0.11,0.11,0,0,Manning (July 20 2021),0.314666666666667
+Interpretable Machine Learning with Python: Learn to build interpretable high-performance models with hands-on real-world examples,[Serg MasÃ­s],40.41,736,4.6,47,0.76,0.14,0.04,0.06,0,Packt Publishing (March 26 2021),0.306666666666667
+Machine Learning for Streaming Data with Python: Rapidly build practical online machine learning solutions using River and other top key frameworks,[Joos Korstanje],44.99,258,5,2,1,0,0,0,0,Packt Publishing (July 15 2022),0.333333333333333
+Machine Learning Engineering in Action,[Ben Wilson],52.24,576,5,6,1,0,0,0,0,Manning (April 26 2022),0.333333333333333
+Gaussian Processes for Machine Learning (Adaptive Computation and Machine Learning series),"[Carl Edward Rasmussen,Christopher K. I. Williams]",50,272,4.7,56,0.82,0.09,0.03,0.02,0.03,The MIT Press (November 23 2005),0.308
+Understanding Machine Learning: From Theory to Algorithms,"[Shai Shalev-Shwartz,Shai Ben-David]",62.99,410,4.4,218,0.68,0.14,0.1,0.04,0.04,Cambridge University Press,0.292
+Machine Learning in Finance: From Theory to Practice,"[Matthew F. Dixon,Igor Halperin et al.]",83.8,573,4.5,92,0.79,0.07,0.08,0.03,0.04,Springer,0.304666666666667
+Machine Learning with Amazon SageMaker Cookbook: 80 proven recipes for data scientists and developers to perform machine learning experiments and deployments,[Joshua Arvin Lat],51.99,762,4.9,12,0.86,0.14,0,0,0,Packt Publishing (October 29 2021),0.324
+Introduction to Statistical and Machine Learning Methods for Data Science,"[Dr. Carlos Andre Reis Andre Reis Pinheiro,Mike Patetta]",29.95,170,5,2,1,0,0,0,0,SAS Institute (August 6 2021),0.333333333333333
+Probabilistic Numerics: Computation as Machine Learning,"[Philipp Hennig,Michael A. Osborne et al.]",62.99,410,,0,0,0,0,0,0,Cambridge University Press,0
+Knowledge Graphs: Fundamentals Techniques and Applications (Adaptive Computation and Machine Learning series),,52.25,568,4.3,45,0.62,0.24,0.05,0.03,0.06,The MIT Press (March 30 2021),0.288666666666667
+Scaling Machine Learning with Spark: Distributed ML with MLlib TensorFlow and PyTorch,[Adi Polak],64.31,400,,0,0,0,0,0,0,OReilly Media,0
+Building Machine Learning Pipelines: Automating Model Life Cycles with TensorFlow,"[Hannes Hapke,Catherine Nelson]",35.49,366,4.5,57,0.74,0.09,0.1,0.05,0.03,OReilly Media,0.299333333333333
+Hey Cyba,[Steve Young],22.3,254,4.3,7,0.53,0.29,0.18,0,0,Cambridge University Press,0.29
+Python Programming for Beginners: The #1 Python Programming Crash Course for Beginners to Learn Python Coding Well & Fast (with Hands-On Exercises),[Codeone Publishing],19.45,125,4.3,347,0.66,0.17,0.06,0.06,0.05,Independently published (March 11 2022),0.288666666666667
+Machine Learning: A Bayesian and Optimization Perspective,[Sergios Theodoridis],74.42,1160,4.6,24,0.81,0.09,0.04,0.06,0,Academic Press,0.31
+Machine Learning: A Quantitative Approach,[Henry H Liu],49.99,479,4.8,23,0.8,0.2,0,0,0,CreateSpace Independent Publishing Platform (March 12 2018),0.32
+Machine Learning for Text,[Charu C. Aggarwal],75.9,588,,0,0,0,0,0,0,Springer,0
+Machine Learning revised and updated edition (The MIT Press Essential Knowledge series),,15.95,280,4.1,14,0.47,0.22,0.22,0.09,0,The MIT Press,0.271333333333333
+Machine Learning Guide for Oil and Gas Using Python: A Step--Step Breakdown with Data Algorithms Codes and Applications,"[Hoss Belyadi,Alireza Haghighat]",115.78,476,5,3,1,0,0,0,0,Gulf Professional Publishing,0.333333333333333
+Automated Machine Learning for Business,"[Kai R. Larsen,Daniel S. Becker]",45,352,5,4,1,0,0,0,0,Oxford University Press (June 10 2021),0.333333333333333
+Data Mining: Concepts and Techniques (The Morgan Kaufmann Series in Data Management Systems),,71.2,744,4.3,243,0.66,0.17,0.05,0.05,0.06,Morgan Kaufmann,0.286
+Natural Language Processing with Transformers Revised Edition,"[Lewis Tunstall,Leandro von Werra et al.]",45.29,406,4.1,16,0.56,0.19,0.08,0.08,0.08,OReilly Media,0.269333333333333
+Mastering Azure Machine Learning: Execute large-scale end-to-end machine learning with Azure 2nd Edition,"[Christoph Korner,Marcel Alsdorf]",44.99,624,5,5,1,0,0,0,0,Packt Publishing,0.333333333333333
+Getting Started with Natural Language Processing,[Ekaterina Kochmar],39.99,456,,0,0,0,0,0,0,Manning (October 18 2022),0
+Build Your Own Programming Language: A programmers guide to designing compilers interpreters and DSLs for solving modern computing problems,[Clinton L. Jeffery],40.49,494,4.3,31,0.57,0.29,0.09,0.05,0,Packt Publishing (December 31 2021),0.292
+Introduction to Online Convex Optimization second edition (Adaptive Computation and Machine Learning series),,60,248,,0,0,0,0,0,0,The MIT Press,0
+Machine Learning in Asset Pricing (Princeton Lectures in Finance 1),,42.99,160,4.3,7,0.81,0.19,0,0,0,Princeton University Press (May 11 2021),0.320666666666667
+Data Cleaning and Exploration with Machine Learning: Get to grips with machine learning techniques to achieve sparkling-clean data quickly,[Michael Walker],49.99,542,5,1,1,0,0,0,0,Packt Publishing (August 26 2022),0.333333333333333
+Machine Learning Engineering on AWS: Building Scaling and Securing Machine Learning Systems and MLOps Pipelines in Production,[Joshua Arvin Lat],44.99,570,,0,0,0,0,0,0,Packt Publishing - ebooks Account (November 9 2022),0
+Practical Machine Learning for Computer Vision: End-to-End Machine Learning for Images,"[Valliappa Lakshmanan,Martin GÃ¶rner et al.]",52.99,482,4.1,18,0.62,0.09,0.2,0.09,0,OReilly Media,0.282666666666667
+Getting Started with Amazon SageMaker Studio: Learn to build end-to-end machine learning projects in the SageMaker machine learning IDE,[Michael Hsieh],41.99,326,4.8,9,0.83,0.17,0,0,0,Packt Publishing (March 31 2022),0.322
+Data Engineering with Google Cloud Platform: A practical guide to operationalizing scalable data analytics systems on GCP,[Adi Wijaya],49.99,440,4.6,13,0.61,0.39,0,0,0,Packt Publishing (March 31 2022),0.307333333333333
+AWS Certified Machine Learning Study Guide: Specialty (MLS-C01) Exam,"[Shreyas Subramanian,Stefan Natu]",35.49,352,4.9,18,0.91,0.09,0,0,0,Sybex,0.327333333333333
+Reinforcement Learning second edition: An Introduction (Adaptive Computation and Machine Learning series),,66.44,552,4.6,460,0.82,0.08,0.02,0.02,0.06,Bradford Books,0.305333333333333
+Envisioning Information,[Edward R. Tufte],42,126,4.6,377,0.76,0.12,0.07,0.02,0.03,Graphics Pr (May 1 1990),0.304
+Kubeflow for Machine Learning: From Lab to Production,"[Trevor Grant,Holden Karau et al.]",29.6,264,4.1,44,0.55,0.23,0.06,0.06,0.1,OReilly Media,0.271333333333333
+Tree-Based Methods for Statistical Learning in R: A Practical Introduction with Applications in R (Chapman & Hall/CRC Data Science Series),,86.32,388,,0,0,0,0,0,0,Chapman and Hall/CRC,0
+The Pragmatic Programmer: Your Journey To Mastery 20th Anniversary Edition (2nd Edition),"[David Thomas,Andrew Hunt]",30.26,352,4.8,2026,0.85,0.11,0.02,0.01,0,Addison-Wesley Professional,0.318
+Python Machine Learning Workbook for Beginners: 10 Machine Learning Projects Explained from Scratch,,19.99,282,4.6,23,0.73,0.14,0.14,0,0,AI Publishing LLC (December 14 2020),0.308666666666667
+Data Science and Machine Learning Interview Questions Using R: Crack the Data Scientist and Machine Learning Engineers Interviews with Ease (English Edition),[Vishwanathan Narayanan],19.95,130,4.3,7,0.53,0.29,0.18,0,0,BPB Publications (June 23 2020),0.29
+Automated Machine Learning on AWS: Fast-track the development of your production-ready machine learning applications the AWS way,"[Trenton Potgieter,Jonathan Dahlberg]",44.99,420,4.8,8,0.82,0.18,0,0,0,Packt Publishing (April 15 2022),0.321333333333333
+Quantum Machine Learning with Python: Using Cirq from Google Research and IBM Qiskit,[Santanu Pattanayak],28.98,384,3.9,14,0.53,0.16,0.15,0.16,0,Apress,0.270666666666667
+TensorFlow Machine Learning Projects: Build 13 real-world projects with advanced numerical computations using the Python ecosystem,"[Ankit Jain,Armando Fandango et al.]",36.99,322,4,22,0.56,0.13,0.13,0.08,0.09,Packt Publishing (November 30 2018),0.264
+Applied Machine Learning and AI for Engineers: Solve Business Problems That Cant Be Solved Algorithmically,[Jeff Prosise],64.36,375,,0,0,0,0,0,0,OReilly Media,0
+An Introduction to Machine Learning,[Miroslav Kubat],56.99,476,,0,0,0,0,0,0,Springer,0
+Linear Algebra and Learning from Data,[Gilbert Strang],82.47,446,4.6,208,0.82,0.1,0.01,0.02,0.05,Wellesley-Cambridge Press,0.308
+Feature Engineering for Machine Learning: Principles and Techniques for Data Scientists,"[Alice Zheng,Amanda Casari]",42.49,218,4.5,65,0.65,0.21,0.1,0.04,0,OReilly Media,0.298
+Fundamentals of Machine Learning for Predictive Data Analytics: Algorithms Worked Examples and Case Studies (The MIT Press),"[John D. Kelleher,Brian Mac Namee et al.]",59.94,624,4.6,97,0.79,0.15,0.01,0.03,0.03,The MIT Press,0.311333333333333
+Feature Engineering Bookcamp,[Sinan Ozdemir],49.99,272,,0,0,0,0,0,0,Manning (October 4 2022),0
+Build Your Own AI Investor: Third Edition (AI Investor Series),[Dr. Damon Lee],52.99,318,4.2,3,0.62,0.38,0,0,0,www.valueinvestingai.com (June 9 2022),0.308
+Text Data Mining,"[Chengqing Zong,Rui Xia et al.]",29.31,372,5,1,1,0,0,0,0,Springer,0.333333333333333
+Mathematics for Machine Technology,"[John C. Peterson,Robert D. Smith]",125.99,608,4.6,156,0.76,0.13,0.08,0.01,0.02,Cengage Learning,0.306666666666667
+Distributed Machine Learning Patterns,[Yuan Tang],59.99,375,,0,0,0,0,0,0,Manning (February 28 2023),0
+Machine Learning and Security: Protecting Systems with Data and Algorithms,"[Clarence Chio,David Freeman]",44.49,383,4.5,44,0.72,0.1,0.18,0,0,OReilly Media,0.302666666666667
+Machine Learning for Beginners: Learn to Build Machine Learning Systems Using Python (English Edition),[Harsh Bhasin],16.23,262,3.9,33,0.52,0.18,0.07,0.13,0.1,BPB Publications (August 21 2020),0.259333333333333
+Python for Data Science: 2 Books in 1. A Practical Beginnerâ€™s Guide to learn Python Programming introducing into Data Analytics Machine learning Web Development with Hands-on Projects,[ERICK THOMPSON],24.99,265,3.5,18,0.6,0.08,0.33,0,0,Independently published (October 27 2020),0.287333333333333
+The Machine Learning Workshop: Get ready to develop your own high-performance machine learning algorithms with scikit-learn 2nd Edition,[Hyatt Saleh],36.99,286,4.6,11,0.75,0.11,0.14,0,0,Packt Publishing (July 22 2020),0.307333333333333
+Bayesian Reasoning and Machine Learning,[David Barber],81.99,735,4.2,83,0.66,0.14,0.07,0.06,0.07,Cambridge University Press,0.284
+Bayesian Optimization,[Roman Garnett],44.99,150,,0,0,0,0,0,0,Cambridge University Press (April 30 2023),0
+Introduction To Machine Learning In Quantitative Finance An (Advanced Textbooks In Mathematics),"[Hao Ni,Xin Dong et al.]",38.99,262,3.6,4,0.45,0.28,0.27,0,0,WSPC (EUROPE) (April 9 2021),0.278666666666667
+Data Mining and Machine Learning: Fundamental Concepts and Algorithms,"[Mohammed J. Zaki,Wagner Meira Jr]",55.24,776,4.7,17,0.77,0.14,0.09,0,0,Cambridge University Press,0.312
+Artificial Intelligence and Machine Learning for Business: A No-Nonsense Guide to Data Driven Technologies,[Steven Finlay],19.99,236,4.4,11,0.51,0.37,0.12,0,0,Relativistic (May 27 2021),0.292666666666667
+Practical Machine Learning with Spark: Uncover Apache Sparkâ€™s Scalable Performance with High-Quality Algorithms Across NLP Computer Vision and ML(English Edition),"[Gourav Gupta,Dr. Manish Gupta et al.]",29.95,498,,0,0,0,0,0,0,BPB Publications (April 28 2022),0
+Machine Learning in Business: An Introduction to the World of Data Science,[John C Hull],39,287,4.9,23,0.85,0.15,0,0,0,Independently published (May 26 2021),0.323333333333333
+A First Course in Machine Learning (Chapman & Hall/CRC Machine Learning & Pattern Recognition),"[Simon Rogers,Mark Girolami]",43.96,428,4.4,34,0.69,0.15,0.04,0.04,0.07,Chapman and Hall/CRC,0.288
+Statistics Data Mining and Machine Learning in Astronomy: A Practical Python Guide for the Analysis of Survey Data Updated Edition (Princeton Series in Modern Observational Astronomy 13),"[Å½eljko IveziÄ‡,Andrew J. Connolly et al.]",78.8,560,4.9,16,0.91,0.09,0,0,0,Princeton University Press,0.327333333333333
+Google BigQuery: The Definitive Guide: Data Warehousing Analytics and Machine Learning at Scale,"[Valliappa Lakshmanan,Jordan Tigani]",29.99,522,4.5,93,0.67,0.22,0.06,0.02,0.02,OReilly Media,0.298
+Machine Learning: An Algorithmic Perspective (Chapman & Hall/CRC Machine Learning & Pattern Recognition),,78.96,458,4.2,74,0.59,0.22,0.09,0.04,0.07,Chapman and Hall/CRC,0.283333333333333
+SQL FOR BEGINNERS: THE FUNDAMENTAL LANGUAGE FOR DATA SCIENCE TO MASTERING DATABASES. AN ESSENTIAL GUIDE YOU CANâ€™T MISS TO LEARN SQL IN 7 DAYS OR LESS WITH HANDS-ON PROJECTS.,[ERICK THOMPSON],13.99,155,3.9,19,0.39,0.3,0.16,0.07,0.08,Independently published (September 18 2020),0.256666666666667
+Introduction to Data Mining and Analytics,[Kris Jamsa],67.65,668,4.6,14,0.75,0.1,0.16,0,0,Jones & Bartlett Learning (February 17 2020),0.308666666666667
+Machine Learning for Hackers: Case Studies and Algorithms to Get You Started,"[Drew Conway,John Myles White]",49.99,324,3.7,53,0.46,0.17,0.12,0.15,0.1,OReilly,0.249333333333333
+Automated Machine Learning in Action,"[Qingquan Song,Haifeng Jin et al.]",44.99,336,4.5,2,0.5,0.5,0,0,0,Manning (June 7 2022),0.3
+A Primer on Machine Learning in Subsurface Geosciences (SpringerBriefs in Petroleum Geoscience & Engineering),,72,192,5,2,1,0,0,0,0,Springer,0.333333333333333
+Machine Learning Refined: Foundations Algorithms and Applications,"[Jeremy Watt,Reza Borhani et al.]",60.61,594,3.9,37,0.6,0.12,0.06,0.07,0.15,Cambridge University Press,0.263333333333333
+Programming for Data Science: 4 Books in 1. The Complete Beginners Guide you Canâ€™t Miss to Master the Era of the Data Economy using Python Java SQL Coding,[ERICK THOMPSON],33.99,610,4,25,0.5,0.25,0.06,0.09,0.1,Independently published (October 28 2020),0.264
+Hands-On Unsupervised Learning Using Python: How to Build Applied Machine Learning Solutions from Unlabeled Data,[Ankur A. Patel],35.5,362,4.1,81,0.66,0.07,0.11,0.03,0.13,OReilly Media,0.273333333333333
+Reliable Machine Learning: Applying SRE Principles to ML in Production,"[Cathy Chen,Niall Murphy et al.]",61.99,350,,0,0,0,0,0,0,OReilly Media,0
+Building Machine Learning Powered Applications: Going from Idea to Product,[Emmanuel Ameisen],36.74,260,4.4,116,0.69,0.12,0.1,0.05,0.03,OReilly Media,0.290666666666667
+Machine Learning,[Peter Flach],53.99,416,4.2,77,0.58,0.21,0.08,0.08,0.06,Cambridge University Press,0.28
+Exploring GPT-3: An unofficial first look at the general-purpose language processing API from OpenAI,"[Steve Tingiris,Bret Kinsella]",49.99,296,4.4,19,0.7,0.11,0.1,0.09,0,Packt Publishing (August 27 2021),0.294666666666667
+Math for Programmers: 3D graphics machine learning and simulations with Python,[Paul Orland],40.84,688,4.5,55,0.72,0.13,0.09,0.03,0.03,Manning,0.298666666666667
+Hands-On Julia Programming: An Authoritative Guide to the Production-Ready Systems in Julia (English Edition),[Sambit Kumar Dash],29.95,388,3.3,5,0.36,0.21,0.22,0.21,0,BPB Publications (October 21 2021),0.248
+Data Mining: Practical Machine Learning Tools and Techniques (Morgan Kaufmann Series in Data Management Systems),,51.57,654,4.2,109,0.58,0.24,0.08,0.02,0.08,Morgan Kaufmann,0.281333333333333
+Machine Learning for Financial Risk Management with Python: Algorithms for Modeling Risk,[Abdullah Karasan],49.99,334,3.8,8,0.58,0.26,0.16,0,0,OReilly Media,0.294666666666667
+System Design Interview â€“ An insiders guide,[Alex Xu],37.99,320,4.6,1957,0.72,0.18,0.06,0.02,0.02,Independently published (June 12 2020),0.304
+Linear Algebra and Optimization for Machine Learning: A Textbook,[Charu C. Aggarwal],47.27,516,4.6,85,0.74,0.17,0.07,0.01,0.02,Springer,0.308666666666667
+Data Algorithms with Spark: Recipes and Design Patterns for Scaling Up using PySpark,[Mahmoud Parsian],45.56,435,5,6,1,0,0,0,0,OReilly Media,0.333333333333333
+Graph Machine Learning: Take graph data to the next level applying machine learning techniques and algorithms,"[Claudio Stamile,Aldo Marzullo et al.]",46.99,338,4,54,0.52,0.25,0.08,0.03,0.11,Packt Publishing (June 25 2021),0.267333333333333
+Machine Learning Pocket Reference: Working with Structured Data in Python,[Matt Harrison],20.99,320,4.6,144,0.73,0.17,0.05,0.02,0.03,OReilly Media,0.303333333333333
+Distributed Machine Learning with Python: Accelerating model training and serving with distributed systems,[Guanhua Wang],46.99,284,4,11,0.76,0.24,0,0,0,Packt Publishing (April 29 2022),0.317333333333333
+Machine Learning Engineering with Python: Manage the production life cycle of machine learning models using MLOps with practical examples,[Andrew P. McMahon],39.99,276,4.5,18,0.62,0.23,0.15,0,0,Packt Publishing (November 5 2021),0.298
+Practical Robotics in C++: Build and Program Real Autonomous Robots Using Raspberry Pi (English Edition),[Lloyd Brombach],29.95,506,4.5,52,0.79,0.06,0.09,0.03,0.03,BPB Publications (January 29 2021),0.303333333333333
+Python Programming: 3 Books in 1: The Complete Beginnerâ€™s Guide to Learning the Most Popular Programming Language,[Dylan Penny],23.99,330,4.1,45,0.62,0.18,0.05,0.03,0.12,Independently published (January 22 2021),0.276666666666667
+Serverless Architectures on AWS Second Edition,"[Peter Sbarski,Yan Cui et al.]",34.99,256,4.3,14,0.55,0.35,0.1,0,0,Manning,0.296666666666667
+Automated Machine Learning with Microsoft Azure: Build highly accurate and scalable end-to-end AI solutions with Azure AutoML,[Dennis Michael Sawyers],46.99,340,4.6,26,0.72,0.19,0.1,0,0,Packt Publishing (April 23 2021),0.310666666666667
+Machine Learning for Computer Scientists and Data Analysts: From an Applied Perspective,"[Setareh Rafatirad,Houman Homayoun et al.]",121,473,,0,0,0,0,0,0,Springer,0
+Interpretable AI: Building explainable machine learning systems,[Ajay Thampi],59.99,328,4.5,2,0.49,0.51,0,0,0,Manning (July 5 2022),0.299333333333333
+Machine Learning with Dynamics 365 and Power Platform: The Ultimate Guide to Apply Predictive Analytics,"[Aurelien Clere,Vinnie Bansal et al.]",37.51,240,3.3,5,0.58,0.42,0,0,0,Wiley,0.305333333333333
+Machine Learning with TensorFlow Second Edition,[Mattmann A. Chris],46.61,456,4.2,15,0.57,0.24,0.06,0.08,0.06,Manning,0.280666666666667
+Machine Learning: Architecture in the age of Artificial Intelligence,[Phil Bernstein],46.95,200,4.7,4,0.7,0.3,0,0,0,RIBA Publishing,0.313333333333333
+Machine Learning: An Applied Mathematics Introduction,[Paul Wilmott],19.99,242,4.5,188,0.71,0.14,0.08,0.04,0.02,Panda Ohana Publishing,0.296666666666667
+Practical MLOps: Operationalizing Machine Learning Models,"[Noah Gift,Alfredo Deza]",45.18,458,3.9,30,0.56,0.15,0.09,0.05,0.16,OReilly Media,0.262
+An Introduction to Statistical Learning: with Applications in R (Springer Texts in Statistics),,72.02,622,4.6,143,0.83,0.07,0.04,0.01,0.05,Springer,0.308
+Python Machine Learning Example: Build intelligent systems using Python TensorFlow 2 PyTorch and scikit-learn 3rd Edition,[Yuxi (Hayden) Liu],34.99,526,4.5,65,0.75,0.15,0.04,0.06,0,Packt Publishing,0.306
+The Elements of Statistical Learning: Data Mining Inference and Prediction Second Edition (Springer Series in Statistics),,61.93,767,4.6,1016,0.82,0.07,0.04,0.03,0.04,Springer,0.306666666666667
+PYTHON CRASH COURSE: A PRACTICAL BEGINNERS GUIDE TO LEARN PYTHON IN 7 DAYS OR LESS INTRODUCING YOU INTO THE WORLD OF DATA SCIENCE ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING WITH HANDS-ON PROJECT,[ERICK THOMPSON],14.99,145,3.8,12,0.6,0.13,0.27,0,0,Independently published (September 18 2020),0.288666666666667
+Artificial Intelligence: A Textbook,[Charu C. Aggarwal],53.54,503,4.1,5,0.78,0.22,0,0,0,Springer,0.318666666666667
+Advanced Statistics for Health Research,"[Richard J. Butler,Matthew J. Butler et al.]",108,300,,0,0,0,0,0,0,World Scientific Pub Co Inc (April 17 2023),0
+Patterns Predictions and Actions: Foundations of Machine Learning,"[Moritz Hardt,Benjamin Recht]",49.99,320,,0,0,0,0,0,0,Princeton University Press (October 18 2022),0
+Python Feature Engineering Cookbook: Over 70 recipes for creating engineering and transforming features to build machine learning models,[Soledad Galli],39.99,372,4,30,0.61,0.1,0.06,0.12,0.11,Packt Publishing (January 22 2020),0.265333333333333
+Machine Learning: Master Supervised and Unsupervised Learning Algorithms with Real Examples (English Edition),"[Dr Ruchi Doshi,Dr Kamal Kant Hiran et al.]",19.95,294,3.8,4,0.69,0.31,0,0,0,BPB Publications (September 17 2021),0.312666666666667
+Text as Data: A New Framework for Machine Learning and the Social Sciences,"[Justin Grimmer,Margaret E. Roberts et al.]",35.99,360,4.8,15,0.78,0.22,0,0,0,Princeton University Press (March 29 2022),0.318666666666667
+Machine Learning from Weak Supervision: An Empirical Risk Minimization Approach (Adaptive Computation and Machine Learning series),"[Masashi Sugiyama,Han Bao et al.]",65,320,,0,0,0,0,0,0,The MIT Press (August 23 2022),0
+Introduction to Machine Learning fourth edition (Adaptive Computation and Machine Learning series),,57.99,712,4.7,62,0.84,0.1,0.01,0.04,0,The MIT Press,0.314
+Quantum Computing for Programmers,[Robert Hundt],45.3,350,4.3,3,0.64,0.36,0,0,0,Cambridge University Press,0.309333333333333
+Computer Programming for Beginners: Fundamentals of Programming Terms and Concepts,[Nathan Clark],18.99,201,4.4,370,0.63,0.17,0.13,0.03,0.03,CreateSpace Independent Publishing Platform (May 21 2018),0.287333333333333
+Practical Simulations for Machine Learning: Using Synthetic Data for AI,"[Paris Buttfield-Addison,Mars Buttfield-Addison et al.]",46.49,331,5,1,1,0,0,0,0,OReilly Media,0.333333333333333
+Machine Learning: A First Course for Engineers and Scientists,"[Andreas Lindholm,Niklas WahlstrÃ¶m et al.]",69.99,350,5,1,1,0,0,0,0,Cambridge University Press,0.333333333333333
+Beyond the Basic Stuff with Python: Best Practices for Writing Clean Code,[Al Sweigart],30.22,384,4.7,236,0.8,0.15,0.04,0.01,0,No Starch Press (December 16 2020),0.316
+Fluent Python: Clear Concise and Effective Programming,[Luciano Ramalho],50.99,1012,4.7,118,0.85,0.07,0.03,0.02,0.02,OReilly Media,0.312
+Python Distilled (Developers Library),[David Beazley],46.82,352,4.6,91,0.76,0.12,0.08,0.01,0.03,Pearson,0.304666666666667
+Python and Algorithmic Thinking for the Complete Beginner (2nd Edition): Learn to Think Like a Programmer,[Aristides S Bouras],48.98,688,4.5,91,0.72,0.16,0.06,0.02,0.05,Independently published (June 16 2019),0.300666666666667
+Python Basics: A Practical Introduction to Python 3,"[David Amos,Dan Bader et al.]",37.99,635,4.7,476,0.78,0.14,0.04,0.02,0.01,Real Python (realpython.com) (March 16 2021),0.308666666666667
+Mathematical Logic through Python,[Gonczarowski Yannai A.],29.99,284,5,1,1,0,0,0,0,Cambridge University Press,0.333333333333333
+Python Programming: An Introduction to Computer Science 3rd Ed.,[John Zelle],42.75,552,4.6,376,0.77,0.12,0.06,0.02,0.03,Franklin Beedle & Associates,0.305333333333333
+Python Object-Oriented Programming: Build robust and maintainable object-oriented Python applications and libraries 4th Edition,"[Steven F. Lott,Dusty Phillips]",38.24,714,4.3,62,0.58,0.19,0.17,0.03,0.02,Packt Publishing,0.283333333333333
+Think Python: How to Think Like a Computer Scientist,,28.99,289,4.6,486,0.77,0.13,0.08,0.01,0.01,OReilly Media,0.309333333333333
+Learn Python Programming: An in-depth introduction to the fundamentals of Python 3rd Edition,"[Fabrizio Romano,Heinrich Kruger]",37.11,552,4.2,34,0.52,0.27,0.12,0.05,0.05,Packt Publishing,0.279333333333333
+Mastering Financial Pattern Recognition: Finding and Back-Testing Candlestick Patterns with Python,[Sofien Kaabar],64.32,300,,0,0,0,0,0,0,OReilly Media,0
+Robust Python: Write Clean and Maintainable Code,[Patrick Viafore],32.99,380,4.5,53,0.75,0.13,0.06,0.02,0.04,OReilly Media,0.302
+Django 4 Example: Build powerful and reliable Python web applications from scratch 4th Edition,"[Antonio Mele,Bob Belderbos]",47.18,764,5,6,1,0,0,0,0,Packt Publishing,0.333333333333333
+Python GUI Programming with Tkinter: Design and build functional and user-friendly GUI applications 2nd Edition,[Alan D. Moore],39.99,664,4.4,47,0.67,0.1,0.15,0.08,0,Packt Publishing,0.290666666666667
+Learn Python 3 the Hard Way: A Very Simple Introduction to the Terrifyingly Beautiful World of Computers and Code (Zed Shaws Hard Way Series),,31.99,320,4.4,904,0.7,0.16,0.07,0.03,0.04,Addison-Wesley Professional,0.296666666666667
+Python in a Nutshell: A Desktop Quick Reference,"[Alex Martelli,Anna Ravenscroft et al.]",79.99,600,,0,0,0,0,0,0,OReilly Media,0
+Teach Yourself VISUALLY Python (Teach Yourself VISUALLY (Tech)),"[Ted Hart-Davis,Guy Hart-Davis]",30,304,,0,0,0,0,0,0,Wiley,0
+Advanced Python Scripting for ArcGIS Pro,[Paul A. Zandbergen],40.99,290,4.4,41,0.7,0.13,0.1,0.06,0,Esri Press,0.296
+Infrastructure as Code Patterns and Practices: With examples in Python and Terraform,[Rosemary Wang],56.99,400,4.8,5,0.75,0.25,0,0,0,Manning (August 30 2022),0.316666666666667
+Effective Python: 90 Specific Ways to Write Better Python (Effective Software Development Series),,40.86,480,4.7,344,0.82,0.12,0.04,0.02,0.01,Addison-Wesley Professional,0.316666666666667
+Architecture Patterns with Python: Enabling Test-Driven Development Domain-Driven Design and Event-Driven Microservices,"[Harry Percival,Bob Gregory]",44.37,304,4.6,359,0.75,0.15,0.06,0.02,0.02,OReilly Media,0.306
+Computational Cell Physiology: With Examples In Python,[Stephen M Baylor],39,518,5,8,1,0,0,0,0,Independently published (January 16 2020),0.333333333333333
+The Book of Dash: Build Dashboards with Python and Plotly,"[Adam Schroeder,Christian Mayer et al.]",34.99,224,,0,0,0,0,0,0,No Starch Press (October 25 2022),0
+Python for Programmers: with Big Data and Artificial Intelligence Case Studies,,37.41,640,4.4,110,0.7,0.14,0.08,0.02,0.05,Pearson (March 22 2019),0.292666666666667
+Mastering Python: Write powerful and efficient code using the full range of Pythons capabilities 2nd Edition,[Rick van Hattem],42.74,710,4.7,33,0.71,0.29,0,0,0,Packt Publishing,0.314
+Murachs Python Programming,"[Michael Urban,Joel Murach et al.]",34.3,590,4.5,211,0.72,0.16,0.08,0.01,0.03,Mike Murach & Associates (December 13 2016),0.302
+El lenguaje de programaciÃ³n Python de principio a fin (Spanish Edition),[Angel Pablo Hinojosa GutiÃ©rrez],18.83,734,5,1,1,0,0,0,0,Independently published (July 13 2022),0.333333333333333
+Building Versatile Mobile Apps with Python and REST: RESTful Web Services with Django and React,[Art Yudin],39.99,364,4,10,0.56,0.26,0.18,0,0,Apress,0.292
+Kalman Filter Made Easy: A Beginners Guide to the Kalman Filter and Extended Kalman Filter with Real Life Examples Supported Python Source Code,[William Franklin],29.99,91,3.5,3,0.62,0.38,0,0,0,Independently published (August 12 2022),0.308
+Scaling Python with Ray: Adventures in Cloud and Serverless Patterns,"[Holden Karau,Boris Lublinsky]",56.26,250,,0,0,0,0,0,0,OReilly Media,0
+Data Visualization with Python and JavaScript: Scrape Clean Explore and Transform Your Data,[Kyran Dale],56.26,550,,0,0,0,0,0,0,OReilly Media,0
+The Well-Grounded Python Developer,[Doug Farrell],49.99,375,,0,0,0,0,0,0,Manning (December 27 2022),0
+Algorithmic Short Selling with Python: Refine your algorithmic trading edge consistently generate investment ideas and build a robust long/short product,"[Laurent Bernut,Michael Covel]",49.39,376,4.9,34,0.89,0.11,0,0,0,Packt Publishing (September 30 2021),0.326
+Publishing Python Packages: Test share and automate your projects,[Dane Hillard],49.99,245,,0,0,0,0,0,0,Manning (December 20 2022),0
+Create GUI Applications with Python & Qt6 (PyQt6 Edition): The hands-on guide to making apps with Python,,39,,4,2,0.5,0.5,0,0,0,Independently published (May 19 2022),0.3
+Mastering Object-Oriented Python: Build powerful applications with reusable code using OOP design patterns and Python 3.7 2nd Edition,[Steven F. Lott],33.48,770,4.6,48,0.73,0.18,0.05,0.03,0,Packt Publishing (June 14 2019),0.305333333333333
+Mastering Python for Networking and Security: Leverage the scripts and libraries of Python version 3.7 and beyond to overcome networking and security issues 2nd Edition,[JosÃ© Manuel Ortega],39.99,538,4.9,37,0.86,0.14,0,0,0,Packt Publishing,0.324
+Quantum Chemistry and Computing for the Curious: Illustrated with Python and QiskitÂ® code,"[Keeper L. Sharkey,Alain Chance et al.]",47.99,354,4.8,14,0.84,0.16,0,0,0,Packt Publishing (May 20 2022),0.322666666666667
+Metaprogramming with Python: A programmers guide to writing reusable code to build smarter applications,[Sulekha AloorRavi],44.99,402,,0,0,0,0,0,0,Packt Publishing (September 9 2022),0
+Building Python Web APIs with FastAPI: A fast-paced guide to building high-performance robust web APIs with very little boilerplate code,[Abdulazeez Abdulazeez Adeshina],39.99,216,4.4,8,0.58,0.26,0.16,0,0,Packt Publishing (July 29 2022),0.294666666666667
+Dead Simple Python: Idiomatic Python for the Impatient Programmer,[Jason C McDonald],59.99,752,,0,0,0,0,0,0,No Starch Press (November 8 2022),0
+Python for Cybersecurity: Using Python for Cyber Offense and Defense,[Howard E. Poston III],18.74,240,4.6,9,0.85,0.15,0,0,0,Wiley,0.323333333333333
+Cracking Codes with Python: An Introduction to Building and Breaking Ciphers,[Al Sweigart],19.37,416,4.7,354,0.82,0.12,0.03,0.02,0.01,No Starch Press,0.314666666666667
+Web Scraping with Python: Collecting More Data from the Modern Web,[Ryan Mitchell],33.49,,4.6,178,0.76,0.13,0.06,0.02,0.03,OReilly Media,0.304666666666667
+Data Structures and Algorithms in Python,"[Roberto Tamassia,Michael H. Goldwasser et al.]",99.88,768,4.3,225,0.68,0.13,0.08,0.03,0.08,Wiley,0.286666666666667
+Python Workout: 50 ten-minute exercises,[Reuven M. Lerner],56.99,248,4.9,39,0.88,0.12,0,0,0,Manning,0.325333333333333
+Real-World Python: A Hackers Guide to Solving Problems with Code,[Lee Vaughan],24.49,360,4.7,88,0.78,0.15,0.03,0.03,0.01,No Starch Press (November 5 2020),0.310666666666667
+Full-Color Illustration Data Structrues & Algorithms Python: Easy and Interesting to Learn Through Full-Color Diagrams (Python Foundation & Design Patterns & Data Structures & Algorithms),[yang hu],49.99,264,,0,0,0,0,0,0,Independently published (October 1 2021),0
+Python Programming and Visualization for Scientists,"[Alex Decaria,Grant W Petty et al.]",44.43,372,5,7,1,0,0,0,0,Sundog Publishing LLC,0.333333333333333
+Easy Learning Python 3: Python for Beginners Guide (Easy Learning Python and design patterns and data structures and algorithms),[yang hu],18.53,180,3.9,25,0.42,0.29,0.13,0.1,0.06,Independently published (April 1 2019),0.260666666666667
+Learn More Python 3 the Hard Way: The Next Step for New Python Programmers (Zed Shaws Hard Way Series),,37.99,240,4.6,102,0.77,0.13,0.04,0.02,0.03,Addison-Wesley Professional,0.304
+Scientific Computing with Python: High-performance scientific computing with NumPy SciPy and pandas 2nd Edition,"[Claus FÃ¼hrer,Jan Erik Solem et al.]",39.99,392,4.6,23,0.72,0.2,0.08,0,0,Packt Publishing,0.309333333333333
+Mastering Python for Bioinformatics: How to Write Flexible Documented Tested Python Code for Research Computing,[Ken Youens-Clark],61.18,456,5,8,1,0,0,0,0,OReilly Media,0.333333333333333
+Head First Python: A Brain-Friendly Guide,[Paul Barry],50.62,622,4.6,855,0.75,0.14,0.05,0.02,0.03,OReilly Media,0.302
+Learning Python with Raspberry Pi,"[Alex Bradbury,Ben Everard]",17.39,288,4.2,160,0.53,0.29,0.09,0.05,0.05,Wiley,0.282
+Data Visualization in Python,[Daniel Nelson],37.99,345,3.3,12,0.55,0.11,0.34,0,0,Independently published (September 15 2020),0.280666666666667
+Intuitive Python: Productive Development for Projects that Last,[David Muller],17.59,142,5,3,1,0,0,0,0,Pragmatic Bookshelf,0.333333333333333
+Python for Microcontrollers: Getting Started with MicroPython,[Donald Norris],16.63,288,4.2,79,0.52,0.29,0.09,0.07,0.02,McGraw Hill TAB,0.279333333333333
+Python Testing with pytest: Simple Rapid Effective and Scalable,[Brian Okken],37.06,274,4.5,37,0.68,0.22,0.06,0.04,0,Pragmatic Bookshelf,0.302666666666667
+Python Cookbook Third Edition,,50.68,704,4.6,561,0.77,0.15,0.04,0.02,0.02,OReilly Media,0.308666666666667
+Python in easy steps,,10.66,192,4.6,370,0.75,0.14,0.07,0.02,0.02,In Easy Steps Limited,0.305333333333333
+Python Programming: The Ultimate Beginners Guide to Learn Python Programming Step--Step (Computer Programming),,25.99,148,4.5,37,0.72,0.14,0.1,0.05,0,Independently published (December 20 2021),0.304
+Advanced Python Programming: Accelerate your Python programs using proven techniques and design patterns 2nd Edition,[Quan Nguyen],49.99,606,4.3,12,0.65,0.11,0.12,0.12,0,Packt Publishing,0.286
+High Performance Python: Practical Performant Programming for Humans,"[Micha Gorelick,Ian Ozsvald]",28.49,468,4.7,139,0.8,0.12,0.07,0.01,0,OReilly Media,0.314
+Doing Math with Python: Use Programming to Explore Algebra Statistics Calculus and More!,[Amit Saha],28.02,264,4.5,157,0.73,0.17,0.05,0.02,0.03,No Starch Press,0.303333333333333
+Learn Quantum Computing with Python and IBM Quantum Experience: A hands-on introduction to quantum computing and writing your own quantum programs with Python,[Robert Loredo],41.99,510,4.5,91,0.71,0.17,0.06,0.02,0.04,Packt Publishing (September 28 2020),0.299333333333333
+Interpretable Machine Learning with Python: Build explainable fair and robust high-performance models with hands-on real-world examples 2nd Edition,[Serg MasÃ­s],49.99,698,,0,0,0,0,0,0,Packt Publishing - ebooks Account (November 9 2022),0
+Programming with MicroPython: Embedded Programming with Microcontrollers and Python,[Nicholas H. Tollervey],39.49,214,4.1,70,0.57,0.17,0.12,0.06,0.08,OReilly Media,0.272666666666667
+Using Python for Principles of Econometrics,[Constantin Colonescu],29.4,381,5,2,1,0,0,0,0,Independently published (December 15 2021),0.333333333333333
+Network Programming in Python: The Basic: A Detailed Guide to Python 3 Network Programming and Management (English Edition),[John Galbraith],24.95,521,,0,0,0,0,0,0,BPB Publications (May 3 2022),0
+Classic Computer Science Problems in Python,[David Kopec],29.99,224,4.4,131,0.66,0.16,0.1,0.04,0.04,Manning,0.290666666666667
+Hyperparameter Tuning with Python: Boost your machine learning models performance via hyperparameter tuning,[Louis Owen],44.99,306,5,2,1,0,0,0,0,Packt Publishing (July 29 2022),0.333333333333333
+Ethical Hacking: A Hands-on Introduction to Breaking In,[Daniel G. Graham],32.99,376,4.8,85,0.84,0.13,0.03,0,0,No Starch Press (November 2 2021),0.320666666666667
+Python Flash Cards: Syntax Concepts and Examples,[Eric Matthes],24.48,101,4.7,387,0.77,0.15,0.05,0.01,0.01,No Starch Press,0.308666666666667
+The Pythonic Way: An Architectâ€™s Guide to Conventions and Best Practices for the Design Development Testing and Management of Enterprise Python Code (English Edition),[Sonal Raj],29.95,512,5,1,1,0,0,0,0,BPB Publications (September 9 2021),0.333333333333333
+Flask Web Development: Developing Web Applications with Python,[Miguel Grinberg],36.49,312,4.5,229,0.71,0.16,0.08,0.03,0.02,OReilly Media,0.300666666666667
+Python Scripting for ArcGIS Pro,[Paul A. Zandbergen],50.99,412,4.5,131,0.69,0.18,0.08,0.03,0.01,Esri Press,0.298666666666667
+Artificial Intelligence in Finance: A Python-Based Guide,[Yves Hilpisch],45.5,478,4.3,41,0.71,0.13,0.04,0.06,0.07,OReilly Media,0.292
+Algorithms Python (2 Edition): Easy to learn algorithms through full-color diagrams. (Easy Learning Python and design patterns and data structures and algorithms),[yang hu],49.99,272,,0,0,0,0,0,0,Independently published (June 30 2022),0
+Algorithmic Trading with Python: Quantitative Methods and Strategy Development,[Chris Conlan],28.49,126,4.2,56,0.61,0.15,0.13,0.06,0.05,Independently published (April 9 2020),0.280666666666667
+Quantitative Finance with Python: A Practical Guide to Investment Management Trading and Financial Engineering (Chapman and Hall/CRC Financial Mathematics Series),[Chris Kelliher],96,659,,0,0,0,0,0,0,Chapman and Hall/CRC,0
+Violent Python: A Cookbook for Hackers Forensic Analysts Penetration Testers and Security Engineers,"[""TJ OConnor""]",46.56,288,4.5,375,0.74,0.14,0.07,0.02,0.03,Syngress,0.302666666666667
+Programming ArcGIS Pro with Python (2nd Edition),[Eric Pimpler],44,266,5,1,1,0,0,0,0,Independently published (April 19 2021),0.333333333333333
+Foundations of Statistics for Data Scientists: With R and Python (Chapman & Hall/CRC Texts in Statistical Science),,98.36,468,5,3,1,0,0,0,0,Chapman and Hall/CRC,0.333333333333333
+Interactive Data Visualization with Python: Present your data as an effective and compelling story 2nd Edition,"[Abha Belorkar,Sharath Chandra Guntuku et al.]",44.99,362,4.3,19,0.58,0.27,0.07,0.07,0,Packt Publishing,0.288666666666667
+PYTHON PROGRAMMING: 3 BOOKS IN 1: The Complete guide to Learn Everything you Need to Know about Python,[Clive Campbell],29.99,602,4.4,160,0.67,0.17,0.07,0.04,0.05,Independently published (April 20 2020),0.291333333333333
+A Smarter Way to Learn Python: Learn it faster. Remember it longer.,[Mark Myers],19.95,236,4.6,1059,0.75,0.14,0.07,0.02,0.02,CreateSpace Independent Publishing Platform (August 9 2017),0.305333333333333
+Fundamentals of Python: First Programs,[Kenneth A. Lambert],69.07,476,4.4,112,0.69,0.12,0.12,0.03,0.04,Cengage Learning,0.292666666666667
+IoT and Edge Computing for Architects: Implementing edge and IoT systems from sensors to clouds with communication systems analytics and security 2nd Edition,[Perry Lea],44.99,632,4.5,64,0.66,0.22,0.12,0,0,Packt Publishing (March 6 2020),0.302666666666667
+Digital Forensics and Incident Response: Incident response techniques and procedures to respond to modern cyber threats 2nd Edition,[Gerard Johansen],39.99,448,4.6,84,0.75,0.17,0.04,0.02,0.01,Packt Publishing (January 29 2020),0.306666666666667
+Learn JavaScript Quickly: A Complete Beginnerâ€™s Guide to Learning JavaScript Even If Youâ€™re New to Programming (Crash Course With Hands-On Project),[Code Quickly],16.89,174,4.5,462,0.7,0.18,0.09,0.02,0.01,Drip Digital (November 10 2020),0.302666666666667
+Genetic Algorithms with Python,[Clinton Sheppard],19.97,423,4.4,41,0.7,0.13,0.07,0.04,0.06,CreateSpace Independent Publishing Platform (April 29 2016),0.291333333333333
+Python 3 Standard Library Example The (Developers Library),,51.29,1456,4.5,117,0.74,0.14,0.06,0.04,0.02,Addison-Wesley Professional,0.302666666666667
+Python in 24 Hours Sams Teach Yourself,,30.46,320,4.2,112,0.65,0.16,0.05,0.06,0.08,Sams Publishing,0.282666666666667
+Introduction to Computation and Programming Using Python third edition: With Application to Computational Modeling and Understanding Data,[John V. Guttag],52.25,496,4.6,109,0.76,0.13,0.06,0.04,0.02,The MIT Press,0.306666666666667
+Python: All That Jumping,[John Yoon Ph.D.],37.95,183,,0,0,0,0,0,0,Independently published (August 16 2022),0
+Learn Python Quickly: A Complete Beginnerâ€™s Guide to Learning Python Even If Youâ€™re New to Programming (Crash Course With Hands-On Project),,17.27,175,4.4,382,0.62,0.21,0.12,0.03,0.02,Drip Digital (March 22 2020),0.292
+Mastering GUI Programming with Python: Develop impressive cross-platform GUI applications with PyQt,[Alan D. Moore],39.99,542,4.3,110,0.6,0.24,0.07,0.02,0.07,Packt Publishing (May 24 2019),0.285333333333333
+Problem Solving with Algorithms and Data Structures Using Python SECOND EDITION,"[Bradley N. Miller,David L. Ranum]",42.75,438,4.6,137,0.73,0.18,0.04,0.01,0.03,Franklin Beedle & Associates,0.302666666666667
+Clean Code in Python: Develop maintainable and efficient code 2nd Edition,[Mariano Anaya],44.64,422,4.6,89,0.78,0.13,0.04,0.05,0,Packt Publishing,0.309333333333333
+Continuous Delivery with Docker and Jenkins: Create secure applications building complete CI/CD pipelines 2nd Edition,[Rafal Leszko],46.99,350,4.4,77,0.6,0.28,0.1,0.02,0,Packt Publishing,0.297333333333333
+Python for SAS Users: A SAS-Oriented Introduction to Python,"[Randy Betancourt,Sarah Chen]",37.99,451,4.4,41,0.68,0.2,0.08,0.03,0,Apress,0.3
+Fundamentals of Python: Data Structures (MindTap Course List),[Kenneth Lambert],71.99,448,4.2,10,0.56,0.31,0.13,0,0,Cengage Learning,0.295333333333333
+Microsoft Power BI Cookbook: Gain expertise in Power BI with over 90 hands-on recipes tips and use cases 2nd Edition,"[Greg Deckler,Brett Powell]",49.39,654,4.7,43,0.77,0.15,0.04,0.04,0,Packt Publishing,0.31
+Dive Into Algorithms: A Pythonic Adventure for the Intrepid Beginner,[Bradford Tuckfield],24.99,248,4.5,79,0.69,0.2,0.08,0.02,0,No Starch Press (January 25 2021),0.302
+Learn to Code Solving Problems: A Python Programming Primer,[Daniel Zingaro],23.06,336,4.7,42,0.78,0.13,0.1,0,0,No Starch Press (June 21 2021),0.314666666666667
+Hands-On Data Preprocessing in Python: Learn how to effectively prepare data for successful data analytics,[Roy Jafari],49.99,602,5,17,1,0,0,0,0,Packt Publishing (January 21 2022),0.333333333333333
+Practical Python Programming for IoT: Build advanced IoT projects using a Raspberry Pi 4 MQTT RESTful APIs WebSockets and Python 3,[Gary Smart],39.99,516,4.4,45,0.6,0.29,0.05,0.03,0.03,Packt Publishing (November 12 2020),0.293333333333333
+Hands-On Explainable AI (XAI) with Python: Interpret visualize explain and integrate reliable AI for fair secure and trustworthy AI apps,[Denis Rothman],49.99,454,3.8,22,0.38,0.26,0.27,0.09,0,Packt Publishing (July 31 2020),0.262
+Python for Data Analysis: A Beginners Guide to Master the Fundamentals of Data Science and Data Analysis Using Pandas Numpy and Ipython (Programming Languages for Beginners),,17.97,173,4.3,30,0.61,0.14,0.2,0.05,0,Independently published (August 26 2021),0.287333333333333
+Python Interview Questions: Brush up for your next Python interview with 240+ solutions on most common challenging interview questions (English Edition),[Swati Saxena],29.95,144,3.1,18,0.21,0.27,0.17,0.13,0.22,BPB Publications (January 19 2021),0.208
+Python: 2 Manuscripts in 1 book: -Python For Beginners -Python 3 Guide,[Timothy C. Needham],24.95,256,4.1,243,0.56,0.21,0.11,0.06,0.07,Independently published (October 17 2018),0.277333333333333
+Practical Discrete Mathematics: Discover math principles that fuel algorithms for computer science and machine learning with Python,,56.69,330,4.3,34,0.65,0.18,0.07,0.05,0.05,Packt Publishing (February 22 2021),0.288666666666667
+Python Automation Cookbook: 75 Python automation ideas for web scraping data wrangling and processing Excel reports emails and more 2nd Edition,[Jaime Buelta],39.99,526,4.4,78,0.71,0.14,0.07,0.03,0.05,Packt Publishing (May 29 2020),0.295333333333333
+DATA STRUCTURE AND ALGORITHMS: BUILD IN PYTHON,"[Dr. RACHANA KAMBLE,AYUSHI GODIYA et al.]",8.66,362,,0,0,0,0,0,0,Independently published (May 23 2022),0
+Python One-Liners: Write Concise Eloquent Python Like a Professional,[Christian Mayer],35.81,216,4.8,117,0.81,0.15,0.02,0.02,0,No Starch Press,0.316666666666667
+Expert Python Programming: Master Python learning the best coding practices and advanced programming concepts 4th Edition,"[Michal Jaworski,Tarek Ziade]",39.94,630,4.5,57,0.76,0.12,0.05,0.06,0,Packt Publishing (May 28 2021),0.303333333333333
+Simulation with Python: Develop Simulation and Modeling in Natural Sciences Engineering and Social Sciences,"[Rongpeng Li,Aiichiro Nakano]",39.99,181,,0,0,0,0,0,0,Apress,0
+Web Development with Django: Learn to build modern web applications with a Python-based framework,"[Ben Shaw,Saurabh Badhwar et al.]",41.99,826,4.5,65,0.7,0.19,0.04,0.03,0.04,Packt Publishing (February 25 2021),0.298666666666667
+Python for Algorithmic Trading: From Idea to Cloud Deployment,[Yves Hilpisch],44.49,380,4.3,94,0.66,0.15,0.09,0.05,0.05,OReilly Media,0.288
+Clean Code: A Handbook of Agile Software Craftsmanship,,47.49,464,4.7,4528,0.81,0.12,0.04,0.01,0.02,Pearson,0.312666666666667
+Serious Python: Black-Belt Advice on Deployment Scalability Testing and More,[Julien Danjou],29.24,240,4.7,329,0.79,0.13,0.05,0.01,0.01,No Starch Press,0.31
+Python Natural Language Processing Cookbook: Over 50 recipes to understand analyze and generate text for implementing language processing tasks,[Zhenya AntiÄ‡],37.99,284,4.2,38,0.61,0.17,0.08,0.07,0.07,Packt Publishing (March 19 2021),0.278666666666667
+Python Crash Course 3rd Edition,[Eric Matthes],40.49,552,,0,0,0,0,0,0,No Starch Press,0
+The Recursive Book of Recursion: Ace the Coding Interview with Python and JavaScript,[Al Sweigart],36.94,328,5,6,1,0,0,0,0,No Starch Press (August 16 2022),0.333333333333333
+Bayesian Analysis with Python: Introduction to statistical modeling and probabilistic programming using PyMC3 and ArviZ 2nd Edition,[Osvaldo Martin],44.99,356,4.1,44,0.55,0.21,0.06,0.09,0.08,Packt Publishing (December 26 2018),0.268666666666667
+Python: For Beginners: A Crash Course Guide To Learn Python in 1 Week,[Timothy C. Needham],17.97,135,4.3,3034,0.66,0.16,0.1,0.03,0.05,Independently published (September 21 2017),0.29
+Murachs Python Programming (2nd Edition),"[Joel Murach,Michael Urban]",56.53,,4.6,82,0.8,0.07,0.07,0.02,0.04,,0.304666666666667
+Mastering Reinforcement Learning with Python: Build next-generation self-learning models using reinforcement learning techniques and best practices,[Enes Bilgin],46.99,544,4.4,32,0.67,0.19,0.09,0.05,0,Packt Publishing (December 18 2020),0.298666666666667
+Introduction to Radar With Python and Matlab,[Lee Andrew Harrison],154.23,,4.1,11,0.52,0.22,0.13,0.13,0,,0.275333333333333
+Python Pocket Reference: Python In Your Pocket (Pocket Reference (OReilly)),,13.79,262,4.5,818,0.7,0.2,0.06,0.02,0.02,OReilly Media,0.302666666666667
+Python for DevOps: Learn Ruthlessly Effective Automation,"[Noah Gift,Kennedy Behrman et al.]",35.99,506,4.5,222,0.73,0.12,0.08,0.04,0.02,OReilly Media,0.298
+The Python Bible 7 in 1: Volumes One To Seven (Beginner Intermediate Data Science Machine Learning Finance Neural Networks Computer Vision),[Florian Dedov],37.99,507,4.5,128,0.71,0.16,0.06,0.04,0.03,Independently published (March 23 2020),0.298666666666667
+Mastering Python Networking: Your one-stop solution to using Python for network automation programmability and DevOps 3rd Edition,"[Eric Chou,Michael Kennedy et al.]",55.09,576,4.6,139,0.76,0.13,0.09,0.01,0.01,Packt Publishing,0.308
+Automate the Boring Stuff with Python 2nd Edition: Practical Programming for Total Beginners,[Al Sweigart],26.49,592,4.7,2538,0.82,0.12,0.03,0.01,0.01,No Starch Press,0.313333333333333
+Introducing Python: Modern Computing in Simple Packages,[Bill Lubanovic],24.49,630,4.7,346,0.81,0.12,0.03,0.01,0.02,OReilly Media,0.310666666666667
+Statistics for People Who (Think They) Hate Statistics,,31.99,512,4.5,697,0.77,0.11,0.06,0.02,0.05,SAGE Publications Inc,0.304
+Statistics For Dummies (For Dummies (Lifestyle)),,11.99,416,4.3,1659,0.64,0.18,0.1,0.04,0.04,For Dummies,0.289333333333333
+Statistics for Absolute Beginners (Second Edition) (Data Science Python & Statistics for Beginners),[Oliver Theobald],14.88,156,4.4,137,0.7,0.12,0.11,0.02,0.06,Independently published (June 18 2020),0.294
+Introduction to Probability Statistics and Random Processes,[Hossein Pishro-Nik],36.58,744,4.6,233,0.8,0.11,0.03,0.03,0.02,Kappa Research LLC (August 24 2014),0.307333333333333
+Princeton Review AP Statistics Prep 2022: 4 Practice Tests + Complete Content Review + Strategies & Techniques (2022) (College Test Preparation),[The Princeton Review],18.99,464,4.6,130,0.77,0.16,0.03,0.01,0.03,Princeton Review (August 3 2021),0.308666666666667
+5 Steps to a 5: AP Statistics 2023,"[Jared Derksen,DeAnna Krause McDonald]",18,384,,0,0,0,0,0,0,McGraw Hill,0
+The Foundations of Statistics,[Leonard J. Savage],11.89,310,4.5,102,0.71,0.18,0.06,0.02,0.03,Dover Publications,0.301333333333333
+Princeton Review AP Statistics Prep 2023: 5 Practice Tests + Complete Content Review + Strategies & Techniques (College Test Preparation),[The Princeton Review],18.99,464,4.6,3,0.63,0.37,0,0,0,Princeton Review (August 23 2022),0.308666666666667
+Mathematical Statistics with Applications,"[Dennis Wackerly,William Mendenhall et al.]",95.66,944,4.2,282,0.63,0.15,0.11,0.04,0.07,Thomson Brooks/Cole,0.282
+Statistics in Plain English,[Timothy C. Urdan],39.16,266,4.7,190,0.8,0.11,0.07,0.02,0,Routledge,0.312666666666667
+Statistics Workbook For Dummies with Online Practice,[Deborah J. Rumsey],18.99,336,4.3,219,0.62,0.18,0.12,0.04,0.04,For Dummies,0.286666666666667
+UPDATED Version of The Practice of Statistics,"[Daren S. Starnes,Josh Tabor]",179.95,1024,4.4,41,0.76,0.08,0.04,0.03,0.09,W. H. Freeman,0.292666666666667
+Data Mining for Business Analytics: Concepts Techniques and Applications in R,"[Galit Shmueli,Peter C. Bruce et al.]",105.45,576,4.4,147,0.68,0.13,0.1,0.05,0.04,Wiley,0.290666666666667
+Probability and Statistics for Economists,[Bruce Hansen],60,416,,0,0,0,0,0,0,Princeton University Press (August 16 2022),0
+Painless Statistics (Barrons Painless),[Patrick Honner],14.99,320,5,4,1,0,0,0,0, In the 1930s Manuel H. Barron opened a bookstore in Brooklyn New York.Â ,0.333333333333333
+Discovering Statistics Using IBM SPSS Statistics: North American Edition,[Andy Field],64.7,816,4.4,620,0.71,0.13,0.05,0.04,0.07,SAGE Publications Ltd,0.291333333333333
+AP Statistics Flashcards Fourth Edition: Up-to-Date Practice + Sorting Ring for Custom Study (Barrons Test Prep),[Martin Sternstein Ph.D.],29.99,513,,0,0,0,0,0,0, In the 1930s Manuel H. Barron opened a bookstore in Brooklyn New York.Â ,0
+Outline of Basic Statistics: Dictionary and Formulas (Dover Books on Mathematics),"[John E. Freund,Frank J. Williams]",11.95,208,4.2,22,0.51,0.19,0.23,0.06,0,Dover Publications,0.274666666666667
+Essentials of Statistics,[Mario Triola],170.15,648,4.5,425,0.74,0.12,0.06,0.02,0.05,Pearson,0.296666666666667
+Statistics for People Who (Think They) Hate Statistics: Using Microsoft Excel,"[Neil J. Salkind,Bruce B. Frey]",84.85,512,4.4,70,0.7,0.17,0.05,0.05,0.04,SAGE Publications Inc,0.298
+Statistics for the Behavioral Sciences - Standalone Book,"[Frederick J Gravetter,Larry B. Wallnau]",94.46,768,4.5,682,0.75,0.12,0.06,0.02,0.05,Cengage Learning,0.3
+Statistics for Business and Economics,"[James McClave,P. George Benson et al.]",223.99,888,4.3,165,0.68,0.12,0.08,0.04,0.09,Pearson,0.286
+The Little SASÂ® Book: A Primer Sixth Edition,"[Lora D. Delwiche,Susan J. Slaughter]",54.1,364,4.6,283,0.75,0.16,0.05,0.02,0.02,SAS Institute,0.306666666666667
+Applied Statistics II: Multivariable and Multivariate Techniques,[Rebecca M. Warner],95.92,712,4.3,24,0.78,0.06,0.06,0.1,0,SAGE Publications Inc,0.301333333333333
+A Gentle Introduction to Stata,[Alan C. Acock],69.56,570,4.6,74,0.81,0.09,0.05,0.02,0.03,Stata Press,0.308666666666667
+Clinical Biostatistics and Epidemiology Made Ridiculously Simple: An Incredibly Easy Way to Learn for Medical Nursing PA Students And Other Healthcare Professionals (MedMaster Medical Books),"[Ann Weaver Ph.D.,Stephen Goldberg M.D.]",21.8,104,4.5,307,0.7,0.17,0.09,0.01,0.03,MedMaster,0.3
+CRC Standard Probability and Statistics Tables and Formulae,"[Daniel Zwillinger,Stephen Kokoska]",188.73,568,4.9,6,0.9,0.1,0,0,0,CRC Press,0.326666666666667
+Fundamentals of Programming in SAS: A Case Studies Approach,"[James Blum,Jonathan Duggins]",109.95,404,4.4,13,0.82,0.18,0,0,0,SAS Institute (July 23 2019),0.321333333333333
+Statistics Done Wrong: The Woefully Complete Guide,[Alex Reinhart],19.99,176,4.5,300,0.68,0.21,0.06,0.03,0.02,No Starch Press,0.3
+Learning SAS Example: A Programmers Guide Second Edition,[Ron Cody],81.53,536,4.6,80,0.73,0.17,0.08,0.02,0,SAS Institute,0.307333333333333
+Statistics II For Dummies,[Deborah J. Rumsey],16.66,448,4.4,18,0.49,0.38,0.13,0,0,For Dummies,0.290666666666667
+Stats: Modeling the World,"[David Bock,Paul Velleman et al.]",197.32,864,4.1,24,0.59,0.21,0.06,0.14,0,Pearson,0.283333333333333
+First Course in Probability A,[Sheldon Ross],215.32,528,4.2,51,0.65,0.15,0.03,0.07,0.1,Pearson,0.278666666666667
+ISE STATISTICS FOR ENGINEERS AND SCIENTISTS (ISE HED IRWIN INDUSTRIAL ENGINEERING),[William Navidi Prof.],37.17,,4.2,35,0.61,0.18,0.07,0.04,0.1,McGraw-Hill Education,0.277333333333333
+Introduction to Probability (Cambridge Mathematical Textbooks),,70.99,442,4.3,67,0.68,0.13,0.08,0.09,0.03,Cambridge University Press,0.291333333333333
+Causal Inference: The Mixtape,[Scott Cunningham],31.99,584,4.6,274,0.82,0.08,0.05,0.01,0.04,Yale University Press (January 26 2021),0.308666666666667
+Introduction to Mathematical Statistics and Its Applications An,"[Richard Larsen,Morris Marx]",159.99,752,4.4,60,0.71,0.11,0.09,0.03,0.06,Pearson,0.292
+APÂ® Statistics Crash Course Book + Online: Get a Higher Score in Less Time (Advanced Placement (AP) Crash Course),,14.16,272,4.8,20,0.78,0.22,0,0,0,Research & Education Association,0.318666666666667
+Introduction to the Practice of Statistics,"[David S. Moore,George P. McCabe et al.]",240.34,784,3.6,20,0.52,0.07,0.15,0.25,0,W. H. Freeman,0.255333333333333
+Data Mining for Business Analytics: Concepts Techniques and Applications with XLMiner,"[Peter C. Bruce,Galit Shmueli et al.]",110.83,560,4,143,0.57,0.16,0.11,0.06,0.1,Wiley,0.269333333333333
+Study Guide to Accompany Salkind and Freyâ€²s Statistics for People Who (Think They) Hate Statistics,,30,160,4.3,34,0.75,0.04,0.04,0.04,0.12,SAGE Publications Inc,0.282
+Elementary Statistics: A Step Step Approach,[Allan Bluman],129,880,4.5,502,0.73,0.13,0.06,0.01,0.06,McGraw Hill,0.295333333333333
+Practice Makes Perfect Statistics (Practice Makes Perfect (McGraw-Hill)),,14.06,160,4.6,92,0.79,0.1,0.06,0.03,0.02,McGraw Hill,0.307333333333333
+Mathletics: How Gamblers Managers and Fans Use Mathematics in Sports Second Edition,"[Wayne L. Winston,Scott Nestler et al.]",18.99,608,4.8,24,0.81,0.13,0.05,0,0,Princeton University Press,0.314666666666667
+Schaums Outline of Statistics Sixth Edition (Schaums Outlines),,25.48,600,4.2,58,0.61,0.19,0.08,0.08,0.04,McGraw Hill,0.283333333333333
+Biostatistics for the Biological and Health Sciences,"[Marc Triola,Mario Triola et al.]",179.14,720,4.5,161,0.77,0.1,0.05,0.02,0.07,Pearson,0.300666666666667
+An Introduction to Formal Languages and Automata,[Peter Linz],62.85,450,4.4,341,0.67,0.19,0.06,0.02,0.07,Jones & Bartlett Learning,0.293333333333333
+Doing Quantitative Research in the Social Sciences: An Integrated Approach to Research Design Measurement and Statistics,[Thomas R. Black],55.54,768,4.4,27,0.63,0.24,0.05,0.02,0.06,SAGE Publications Ltd,0.290666666666667
+Basic Business Statistics: Concepts and Applications (Whats New in Business Statistics),,100.99,840,4.4,121,0.73,0.1,0.08,0.03,0.07,Pearson,0.294666666666667
+Essentials of Statistics for the Behavioral Sciences (MindTap Course List),"[Frederick J Gravetter,Larry B. Wallnau et al.]",85.79,608,4.4,154,0.77,0.08,0.05,0.02,0.09,Cengage Learning,0.296666666666667
+Statistics for Business and Economics Global Edition,"[Paul Newbold,William Carlson et al.]",74.96,800,4.6,27,0.8,0.09,0.06,0.06,0,Pearson,0.310666666666667
+Statistics Translated: A Step--Step Guide to Analyzing and Interpreting Data,[Steven R. Terrell],55,433,4.8,6,0.78,0.22,0,0,0,The Guilford Press,0.318666666666667
+Statistics for the Behavioral Sciences,[Gregory J. Privitera],138.99,816,4.4,183,0.73,0.09,0.07,0.05,0.06,SAGE Publications Inc,0.292
+Modern Mathematical Statistics with Applications (Springer Texts in Statistics),"[Jay L. Devore,Kenneth N. Berk et al.]",121.11,988,4,1,1,0,0,0,0,Springer,0.333333333333333
+Practical Statistics For Educators,[Ruth Ravid],50,310,4.6,65,0.77,0.17,0.02,0.04,0,Rowman & Littlefield,0.311333333333333
+Statistics Made Simple for School Leaders: A New Approach for Using Student Staff and Community Data 3rd Edition,"[Susan Rovezzi Carroll,David J. Carroll]",35,140,5,1,1,0,0,0,0,Rowman & Littlefield Publishers,0.333333333333333
+Using SPSS for Windows and Macintosh (7th Edition),"[Samuel B. Green,Neil J. Salkind]",279.95,448,4.4,189,0.7,0.13,0.07,0.05,0.05,Pearson,0.292
+An Adventure in Statistics: The Reality Enigma,[Andy Field],52,664,4.7,4,0.7,0.3,0,0,0,SAGE Publications Ltd,0.313333333333333
+How to Work With Probability and Statistics Grades 6-8 (Math How To...),[Robert W. Smith],8.99,48,3.2,3,0.39,0.32,0.29,0,0,Teacher Created Resources (January 1 2002),0.273333333333333
+Essential Statistics for the Behavioral Sciences,[Gregory J. Privitera],100,640,4.4,140,0.69,0.15,0.07,0.06,0.03,SAGE Publications Inc,0.294
+Asymptotic Statistics (Cambridge Series in Statistical and Probabilistic Mathematics Series Number 3),,67.99,462,4.6,38,0.81,0.06,0.09,0.04,0,Cambridge University Press (June 19 2000),0.309333333333333
+Loose Leaf for Business Statistics in Practice,"[Bruce Bowerman,Anne M. Drougas et al.]",103.48,928,4.5,2,0.52,0.48,0,0,0,McGraw Hill,0.301333333333333
+Survey Methodology,"[Robert M. Groves,Floyd J. Fowler Jr. et al.]",52.99,486,4.3,91,0.67,0.1,0.11,0.04,0.08,Wiley,0.282666666666667
+Statistics for Healthcare Professionals: An Introduction,"[Ian Scott,Deborah Mazhindu]",35.2,256,4.4,43,0.64,0.22,0.05,0.05,0.04,SAGE Publications Ltd,0.291333333333333
+Essentials of Social Statistics for a Diverse Society,"[Anna Y. Leon-Guerrero,Chava Frankfort-Nachmias et al.]",104.5,460,4.5,17,0.78,0.14,0.08,0,0,SAGE Publications Inc,0.313333333333333
+Natural Language Processing in Action: Understanding analyzing and generating text with Python,"[Hobson Lane,Hannes Hapke et al.]",40.49,544,4.3,112,0.67,0.16,0.07,0.04,0.07,Manning,0.29
+Stats: Data and Models,"[David Bock,Paul Velleman et al.]",189.99,1024,4.3,33,0.74,0.07,0.07,0.04,0.09,Pearson,0.290666666666667
+The Statistical Sleuth: A Course in Methods of Data Analysis,"[Fred Ramsey,Daniel Schafer]",75.31,784,4,69,0.55,0.17,0.08,0.09,0.11,Cengage Learning,0.264
+Intro Stats,"[Richard De Veaux,Paul Velleman et al.]",181.35,800,4.1,112,0.61,0.16,0.09,0.03,0.11,Pearson,0.275333333333333
+The Humongous Book of Statistics Problems (Humongous Books),"[W. Michael Kelley,Robert A. Donnelly]",17.69,560,4.4,207,0.67,0.17,0.09,0.02,0.05,Alpha,0.292666666666667
+The Practice of Statistics,"[Daren S. Starnes,Dan Yates et al.]",99.99,960,4.6,73,0.77,0.11,0.11,0.01,0,W. H. Freeman,0.309333333333333
+Introductory Statistics: Exploring the World Through Data,"[Robert Gould,Colleen Ryan]",197.32,800,4.4,75,0.7,0.17,0.06,0.03,0.04,Pearson,0.297333333333333
+Statistics for Nursing: A Practical Approach: A Practical Approach,[Elizabeth Heavey],75.24,302,4.4,389,0.71,0.13,0.07,0.03,0.06,Jones & Bartlett Learning,0.293333333333333
+Barrons AP Statistics 9th Edition,[Martin Sternstein Ph.D.],37.68,648,4.6,375,0.76,0.15,0.05,0.02,0.03,Barrons Educational Series,0.308
+Making Sense of Medical Statistics,[Munier Hossain],25.99,200,4.5,48,0.73,0.13,0.09,0.05,0,Cambridge University Press,0.302666666666667
+Statistics and Data Visualization Using R: The Art and Practice of Data Analysis,[David S. Brown],114.6,616,3,2,0.5,0.5,0,0,0,SAGE Publications Inc,0.3
+Research Methods Statistics and Applications,"[Kathrynn A. Adams,Eva K. Lawrence]",95.08,672,4.5,124,0.75,0.11,0.04,0.04,0.06,SAGE Publications Inc,0.296666666666667
+Statistics: Informed Decisions Using Data (5th Edition)-Stand alone,[Michael Sullivan III],143.71,960,4.3,729,0.69,0.11,0.08,0.02,0.1,Pearson,0.284666666666667
+A Guide to R for Social and Behavioral Science Statistics,"[Brian Joseph Gillespie,Kathleen Charli Hibbert et al.]",45,304,4.6,14,0.74,0.16,0.1,0,0,SAGE Publications Inc,0.309333333333333
+Statistics for the Life Sciences,"[Myra Samuels,Jeffrey Witmer et al.]",191.99,648,4.3,135,0.72,0.08,0.08,0.05,0.07,Pearson,0.288666666666667
+Second Course in Statistics A: Regression Analysis,"[William Mendenhall,Terry Sincich]",170.66,848,4.6,16,0.71,0.14,0.15,0,0,Pearson,0.304
+Statistics: Unlocking the Power of Data,"[Patti Frazer Lock,Kari Lock Morgan et al.]",118.7,864,3.7,10,0.55,0.2,0.13,0.12,0,Wiley,0.278666666666667
+Essential Calculus Skills Practice Workbook with Full Solutions,[Chris McMullen],9.99,151,4.6,1358,0.75,0.15,0.07,0.01,0.02,Zishka Publishing (August 16 2018),0.306666666666667
+Mark Twain - Statistics & Probability Grades 5 - 12,[Myrl Shireman],11.99,80,4.3,38,0.7,0.11,0.07,0.04,0.09,Mark Twain Media,0.288
+Probability & Statistics for Engineers & Scientists,"[Ronald Walpole,Raymond Myers et al.]",191.99,816,4.3,55,0.69,0.13,0.08,0.02,0.08,Pearson,0.288666666666667
+Statistics and Probability with Applications (High School),"[Daren S. Starnes,Josh Tabor et al.]",158.99,864,3,1,1,0,0,0,0,W. H. Freeman,0.333333333333333
+Understandable Statistics: Concepts and Methods,"[Charles Henry Brase,Corrinne Pellillo Brase]",82.63,839,4.5,344,0.72,0.14,0.07,0.02,0.05,Cengage Learning,0.297333333333333
+Learn Calculus Quickly: The Complete Guide To Easily Master Calculus in 100 Solved Equations!,[Math Wizo],9.99,84,4.3,201,0.61,0.2,0.1,0.03,0.06,Independently published (February 11 2019),0.284666666666667
+Statistics,"[James McClave,Terry Sincich]",253.32,896,4.3,101,0.67,0.13,0.08,0.03,0.08,Pearson,0.283333333333333
+Statistics Companion Workbook,[Adam H Littig],50,194,4.2,21,0.62,0.2,0.07,0.11,0,CreateSpace Independent Publishing Platform,0.288666666666667
+John E. Freunds Mathematical Statistics with Applications (Classic Version) (Pearson Modern Classics for Advanced Statistics Series),"[Irwin Miller,Marylees Miller]",106.65,560,4,69,0.64,0.09,0.06,0.05,0.16,Pearson,0.266666666666667
+Statistics for Business: Decision Making and Analysis,"[Robert Stine,Dean Foster]",223.98,830,4.5,45,0.77,0.1,0.08,0.05,0,Pearson,0.306
+Statistics in a Nutshell: A Desktop Quick Reference,,25.99,591,4.7,126,0.79,0.13,0.05,0.01,0.03,OReilly Media,0.311333333333333
+Introductory Statistics with Randomization and Simulation,"[David M Diez,Christopher D Barr et al.]",10,354,4.4,133,0.72,0.12,0.07,0.04,0.06,CreateSpace Independent Publishing Platform,0.295333333333333
+Essentials of Precalculus with Calculus Previews (Jones & Bartlett Learning Series in Mathematics),"[Dennis G. Zill,Jacqueline M. Dewar]",94.95,500,4.4,57,0.73,0.12,0.06,0.04,0.05,Jones & Bartlett Learning,0.296
+Real Stats: Using Econometrics for Political Science and Public Policy,[Michael A. Bailey],111.59,648,4.8,6,0.78,0.22,0,0,0,Oxford University Press,0.318666666666667
+Nonlinear Contingency Analysis,"[T. V. Joe Layng,Paul Thomas Andronis et al.]",31.96,194,4.9,28,0.95,0.05,0,0,0,Routledge,0.33
+Ultimate AP Statistics Practice Book: 100 Essential Problems Completely Explained on YouTube,[Kendall Roberg],14.7,112,4.6,55,0.8,0.12,0.03,0.05,0,CreateSpace Independent Publishing Platform (March 14 2017),0.311333333333333
+Schaums Outline of Probability and Statistics 4th Edition: 897 Solved Problems + 20 Videos (Schaums Outlines),"[John Schiller,R. Alu Srinivasan et al.]",22.8,432,4.4,161,0.63,0.21,0.09,0.04,0.03,McGraw Hill,0.291333333333333
+Tutor in a Books Statistics: Volume 2,[Dr. James R. Ph.D.],36,182,,0,0,0,0,0,0,CreateSpace Independent Publishing Platform (October 23 2016),0
+Problems And Solutions On Thermodynamics And Statistical Mechanics (second Edition) (Major American Universities Ph.d. Qualifying Questions And Solutions - Physics),"[Swee Cheng Lim,Choy Heng Lai et al.]",118,404,,0,0,0,0,0,0,WSPC,0
+SPSS Statistics For Dummies,"[Jesus Salcedo,Keith McCormick]",22.99,480,4.4,124,0.63,0.23,0.09,0.02,0.03,For Dummies,0.294
+Statistics Made Simple for School Leaders: Data-Driven Decision Making (Scarecrow Education Book),[David J. Carroll],42,162,4.1,33,0.59,0.14,0.1,0.06,0.1,ScarecrowEducation (December 1 2002),0.268666666666667
+Elementary Statistics,[Mario Triola],171.47,792,4.4,1454,0.73,0.12,0.07,0.02,0.06,Pearson,0.296
+Probability and Statistical Inference,"[Robert Hogg,Elliot Tanis et al.]",181.32,560,4.9,20,0.93,0.07,0,0,0,Pearson,0.328666666666667
+Statistical Methods for the Social Sciences,[Alan Agresti],186.66,608,4.3,77,0.67,0.11,0.12,0.03,0.06,Pearson,0.284666666666667
+Causal Inference in Statistics - A Primer,"[Judea Pearl,Madelyn Glymour et al.]",33.24,160,4.5,194,0.75,0.12,0.06,0.01,0.05,Wiley,0.298666666666667
+5 Steps to a 5: AP Statistics 2022,"[Jared Derksen,DeAnna Krause McDonald]",18,384,4.7,18,0.87,0.13,0,0,0,McGraw Hill,0.324666666666667
+R for Data Science: Import Tidy Transform Visualize and Model Data,"[Garrett Grolemund,Hadley Wickham]",44.99,518,4.7,1361,0.81,0.12,0.04,0.01,0.01,OReilly Media,0.312
+Even You Can Learn Statistics and Analytics: An Easy to Understand Guide (Pearson Business Analytics Series),"[David M Levine,David F Stephan]",33.94,392,5,2,1,0,0,0,0,Addison-Wesley Professional,0.333333333333333
+Introduction to Probability and Statistics for Engineers and Scientists,[Sheldon M. Ross],112.47,704,3.3,4,0.45,0.27,0.28,0,0,Academic Press,0.278
+5 Steps to a 5: AP Statistics 2023 Elite Student Edition,"[Jared Derksen,DeAnna Krause McDonald]",28,,,0,0,0,0,0,0,McGraw Hill,0
+The Book of R: A First Course in Programming and Statistics,[Tilman M. Davies],28.33,832,4.6,327,0.74,0.16,0.06,0.02,0.03,No Starch Press,0.306
+Basic Business Statistics: A Casebook (Textbooks in Matheamtical Sciences),"[Dean P. Foster,Robert A. Stine et al.]",59.23,260,4.3,6,0.7,0.11,0.19,0,0,Springer,0.300666666666667
+Elementary Statistics: Picturing the World,"[Ron Larson,Betsy Farber]",129.99,704,4.5,1025,0.72,0.14,0.07,0.01,0.05,Pearson,0.296
+Making Sense of Statistics: A Conceptual Overview,"[Fred Pyrczak,Deborah M. Oh]",47.76,252,4.6,145,0.78,0.13,0.04,0.02,0.04,Routledge,0.308
+Psychology Statistics For Dummies,"[Donncha Hanna,Martin Dempster]",15.55,464,4.5,787,0.69,0.18,0.08,0.03,0.03,For Dummies,0.3

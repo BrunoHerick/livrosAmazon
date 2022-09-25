@@ -1,0 +1,12 @@
+Calcular a média ponderada de avaliação de cada livro.
+1 - A qtd de páginas influencia no preço ?
+    Não. Existem alguns outliers que podem ser eliminados quando analisados os dados, mas a correlação entre preço e qtd de páginas é baixa.
+
+2 - Existe diferença de preço entre as editoras ?
+    Existe considerando 5 amostras de 30 unidades das 5 editoras com mais livros vendidos para um total de 944. Mais da metade dos livros custam menos de 60 reais, porém quando feito a análise de variância, mostra que existem diferenças significativas de uma editora para outra.
+
+3 - A qtd de páginas influencia na avaliação ?
+    Não. A correlação mais alta (para 5 estrelas) é igual a 0.13 (baixa pois é menor que 0.5).
+
+4 - O preço influencia na avaliação ?
+    Não. Quando verificado no gráfico, podemos ter a sensação de que os livros mais baratos são os mais bem avaliados, mas quando analisados a fundo, percebemos que para aproximadamente 80% dos livros, 5 estrelas correspondem a mais da metade avaliações.
